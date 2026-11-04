@@ -11,7 +11,7 @@ from pathlib import Path
 import numpy as np
 import torch
 from connected_iqp_mlp_study import policy, specs, solve
-from majority_iqp_model_search import make_agent
+from paper_training import make_agent
 from optimized_connected_iqp import OptimizedConnectedMajorityIQP
 from optimized_iqp_training import OptimizedStrictWindowREINFORCE
 

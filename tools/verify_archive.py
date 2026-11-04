@@ -41,8 +41,10 @@ def main():
             nb=json.loads((ROOT/name).read_text())
             if nb.get('nbformat') != 4 or not isinstance(nb.get('cells'),list):
                 errors.append(f'Invalid notebook structure: {name}')
-    for required in ['README.md','LICENSE-QASP','docs/EXPERIMENTS.md','REPOSITORY_PROVENANCE.json',
-                     'connected_majority_iqp.py','qasp/rl/torchrl.py',
+    if any(n.startswith('qasp/') for n in current):
+        errors.append('QASP source must not be bundled: install the external dependency.')
+    for required in ['README.md','requirements.txt','docs/EXPERIMENTS.md','REPOSITORY_PROVENANCE.json',
+                     'connected_majority_iqp.py',
                      'results/connected_iqp_mlp_study/development_selection.json']:
         if required not in current: errors.append(f'Missing {required}')
     if errors:

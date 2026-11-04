@@ -1,5 +1,0 @@
-contrast,n_pairs,mean_difference,bootstrap_ci95_low,bootstrap_ci95_high
-rzzz20_minus_baseline_training_final_50,10,-45.69799999999999,-88.04400000000001,-6.113749999999981
-rzzz20_minus_rzzz10_training_final_50,10,-47.6,-89.998,-11.091799999999987
-rzzz20_minus_baseline_heldout,10,-44.31999999999999,-84.856125,-8.299499999999965
-rzzz20_minus_rzzz10_heldout,10,-45.522,-85.71509999999999,-11.20489999999999

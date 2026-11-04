@@ -3,7 +3,9 @@
 ## Executed checks
 
 - Parsed all published Python files successfully.
-- Validated all 28 notebooks against the nbformat schema after normalizing cell IDs.
+- Validated all 12 retained paper notebooks against the nbformat schema.
+- Executed the three connected-model reporting notebooks against saved records,
+  saving their rendered tables/figures without rerunning training.
 - Parsed ordinary Python notebook cells; cells using notebook magics are excluded
   from plain Python parsing.
 - Scanned file contents for common GitHub/OpenAI/AWS credential patterns and
@@ -15,6 +17,11 @@
 - Visually inspected the regenerated three-panel learning-curve figure.
 - Smoke-tested reference versus optimized connected-IQP probabilities and parameter
   gradients for 3, 9 and 21 qubits: exact equality on the tested input/initialization.
+- After extracting/renaming the helper modules, compared model state, outputs and
+  parameter gradients against the previous committed implementation: exact equality
+  on 3-, 9- and 21-qubit tests. Shared trainer definitions are AST-identical.
+- Verified that all 1,444 retained numerical data/checkpoint files (NPZ, PT,
+  Parquet and CSV) retain their previous SHA-256 hashes.
 - Verified the final root SHA-256 inventory locally before publication.
 
 Recomputed normalized AUCs:
@@ -35,7 +42,8 @@ test was rerun in the isolated environment instead.
 
 ## Not established by these checks
 
-No full notebook execution, complete multi-seed training rerun, full dependency
+No full training-notebook execution, complete multi-seed training rerun, full dependency
 lock resolution, complete independent statistical audit, or guarantee of bitwise
 cross-platform training reproduction is claimed. The original checkpoint files
-were not deserialized during archive preparation.
+were not deserialized during archive preparation. Full training with the external
+public QASP dependency has not been rerun across the entire notebook suite.

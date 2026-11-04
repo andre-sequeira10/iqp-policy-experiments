@@ -1,91 +1,65 @@
-# Reproducibility guide
+# Reproduction guide
 
-## Three different levels of reproduction
+## External QASP dependency
 
-1. **Archive integrity:** `python tools/verify_archive.py` checks release hashes,
-   required files, notebook structure, and absence of oversized GitHub files.
-2. **Analysis reproduction:** `python tools/replot_connected.py` checks the saved
-   20-seed return arrays against per-run metrics and redraws the main learning
-   curves. It does not claim to re-estimate every bootstrap interval in the paper.
-3. **Training reproduction:** requires the historical package environment, the
-   particular study protocol and substantial computation. The full research suite
-   has not been rerun as part of preparing this repository.
+Install `requirements.txt` from a separate environment. It obtains QASP from
+https://github.com/INESCTEC/qasp at public commit
+`4aeec0ba2714676b86abe499c39acdb9b910a6de`. No QASP package is included here.
 
-## Connected study
+Historical studies used different local QASP revisions and library versions.
+`requirements-historical.txt` records one observed package configuration, not a
+resolved lock for all experiments. The pinned public dependency and complete
+training suite have not been jointly rerun across all notebooks.
 
-`connected_iqp_mlp_study.py` contains the model grid, training protocol, development
-selection and test execution. The study uses development seeds 1001–1008 and test
-seeds 2001–2020, 500 episodes and a 200-step limit. The strict stopping safeguard
-requires a complete 100-episode window. The normalized episode AUC is
-`sum(returns) / (200 * 500)`; unsolved runs receive 501 for the restricted number of
-episodes to criterion. See `results/connected_iqp_mlp_study/protocol.json` and
-`development_selection.json` for the recorded decisions.
+## Reading and reproducing recorded outputs
 
-Read-only summary:
+- GitHub renders saved notebook outputs directly.
+- `python tools/verify_archive.py` checks the root manifest without importing QASP.
+- `python tools/replot_connected.py` reproduces learning curves from saved returns,
+  checks AUCs and convergence metrics, and writes only to `generated/`.
+- The connected, uniform-initialization and runtime reporting notebooks read saved
+  records and figures; their displayed outputs are not new training runs.
+
+Notebook root setup recognizes `REPOSITORY_PROVENANCE.json`; it no longer requires
+a local QASP source directory. Install QASP before running quantum/training cells.
+
+## Training
+
+Make a working copy first: historical notebook cells can write to
+`tests/results/`, and connected scripts use `results/`. Some scripts reuse existing
+JSON records. Reusing a record is not a training reproduction.
+
+For the connected study, inspect the protocol and development selection, then use:
 
 ```bash
 python connected_iqp_mlp_study.py status --phase test
-```
-
-Example full test execution **in a separate working copy with a fresh results
-directory and the preserved development selection**:
-
-```bash
+# In a fresh working results directory with its saved development selection:
 python connected_iqp_mlp_study.py run --phase test --models iqp_connected --jobs 1
 ```
 
-Existing JSON files cause runs to be reused. Running the command in the published
-archive is therefore not evidence that training was repeated. Do not delete or
-overwrite the evidence archive to force a rerun; make a working copy first.
+The paper comparison uses development seeds 1001–1008 and test seeds 2001–2020,
+500 episodes, a 200-step limit, and a complete trailing 100-episode success window.
+AUC is `sum(returns)/(200*500)`; unsolved runs receive 501 episodes to criterion.
+The uniform follow-up reuses this examined test cohort and is exploratory.
 
-`analyze_connected_iqp_study.py analyze` is a historical comprehensive analysis
-script. It includes disconnected controls, writes analysis artifacts and loads
-trusted checkpoints; it is not the safe, read-only quick start. The new plotting
-utility excludes disconnected controls from the manuscript comparison.
+The cubic neural-embedding notebook supports `QASP_BP_N_TOPOLOGIES`,
+`QASP_BP_SAMPLES_PER_TOPOLOGY`, `QASP_BP_BOOTSTRAPS` and `QASP_BP_RESULTS_NAME`.
+Reduced smoke-test settings do not reproduce the paper's statistical precision.
 
-## Notebook execution
+## Provenance, limitations and safety
 
-Launch Jupyter inside the repository. A first-cell bootstrap sets the root and
-import path. QASP-side notebooks then write under `tests/results/`; connected-study
-scripts use root-level `results/`. Full notebook execution can train many policies
-and overwrite summaries. Review configuration cells and run from a working copy.
+The root manifest is authoritative for this version. Nested manifests and software
+metadata document historical runs and may refer to earlier paths or source hashes.
+Original scientific arrays and checkpoints were retained. Mixed connected-study
+summaries were filtered to exclude the removed disconnected condition; primary
+IQP-versus-MLP statistics were retained unchanged.
 
-The cubic neural-embedding notebook supports environment variables
-`QASP_BP_N_TOPOLOGIES`, `QASP_BP_SAMPLES_PER_TOPOLOGY`, `QASP_BP_BOOTSTRAPS`, and
-`QASP_BP_RESULTS_NAME`. Reduced values are useful for smoke tests but do not
-reproduce the paper's statistical precision. The recorded paper settings use
-100 topologies and 20 parameter samples per topology.
+Separate raw-data coverage for early notebooks is incomplete or unaudited.
+No platform-independent lock or bitwise full-training reproduction is claimed.
+Hardware, library versions and numerical precision can affect trajectories.
+Some historical JSON files contain NaN values accepted by Python but not strict
+JSON readers. Load pickle-based checkpoints only if trusted.
 
-## Historical environments and provenance
-
-The root QASP source was copied from the manuscript's historical review snapshot,
-not from today's upstream main. Run metadata records additional historical commits
-and package versions. No single Git revision or package list has been established
-as sufficient to bitwise reproduce every notebook in this multi-stage project.
-
-`REPOSITORY_PROVENANCE.json` records source hashes and the initial publication-copy
-hashes. Later packaging fixes are documented in `PACKAGING_CHANGES.md`. The root
-`MANIFEST_SHA256.json` is the authoritative final file inventory. Nested experiment
-manifests are historical and may refer to original absolute paths or old hashes.
-Portable notebook setup and path normalization change notebook/source hashes, not
-the scientific values stored in arrays.
-
-Saved tables and arrays were copied, not regenerated. Some historical JSON files
-contain `NaN`, which Python's JSON reader accepts but strict JSON consumers may not.
-PyTorch checkpoints were copied without deserialization and may retain historical
-path strings internally. Review trust before loading pickle-based files.
-
-## Known limitations
-
-- Standalone raw-data coverage for the earliest variance and policy-efficiency
-  notebooks is incomplete or unaudited; saved outputs are preserved.
-- No fully resolved, platform-independent environment lock is available.
-- GPU/CPU libraries, precision, operating system, thread scheduling and library
-  versions may affect trajectories and runtime.
-- Notebook generators are historical authoring utilities, not a promise that every
-  generator reruns unchanged on every machine.
-- The archived experiment tree contains earlier and superseded studies; use the
-  catalogue and protocols, not the most favorable run, to select results.
-- No DOI or independent reproduction is claimed by this release.
-
-See `VALIDATION.md` for the checks actually executed during packaging.
+See `PACKAGING_CHANGES.md` for the scope correction and `VALIDATION.md` for checks
+actually performed. The original source repositories and manuscript data were
+not deleted; excluded publication-copy files remain recoverable in Git history.

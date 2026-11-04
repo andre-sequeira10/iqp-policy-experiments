@@ -18,8 +18,8 @@ import numpy as np
 import torch
 from connected_majority_iqp import ConnectedMajorityIQP
 from connected_iqp_mlp_study import ROOT as BASE, TEST, solve
-from majority_iqp_model_search import make_agent, evaluate
-from analyze_majority_iqp_search import infer
+from paper_training import make_agent, evaluate
+from paper_statistics import infer
 
 ROOT = BASE.parent / 'connected_iqp_uniform_initialization'
 NAME = 'iqp_connected_uniform'
@@ -162,13 +162,13 @@ def analyze():
             'scope':'Fixed-initialization follow-up on previously inspected paired seeds. No tuning. Raw baseline results are unchanged.'}
     (ROOT/'comparison.json').write_text(json.dumps(result,indent=2))
     sources=[Path(__file__),Path(__file__).parent/'connected_majority_iqp.py',
-             Path(__file__).parent/'majority_iqp_model_search.py',Path(__file__).parent/'majority_iqp_block_model.py',
+             Path(__file__).parent/'paper_training.py',Path(__file__).parent/'paper_blocks.py',
              ROOT/'protocol.json',BASE/'development_selection.json']
     sources+=list((ROOT/'test').glob('*.npz'))+list((ROOT/'test').glob('*.json'))
-    original=json.loads((BASE/'test_integrity.json').read_text())
-    unchanged={k:hashlib.sha256(Path(k).read_bytes()).hexdigest()==v for k,v in original['sha256'].items()
-               if Path(k).name in ['connected_majority_iqp.py','majority_iqp_model_search.py','majority_iqp_block_model.py','torchrl.py']
-               or (Path(k).parent==BASE/'test' and Path(k).suffix in ['.json','.npz'])}
+    repository=Path(__file__).resolve().parent
+    original=json.loads((repository/'MANIFEST_SHA256.json').read_text())
+    unchanged={str(f.relative_to(repository)):hashlib.sha256(f.read_bytes()).hexdigest()==original[str(f.relative_to(repository))]['sha256']
+               for f in (BASE/'test').iterdir() if f.suffix in ['.json','.npz']}
     assert all(unchanged.values())
     (ROOT/'integrity.json').write_text(json.dumps({'baseline_files_unchanged':unchanged,
         'sha256':{str(f):hashlib.sha256(f.read_bytes()).hexdigest() for f in sources},

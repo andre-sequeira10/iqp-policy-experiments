@@ -556,45 +556,6 @@
           199.6895
         ]
       }
-    },
-    "iqp_disconnected": {
-      "parameters": 133,
-      "lr": 0.03,
-      "n": 20,
-      "solved": 20,
-      "initial_return": 77.343,
-      "auc": {
-        "mean": 0.9301065000000002,
-        "sem": 0.012009105893248799,
-        "ci95": [
-          0.9060465000000001,
-          0.9515465875000003
-        ]
-      },
-      "solve_episode": {
-        "mean": 169.9,
-        "sem": 9.604247963654853,
-        "ci95": [
-          152.35,
-          188.85
-        ]
-      },
-      "final50": {
-        "mean": 198.404,
-        "sem": 0.5713338041718466,
-        "ci95": [
-          197.21599999999998,
-          199.391
-        ]
-      },
-      "heldout": {
-        "mean": 198.367,
-        "sem": 0.4271232411820916,
-        "ci95": [
-          197.4865,
-          199.119
-        ]
-      }
     }
   },
   "connected_minus_mlp": {
@@ -878,35 +839,6 @@
       }
     }
   },
-  "connected_minus_disconnected_exploratory": {
-    "auc": {
-      "mean_difference": 0.0017944999999999988,
-      "ci95": [
-        -0.004366512500000037,
-        0.00872051249999997
-      ],
-      "two_sided_exact_sign_p": 0.6276187896728516,
-      "positive_pairs": 9
-    },
-    "solve_episode": {
-      "mean_difference": -1.55,
-      "ci95": [
-        -18.45,
-        14.45
-      ],
-      "two_sided_exact_sign_p": 0.8523120880126953,
-      "positive_pairs": 12
-    },
-    "heldout": {
-      "mean_difference": 0.7415000000000035,
-      "ci95": [
-        -0.19799999999999757,
-        1.7680000000000036
-      ],
-      "two_sided_exact_sign_p": 0.170928955078125,
-      "positive_pairs": 11
-    }
-  },
   "saturation": {
     "9": {
       "auc": {
@@ -986,6 +918,6 @@
       "cuts_with_purity_below_1_minus_1e_8": 120
     }
   },
-  "audited_test_runs": 220,
-  "interpretation": "Positive comparisons favor connected IQP, including fewer solve episodes. Unsolved runs are assigned 501. All IQP-vs-MLP AUC/solve tests receive a single Holm correction; held-out and connected-vs-disconnected tests are secondary/exploratory. Bootstrap CIs are not selection-adjusted simultaneous CIs."
+  "audited_test_runs": 200,
+  "interpretation": "Positive comparisons favor connected IQP, including fewer solve episodes. Unsolved runs are assigned 501. All IQP-vs-MLP AUC/solve tests receive a single Holm correction; held-out tests are secondary/exploratory. Bootstrap CIs are not selection-adjusted simultaneous CIs."
 }

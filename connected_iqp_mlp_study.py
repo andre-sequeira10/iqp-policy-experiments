@@ -11,8 +11,7 @@ import time
 from pathlib import Path
 import numpy as np
 import torch
-from majority_iqp_model_search import MLP,make_agent,evaluate
-from majority_iqp_block_model import BlockMajorityIQP
+from paper_training import MLP,make_agent,evaluate
 
 ROOT=Path(__file__).resolve().parent/'results'/'connected_iqp_mlp_study'
 WIDTHS=[1,2,4,6,9,12,16,19]
@@ -28,7 +27,7 @@ def specs():
         for lr in LRS:
             name=f'mlp_h{width:02d}_lr{str(lr).replace(".","p")}'
             result[name]={'name':name,'kind':'mlp','width':width,'lr':lr,'parameters':7*width+2}
-    for kind in ['connected','disconnected']:
+    for kind in ['connected']:
         name=f'iqp_{kind}'
         result[name]={'name':name,'kind':kind,'n':21,'lr':.03,'parameters':139 if kind=='connected' else 133}
     return result
@@ -39,7 +38,7 @@ def policy(spec,seed):
     if spec['kind']=='connected':
         from connected_majority_iqp import ConnectedMajorityIQP
         return ConnectedMajorityIQP(seed=seed,n=21,sigma=.5,bridge_sigma=.5)
-    return BlockMajorityIQP({'n':21,'sigma':.5,'family':'iqpblocksbalanced'},seed)
+    raise ValueError(f"Unsupported paper model: {spec['kind']}")
 
 
 def solve(tr):
@@ -119,7 +118,7 @@ def main():
         return
     if a.phase=='test':
         locked=json.loads((ROOT/'development_selection.json').read_text())
-        names=list(dict.fromkeys(list(locked['selected_by_width'].values())+[locked['best_solve_mlp'],'iqp_connected','iqp_disconnected']))
+        names=list(dict.fromkeys(list(locked['selected_by_width'].values())+[locked['best_solve_mlp'],'iqp_connected']))
     else: names=list(specs())
     if a.kind=='mlp': names=[n for n in names if n.startswith('mlp')]
     if a.kind=='iqp': names=[n for n in names if n.startswith('iqp')]

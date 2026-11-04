@@ -13,14 +13,14 @@ import numpy as np
 import torch
 import matplotlib.pyplot as plt
 from connected_iqp_mlp_study import ROOT,DEV,TEST,WIDTHS,LRS,specs,policy,solve
-from majority_iqp_model_search import evaluate
-from analyze_majority_iqp_search import infer
+from paper_training import evaluate
+from paper_statistics import infer
 
 
 def names():
     lock=json.loads((ROOT/'development_selection.json').read_text())
     mlps=list(dict.fromkeys(list(lock['selected_by_width'].values())+[lock['best_solve_mlp']]))
-    return lock,mlps+['iqp_connected','iqp_disconnected']
+    return lock,mlps+['iqp_connected']
 
 
 def initial_audit(name,seed):
@@ -85,7 +85,6 @@ def analyze():
         return result
     comparisons={name:compare('iqp_connected',name) for name in all_names if name.startswith('mlp')}
     holm([v[k] for v in comparisons.values() for k in ['auc','solve_episode']])
-    connection=compare('iqp_connected','iqp_disconnected')
     saturation={};high=lock['selected_by_width']['19']
     for width in [9,12,16]:
         low=lock['selected_by_width'][str(width)];result={}
@@ -105,17 +104,18 @@ def analyze():
         purities[stage]={'min':float(p.min()),'max':float(p.max()),
                          'cut_count':int(p.size),'cuts_with_purity_below_1_minus_1e_8':int((p<1-1e-8).sum())}
     result={'selection':lock,'summary':summary,'connected_minus_mlp':comparisons,
-            'connected_minus_disconnected_exploratory':connection,'saturation':saturation,
+            'saturation':saturation,
             'interblock_cut_purities':purities,'audited_test_runs':len(audited),
-            'interpretation':'Positive comparisons favor connected IQP, including fewer solve episodes. Unsolved runs are assigned 501. All IQP-vs-MLP AUC/solve tests receive a single Holm correction; held-out and connected-vs-disconnected tests are secondary/exploratory. Bootstrap CIs are not selection-adjusted simultaneous CIs.'}
+            'interpretation':'Positive comparisons favor connected IQP, including fewer solve episodes. Unsolved runs are assigned 501. All IQP-vs-MLP AUC/solve tests receive a single Holm correction; held-out tests are secondary. Bootstrap CIs are not selection-adjusted simultaneous CIs.'}
     (ROOT/'test_analysis.json').write_text(json.dumps(result,indent=2))
     versions={}
     for package in ['numpy','torch','pennylane','gymnasium','joblib','nbformat']:
         versions[package]=importlib.metadata.version(package)
     files=[ROOT/'protocol.json',ROOT/'development_selection.json']
     files+=list(ROOT.parent.parent.glob('*connected*py'))
-    files+=[ROOT.parent.parent/'majority_iqp_model_search.py',ROOT.parent.parent/'majority_iqp_block_model.py',
-            Path(__file__).resolve().parent/'qasp/rl/torchrl.py']
+    import qasp.rl.torchrl as qasp_trainer
+    files+=[ROOT.parent.parent/'paper_training.py',ROOT.parent.parent/'paper_blocks.py',
+            Path(qasp_trainer.__file__).resolve()]
     files+=list((ROOT/'test').glob('*.npz'))+list((ROOT/'test').glob('*.json'))
     integrity={'python':sys.version,'versions':versions,'audited_runs':audited,
                'sha256':{str(f):hashlib.sha256(f.read_bytes()).hexdigest() for f in files}}
@@ -133,7 +133,7 @@ def plot(result,groups,arrays):
         y=np.array([s[selected[str(w)]][key]['mean'] for w in WIDTHS])
         ci=np.array([s[selected[str(w)]][key]['ci95'] for w in WIDTHS])
         ax.errorbar(x,y,yerr=np.maximum(0,np.stack((y-ci[:,0],ci[:,1]-y))),fmt='o-',capsize=3,label='MLP: learning rate selected on development')
-        for name,color,style,label2 in [('iqp_connected','C2','-','Connected IQP (139 parameters)'),('iqp_disconnected','C3',':','Disconnected IQP (133 parameters)')]:
+        for name,color,style,label2 in [('iqp_connected','C2','-','Connected IQP (139 parameters)')]:
             v=s[name][key];ax.axhline(v['mean'],color=color,ls=style,label=label2)
             if name=='iqp_connected': ax.axhspan(*v['ci95'],color=color,alpha=.10)
         ax.set(xlabel='MLP trainable parameters',ylabel=label);ax.grid(alpha=.2)
@@ -141,19 +141,19 @@ def plot(result,groups,arrays):
     fig.legend(handles,labels,fontsize=8,loc='lower center',ncol=3,bbox_to_anchor=(.5,.005))
     fig.suptitle('MLP size study: 20 untouched test seeds; error bars are bootstrap 95% CIs')
     fig.tight_layout(rect=(0,.08,1,.96));fig.savefig(ROOT/'mlp_size_scaling.png',dpi=200);plt.close(fig)
-    show=list(dict.fromkeys(['iqp_connected','iqp_disconnected',lock['best_auc_mlp'],lock['best_solve_mlp'],selected['19']]))
+    show=list(dict.fromkeys(['iqp_connected',lock['best_auc_mlp'],lock['best_solve_mlp'],selected['19']]))
     fig,axes=plt.subplots(1,2,figsize=(12,4.4))
-    colors={'iqp_connected':'C2','iqp_disconnected':'C3'}
+    colors={'iqp_connected':'C2'}
     for name,color in zip([n for n in show if n.startswith('mlp')],['C0','C1','C4']): colors[name]=color
     for name in show:
         if name.startswith('iqp'): label=name.replace('iqp_','').capitalize()+f" IQP ({s[name]['parameters']} parameters)"
         else: label=f"MLP ({s[name]['parameters']} parameters, lr={s[name]['lr']})"
         curves=np.array([np.convolve(a,np.ones(20)/20,'valid') for a in arrays[name]])
         m=curves.mean(0);se=curves.std(0,ddof=1)/np.sqrt(len(curves))
-        line,=axes[0].plot(np.arange(20,501),m,label=label,color=colors[name],ls=':' if name=='iqp_disconnected' else '-')
+        line,=axes[0].plot(np.arange(20,501),m,label=label,color=colors[name])
         axes[0].fill_between(np.arange(20,501),m-se,m+se,color=line.get_color(),alpha=.12)
         hits=np.array([r['solve_episode'] for r in groups[name]]);x=np.arange(100,501)
-        axes[1].step(x,[(hits<=t).mean() for t in x],where='post',color=line.get_color(),ls=':' if name=='iqp_disconnected' else '-')
+        axes[1].step(x,[(hits<=t).mean() for t in x],where='post',color=line.get_color())
     axes[0].set(xlabel='Training episode',ylabel='Return (20-episode moving mean)',ylim=(0,205),title='Mean ± SEM')
     axes[1].set(xlabel='Training episode',ylabel='Fraction reaching rolling-100 mean ≥195',ylim=(0,1.02),title='First crossing of the convergence criterion')
     axes[0].legend(fontsize=7,loc='lower right')

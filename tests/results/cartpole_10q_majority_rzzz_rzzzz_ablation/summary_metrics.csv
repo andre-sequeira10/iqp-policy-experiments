@@ -1,4 +1,0 @@
-condition,n_seeds,mean_training_final_50,sem_training_final_50,mean_heldout_evaluation,sem_heldout_evaluation,solved_seed_fraction
-baseline majority,10,191.88,5.19283780263205,194.68699999999998,2.057122072756555,0.7
-majority + 10 RZZZ,10,193.78199999999998,1.8951199317076364,195.889,1.602956608548369,0.5
-majority + 10 RZZZ + 10 RZZZZ,10,147.33200000000002,18.95324075484483,154.678,17.943143586834996,0.2

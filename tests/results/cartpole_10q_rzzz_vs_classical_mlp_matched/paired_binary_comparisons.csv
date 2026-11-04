@@ -1,3 +1,0 @@
-metric,n_pairs,quantum_success_fraction,mlp_success_fraction,quantum_success_mlp_failure,quantum_failure_mlp_success,discordant_pairs,exact_two_sided_mcnemar_p
-strict_training_solved,20,0.5,0.95,0,9,9,0.00390625
-heldout_mean_at_least_195,20,0.7,0.9,1,5,6,0.21875

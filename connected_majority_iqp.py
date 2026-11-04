@@ -10,7 +10,7 @@ import math
 import time
 import numpy as np
 import torch
-from majority_iqp_block_model import BlockMajorityIQP
+from paper_blocks import BlockMajorityIQP
 
 
 class ConnectedMajorityIQP(BlockMajorityIQP):

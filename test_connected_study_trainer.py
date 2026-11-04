@@ -10,7 +10,7 @@ import numpy as np
 import torch
 from qasp.rl.torchrl import REINFORCE
 from connected_iqp_mlp_study import ROOT,specs,policy
-from majority_iqp_model_search import make_agent
+from paper_training import make_agent
 
 rows=[]
 for name in ['iqp_connected','mlp_h19_lr0p1']:

@@ -1,6 +1,6 @@
 """Same training protocol; omit discarded gradient work after updates freeze."""
 import torch
-from majority_iqp_model_search import StrictWindowREINFORCE
+from paper_training import StrictWindowREINFORCE
 
 
 class OptimizedStrictWindowREINFORCE(StrictWindowREINFORCE):

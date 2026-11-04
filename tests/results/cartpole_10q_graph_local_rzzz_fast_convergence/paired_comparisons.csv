@@ -1,5 +1,0 @@
-contrast,n_pairs,mean_difference,bootstrap_ci95_low,bootstrap_ci95_high,one_sided_p_greater_than_zero
-normalized_auc_candidate_minus_baseline,20,-0.003733,-0.01793973749999999,0.010390012500000002,0.6912715436422818
-restricted_solve_episode_advantage,20,-12.35,-30.95,10.0,0.8595307023464883
-final50_candidate_minus_baseline,20,-3.8010000000000033,-8.044000000000002,-0.1979999999999989,0.9641851790741046
-heldout_candidate_minus_baseline,20,-2.6015,-7.287562500000001,0.8825125000000051,0.8483857580712096

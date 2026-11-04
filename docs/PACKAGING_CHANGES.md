@@ -1,24 +1,27 @@
-# Changes made when preparing the repository
+# Publication-copy scope correction
 
-The original local QASP checkout and research workspace were not modified.
+The initial upload included QASP source and exploratory studies. At the author's
+request, the current tree contains only the paper experiments and recorded outputs.
 
-- Copied the dedicated experiment notebooks, research scripts and available saved
-  result directories; excluded unrelated QASP application studies, caches, logs,
-  LaTeX build intermediates, hidden files and manuscript source.
-- Included the historical manuscript-review QASP Python source snapshot.
-- Normalized author-machine paths in text files. Added notebook root setup and
-  normalized notebook cell IDs to format 4.5. Scientific outputs were retained.
-- Redirected the majority Fourier notebook/generator's figure export to its local
-  results folder, rather than an external manuscript directory.
-- Made the connected-study analysis source-audit path relative to the script.
-- Replaced placeholder project URLs in historical package metadata.
-- Added README, study catalogue, upstream audit, provenance and limitations.
-- Added a standard-library archive verifier and a no-training plotting utility.
-- Added a GitHub Actions integrity workflow. Local validation is recorded in
-  `VALIDATION.md`; remote CI status should be checked on GitHub.
-- Preserved QASP's upstream license notice separately. Experiment-specific
-  licensing is undecided until the owner chooses it.
+Changes:
+- Removed the bundled `qasp/` package, its packaging metadata and license copy.
+  QASP is now an external dependency from INESCTEC/qasp.
+- Removed unrelated model searches, disconnected-only runs, connected-model
+  finite-shot/SPSA studies and superseded runtime variants.
+- Retained the supplementary small-model finite-shot study, uniform follow-up,
+  MLP development records and accepted runtime audit because they support the paper.
+- Removed non-paper appended AngleAnsatz/navigation cells from the CartPole
+  notebook and disconnected-only displays from the connected study notebook.
+- Extracted unchanged shared trainer/statistical/block helper definitions into
+  `paper_training.py`, `paper_statistics.py` and `paper_blocks.py`.
+- Restricted connected-study drivers and analysis to connected IQP and MLPs.
+- Updated source-path audits to use the installed QASP module, and notebook root
+  checks to use the experiment-repository marker.
+- Filtered disconnected-only entries from mixed summaries, without changing the
+  retained primary comparison values. Scientific arrays/checkpoints were not altered.
+- Added reporting notebooks for the already-recorded uniform and runtime studies.
+- Updated README, catalogue, requirements, provenance and integrity inventory.
 
-No model, loss, optimizer, seed schedule, experimental hyperparameter, numerical
-array or checkpoint was deliberately changed. Historical nested manifests may
-refer to pre-portability hashes; the root manifest inventories this release.
+The original local research folders were not modified. Removed publication-copy
+files are backed up locally and remain recoverable from the previous Git commit.
+No Git history rewrite or force push was performed.

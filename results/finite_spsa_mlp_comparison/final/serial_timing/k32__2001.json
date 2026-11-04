@@ -1,9 +1,0 @@
-{
-  "model": "k32",
-  "seed": 2001,
-  "training_seconds": 230.4714472499909,
-  "training_cpu_seconds": 220.578872,
-  "criterion_episode": 396,
-  "seconds_to_criterion": 222.00391137500992,
-  "trajectory_exactly_reproduced": true
-}

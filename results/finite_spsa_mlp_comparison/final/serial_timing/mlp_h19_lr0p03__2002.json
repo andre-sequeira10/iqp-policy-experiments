@@ -1,9 +1,0 @@
-{
-  "model": "mlp_h19_lr0p03",
-  "seed": 2002,
-  "training_seconds": 10.649095791974105,
-  "training_cpu_seconds": 9.824188999999933,
-  "criterion_episode": 194,
-  "seconds_to_criterion": 3.472272749990225,
-  "trajectory_exactly_reproduced": true
-}

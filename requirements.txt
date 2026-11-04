@@ -1,0 +1,16 @@
+# QASP is an external dependency, never vendored in this repository.
+qasp @ git+https://github.com/INESCTEC/qasp.git@4aeec0ba2714676b86abe499c39acdb9b910a6de
+numpy
+matplotlib
+pandas
+scipy
+torch
+gymnasium
+pennylane
+pennylane-lightning
+joblib
+networkx
+pyarrow
+jupyterlab
+nbformat
+nbclient
