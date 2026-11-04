@@ -1,0 +1,6 @@
+{
+  "name": "mlp_h02_lr0p1",
+  "seed": 2016,
+  "initial_return": 18.25,
+  "episodes": 100
+}

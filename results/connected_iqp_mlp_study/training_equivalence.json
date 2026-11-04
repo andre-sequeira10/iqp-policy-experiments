@@ -1,0 +1,12 @@
+[
+  {
+    "model": "iqp_connected",
+    "same_trajectory": true,
+    "max_parameter_error": 2.9802322387695312e-08
+  },
+  {
+    "model": "mlp_h19_lr0p1",
+    "same_trajectory": true,
+    "max_parameter_error": 2.9802322387695312e-08
+  }
+]

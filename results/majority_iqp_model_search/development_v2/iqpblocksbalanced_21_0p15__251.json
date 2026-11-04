@@ -1,0 +1,18 @@
+{
+  "model": {
+    "name": "iqpblocksbalanced_21_0.15",
+    "n": 21,
+    "sigma": 0.15,
+    "family": "iqpblocksbalanced"
+  },
+  "seed": 251,
+  "phase": "development_v2",
+  "episodes": 500,
+  "auc": 0.9273600000000001,
+  "restricted_solve_episode": 501,
+  "final50": 179.7,
+  "heldout": 188.5,
+  "parameters": 133,
+  "seconds": 22.698622941970825,
+  "initial_sha256": "f82a84d394e709ec1fa8556bedbcd0c053ab25d511cc1ed77de7ac823f83ef86"
+}

@@ -1,0 +1,2001 @@
+condition,seed,evaluation_episode,return
+baseline majority,3,1,200.0
+baseline majority,3,2,200.0
+baseline majority,3,3,200.0
+baseline majority,3,4,172.0
+baseline majority,3,5,200.0
+baseline majority,3,6,200.0
+baseline majority,3,7,200.0
+baseline majority,3,8,200.0
+baseline majority,3,9,200.0
+baseline majority,3,10,200.0
+baseline majority,3,11,200.0
+baseline majority,3,12,200.0
+baseline majority,3,13,200.0
+baseline majority,3,14,200.0
+baseline majority,3,15,200.0
+baseline majority,3,16,200.0
+baseline majority,3,17,200.0
+baseline majority,3,18,200.0
+baseline majority,3,19,200.0
+baseline majority,3,20,200.0
+baseline majority,3,21,200.0
+baseline majority,3,22,200.0
+baseline majority,3,23,200.0
+baseline majority,3,24,200.0
+baseline majority,3,25,200.0
+baseline majority,3,26,200.0
+baseline majority,3,27,200.0
+baseline majority,3,28,200.0
+baseline majority,3,29,200.0
+baseline majority,3,30,200.0
+baseline majority,3,31,200.0
+baseline majority,3,32,200.0
+baseline majority,3,33,200.0
+baseline majority,3,34,200.0
+baseline majority,3,35,200.0
+baseline majority,3,36,200.0
+baseline majority,3,37,200.0
+baseline majority,3,38,200.0
+baseline majority,3,39,200.0
+baseline majority,3,40,200.0
+baseline majority,3,41,200.0
+baseline majority,3,42,200.0
+baseline majority,3,43,200.0
+baseline majority,3,44,200.0
+baseline majority,3,45,200.0
+baseline majority,3,46,200.0
+baseline majority,3,47,200.0
+baseline majority,3,48,200.0
+baseline majority,3,49,200.0
+baseline majority,3,50,200.0
+baseline majority,3,51,200.0
+baseline majority,3,52,200.0
+baseline majority,3,53,200.0
+baseline majority,3,54,41.0
+baseline majority,3,55,200.0
+baseline majority,3,56,200.0
+baseline majority,3,57,200.0
+baseline majority,3,58,200.0
+baseline majority,3,59,200.0
+baseline majority,3,60,200.0
+baseline majority,3,61,200.0
+baseline majority,3,62,200.0
+baseline majority,3,63,200.0
+baseline majority,3,64,200.0
+baseline majority,3,65,200.0
+baseline majority,3,66,200.0
+baseline majority,3,67,200.0
+baseline majority,3,68,200.0
+baseline majority,3,69,200.0
+baseline majority,3,70,200.0
+baseline majority,3,71,200.0
+baseline majority,3,72,200.0
+baseline majority,3,73,200.0
+baseline majority,3,74,200.0
+baseline majority,3,75,200.0
+baseline majority,3,76,200.0
+baseline majority,3,77,200.0
+baseline majority,3,78,200.0
+baseline majority,3,79,200.0
+baseline majority,3,80,200.0
+baseline majority,3,81,200.0
+baseline majority,3,82,200.0
+baseline majority,3,83,200.0
+baseline majority,3,84,200.0
+baseline majority,3,85,200.0
+baseline majority,3,86,200.0
+baseline majority,3,87,200.0
+baseline majority,3,88,200.0
+baseline majority,3,89,200.0
+baseline majority,3,90,200.0
+baseline majority,3,91,200.0
+baseline majority,3,92,200.0
+baseline majority,3,93,200.0
+baseline majority,3,94,200.0
+baseline majority,3,95,200.0
+baseline majority,3,96,200.0
+baseline majority,3,97,200.0
+baseline majority,3,98,200.0
+baseline majority,3,99,200.0
+baseline majority,3,100,200.0
+baseline majority,7,1,200.0
+baseline majority,7,2,200.0
+baseline majority,7,3,200.0
+baseline majority,7,4,200.0
+baseline majority,7,5,200.0
+baseline majority,7,6,200.0
+baseline majority,7,7,200.0
+baseline majority,7,8,200.0
+baseline majority,7,9,200.0
+baseline majority,7,10,200.0
+baseline majority,7,11,200.0
+baseline majority,7,12,200.0
+baseline majority,7,13,200.0
+baseline majority,7,14,200.0
+baseline majority,7,15,200.0
+baseline majority,7,16,200.0
+baseline majority,7,17,200.0
+baseline majority,7,18,200.0
+baseline majority,7,19,200.0
+baseline majority,7,20,200.0
+baseline majority,7,21,200.0
+baseline majority,7,22,200.0
+baseline majority,7,23,200.0
+baseline majority,7,24,200.0
+baseline majority,7,25,200.0
+baseline majority,7,26,200.0
+baseline majority,7,27,200.0
+baseline majority,7,28,200.0
+baseline majority,7,29,200.0
+baseline majority,7,30,200.0
+baseline majority,7,31,17.0
+baseline majority,7,32,200.0
+baseline majority,7,33,200.0
+baseline majority,7,34,200.0
+baseline majority,7,35,200.0
+baseline majority,7,36,200.0
+baseline majority,7,37,200.0
+baseline majority,7,38,200.0
+baseline majority,7,39,200.0
+baseline majority,7,40,200.0
+baseline majority,7,41,200.0
+baseline majority,7,42,200.0
+baseline majority,7,43,200.0
+baseline majority,7,44,170.0
+baseline majority,7,45,200.0
+baseline majority,7,46,200.0
+baseline majority,7,47,200.0
+baseline majority,7,48,200.0
+baseline majority,7,49,200.0
+baseline majority,7,50,200.0
+baseline majority,7,51,200.0
+baseline majority,7,52,200.0
+baseline majority,7,53,200.0
+baseline majority,7,54,200.0
+baseline majority,7,55,200.0
+baseline majority,7,56,200.0
+baseline majority,7,57,200.0
+baseline majority,7,58,200.0
+baseline majority,7,59,200.0
+baseline majority,7,60,200.0
+baseline majority,7,61,200.0
+baseline majority,7,62,200.0
+baseline majority,7,63,200.0
+baseline majority,7,64,200.0
+baseline majority,7,65,200.0
+baseline majority,7,66,200.0
+baseline majority,7,67,200.0
+baseline majority,7,68,200.0
+baseline majority,7,69,200.0
+baseline majority,7,70,156.0
+baseline majority,7,71,200.0
+baseline majority,7,72,200.0
+baseline majority,7,73,200.0
+baseline majority,7,74,200.0
+baseline majority,7,75,200.0
+baseline majority,7,76,200.0
+baseline majority,7,77,200.0
+baseline majority,7,78,200.0
+baseline majority,7,79,200.0
+baseline majority,7,80,200.0
+baseline majority,7,81,200.0
+baseline majority,7,82,200.0
+baseline majority,7,83,200.0
+baseline majority,7,84,200.0
+baseline majority,7,85,200.0
+baseline majority,7,86,200.0
+baseline majority,7,87,200.0
+baseline majority,7,88,200.0
+baseline majority,7,89,200.0
+baseline majority,7,90,200.0
+baseline majority,7,91,200.0
+baseline majority,7,92,200.0
+baseline majority,7,93,200.0
+baseline majority,7,94,200.0
+baseline majority,7,95,200.0
+baseline majority,7,96,200.0
+baseline majority,7,97,200.0
+baseline majority,7,98,168.0
+baseline majority,7,99,200.0
+baseline majority,7,100,200.0
+baseline majority,11,1,200.0
+baseline majority,11,2,200.0
+baseline majority,11,3,200.0
+baseline majority,11,4,200.0
+baseline majority,11,5,178.0
+baseline majority,11,6,200.0
+baseline majority,11,7,200.0
+baseline majority,11,8,200.0
+baseline majority,11,9,200.0
+baseline majority,11,10,164.0
+baseline majority,11,11,200.0
+baseline majority,11,12,200.0
+baseline majority,11,13,85.0
+baseline majority,11,14,200.0
+baseline majority,11,15,200.0
+baseline majority,11,16,200.0
+baseline majority,11,17,200.0
+baseline majority,11,18,25.0
+baseline majority,11,19,200.0
+baseline majority,11,20,200.0
+baseline majority,11,21,200.0
+baseline majority,11,22,200.0
+baseline majority,11,23,200.0
+baseline majority,11,24,16.0
+baseline majority,11,25,134.0
+baseline majority,11,26,200.0
+baseline majority,11,27,200.0
+baseline majority,11,28,200.0
+baseline majority,11,29,64.0
+baseline majority,11,30,200.0
+baseline majority,11,31,200.0
+baseline majority,11,32,106.0
+baseline majority,11,33,200.0
+baseline majority,11,34,106.0
+baseline majority,11,35,200.0
+baseline majority,11,36,200.0
+baseline majority,11,37,21.0
+baseline majority,11,38,200.0
+baseline majority,11,39,200.0
+baseline majority,11,40,200.0
+baseline majority,11,41,200.0
+baseline majority,11,42,200.0
+baseline majority,11,43,200.0
+baseline majority,11,44,200.0
+baseline majority,11,45,200.0
+baseline majority,11,46,200.0
+baseline majority,11,47,200.0
+baseline majority,11,48,200.0
+baseline majority,11,49,200.0
+baseline majority,11,50,200.0
+baseline majority,11,51,200.0
+baseline majority,11,52,200.0
+baseline majority,11,53,200.0
+baseline majority,11,54,200.0
+baseline majority,11,55,200.0
+baseline majority,11,56,200.0
+baseline majority,11,57,200.0
+baseline majority,11,58,200.0
+baseline majority,11,59,116.0
+baseline majority,11,60,200.0
+baseline majority,11,61,200.0
+baseline majority,11,62,200.0
+baseline majority,11,63,173.0
+baseline majority,11,64,200.0
+baseline majority,11,65,200.0
+baseline majority,11,66,200.0
+baseline majority,11,67,200.0
+baseline majority,11,68,200.0
+baseline majority,11,69,200.0
+baseline majority,11,70,200.0
+baseline majority,11,71,200.0
+baseline majority,11,72,200.0
+baseline majority,11,73,200.0
+baseline majority,11,74,200.0
+baseline majority,11,75,200.0
+baseline majority,11,76,200.0
+baseline majority,11,77,200.0
+baseline majority,11,78,187.0
+baseline majority,11,79,101.0
+baseline majority,11,80,41.0
+baseline majority,11,81,200.0
+baseline majority,11,82,200.0
+baseline majority,11,83,159.0
+baseline majority,11,84,200.0
+baseline majority,11,85,200.0
+baseline majority,11,86,200.0
+baseline majority,11,87,200.0
+baseline majority,11,88,200.0
+baseline majority,11,89,200.0
+baseline majority,11,90,200.0
+baseline majority,11,91,200.0
+baseline majority,11,92,200.0
+baseline majority,11,93,200.0
+baseline majority,11,94,200.0
+baseline majority,11,95,200.0
+baseline majority,11,96,200.0
+baseline majority,11,97,200.0
+baseline majority,11,98,128.0
+baseline majority,11,99,200.0
+baseline majority,11,100,200.0
+baseline majority,23,1,200.0
+baseline majority,23,2,200.0
+baseline majority,23,3,200.0
+baseline majority,23,4,200.0
+baseline majority,23,5,200.0
+baseline majority,23,6,200.0
+baseline majority,23,7,200.0
+baseline majority,23,8,200.0
+baseline majority,23,9,200.0
+baseline majority,23,10,200.0
+baseline majority,23,11,200.0
+baseline majority,23,12,200.0
+baseline majority,23,13,200.0
+baseline majority,23,14,200.0
+baseline majority,23,15,200.0
+baseline majority,23,16,200.0
+baseline majority,23,17,200.0
+baseline majority,23,18,200.0
+baseline majority,23,19,200.0
+baseline majority,23,20,200.0
+baseline majority,23,21,200.0
+baseline majority,23,22,200.0
+baseline majority,23,23,200.0
+baseline majority,23,24,200.0
+baseline majority,23,25,200.0
+baseline majority,23,26,200.0
+baseline majority,23,27,200.0
+baseline majority,23,28,200.0
+baseline majority,23,29,200.0
+baseline majority,23,30,200.0
+baseline majority,23,31,200.0
+baseline majority,23,32,200.0
+baseline majority,23,33,200.0
+baseline majority,23,34,200.0
+baseline majority,23,35,200.0
+baseline majority,23,36,200.0
+baseline majority,23,37,200.0
+baseline majority,23,38,200.0
+baseline majority,23,39,200.0
+baseline majority,23,40,200.0
+baseline majority,23,41,200.0
+baseline majority,23,42,200.0
+baseline majority,23,43,200.0
+baseline majority,23,44,200.0
+baseline majority,23,45,200.0
+baseline majority,23,46,200.0
+baseline majority,23,47,200.0
+baseline majority,23,48,200.0
+baseline majority,23,49,200.0
+baseline majority,23,50,200.0
+baseline majority,23,51,200.0
+baseline majority,23,52,200.0
+baseline majority,23,53,200.0
+baseline majority,23,54,200.0
+baseline majority,23,55,200.0
+baseline majority,23,56,200.0
+baseline majority,23,57,200.0
+baseline majority,23,58,200.0
+baseline majority,23,59,144.0
+baseline majority,23,60,200.0
+baseline majority,23,61,200.0
+baseline majority,23,62,200.0
+baseline majority,23,63,200.0
+baseline majority,23,64,200.0
+baseline majority,23,65,200.0
+baseline majority,23,66,200.0
+baseline majority,23,67,200.0
+baseline majority,23,68,200.0
+baseline majority,23,69,200.0
+baseline majority,23,70,200.0
+baseline majority,23,71,200.0
+baseline majority,23,72,200.0
+baseline majority,23,73,200.0
+baseline majority,23,74,200.0
+baseline majority,23,75,200.0
+baseline majority,23,76,200.0
+baseline majority,23,77,200.0
+baseline majority,23,78,200.0
+baseline majority,23,79,200.0
+baseline majority,23,80,200.0
+baseline majority,23,81,200.0
+baseline majority,23,82,200.0
+baseline majority,23,83,200.0
+baseline majority,23,84,200.0
+baseline majority,23,85,200.0
+baseline majority,23,86,200.0
+baseline majority,23,87,200.0
+baseline majority,23,88,200.0
+baseline majority,23,89,200.0
+baseline majority,23,90,200.0
+baseline majority,23,91,200.0
+baseline majority,23,92,200.0
+baseline majority,23,93,200.0
+baseline majority,23,94,200.0
+baseline majority,23,95,200.0
+baseline majority,23,96,200.0
+baseline majority,23,97,200.0
+baseline majority,23,98,200.0
+baseline majority,23,99,200.0
+baseline majority,23,100,200.0
+baseline majority,37,1,200.0
+baseline majority,37,2,200.0
+baseline majority,37,3,38.0
+baseline majority,37,4,200.0
+baseline majority,37,5,200.0
+baseline majority,37,6,200.0
+baseline majority,37,7,200.0
+baseline majority,37,8,200.0
+baseline majority,37,9,200.0
+baseline majority,37,10,175.0
+baseline majority,37,11,200.0
+baseline majority,37,12,200.0
+baseline majority,37,13,200.0
+baseline majority,37,14,104.0
+baseline majority,37,15,200.0
+baseline majority,37,16,200.0
+baseline majority,37,17,200.0
+baseline majority,37,18,200.0
+baseline majority,37,19,200.0
+baseline majority,37,20,200.0
+baseline majority,37,21,200.0
+baseline majority,37,22,200.0
+baseline majority,37,23,200.0
+baseline majority,37,24,200.0
+baseline majority,37,25,200.0
+baseline majority,37,26,122.0
+baseline majority,37,27,200.0
+baseline majority,37,28,200.0
+baseline majority,37,29,132.0
+baseline majority,37,30,46.0
+baseline majority,37,31,200.0
+baseline majority,37,32,200.0
+baseline majority,37,33,200.0
+baseline majority,37,34,200.0
+baseline majority,37,35,200.0
+baseline majority,37,36,200.0
+baseline majority,37,37,200.0
+baseline majority,37,38,26.0
+baseline majority,37,39,200.0
+baseline majority,37,40,200.0
+baseline majority,37,41,200.0
+baseline majority,37,42,200.0
+baseline majority,37,43,200.0
+baseline majority,37,44,200.0
+baseline majority,37,45,82.0
+baseline majority,37,46,133.0
+baseline majority,37,47,200.0
+baseline majority,37,48,161.0
+baseline majority,37,49,192.0
+baseline majority,37,50,200.0
+baseline majority,37,51,200.0
+baseline majority,37,52,200.0
+baseline majority,37,53,200.0
+baseline majority,37,54,200.0
+baseline majority,37,55,200.0
+baseline majority,37,56,200.0
+baseline majority,37,57,200.0
+baseline majority,37,58,172.0
+baseline majority,37,59,160.0
+baseline majority,37,60,200.0
+baseline majority,37,61,200.0
+baseline majority,37,62,200.0
+baseline majority,37,63,200.0
+baseline majority,37,64,200.0
+baseline majority,37,65,200.0
+baseline majority,37,66,162.0
+baseline majority,37,67,161.0
+baseline majority,37,68,200.0
+baseline majority,37,69,200.0
+baseline majority,37,70,200.0
+baseline majority,37,71,200.0
+baseline majority,37,72,200.0
+baseline majority,37,73,52.0
+baseline majority,37,74,200.0
+baseline majority,37,75,200.0
+baseline majority,37,76,189.0
+baseline majority,37,77,200.0
+baseline majority,37,78,200.0
+baseline majority,37,79,200.0
+baseline majority,37,80,200.0
+baseline majority,37,81,200.0
+baseline majority,37,82,200.0
+baseline majority,37,83,200.0
+baseline majority,37,84,200.0
+baseline majority,37,85,87.0
+baseline majority,37,86,200.0
+baseline majority,37,87,200.0
+baseline majority,37,88,32.0
+baseline majority,37,89,200.0
+baseline majority,37,90,39.0
+baseline majority,37,91,200.0
+baseline majority,37,92,200.0
+baseline majority,37,93,200.0
+baseline majority,37,94,200.0
+baseline majority,37,95,200.0
+baseline majority,37,96,200.0
+baseline majority,37,97,200.0
+baseline majority,37,98,200.0
+baseline majority,37,99,101.0
+baseline majority,37,100,200.0
+baseline majority,41,1,200.0
+baseline majority,41,2,200.0
+baseline majority,41,3,200.0
+baseline majority,41,4,200.0
+baseline majority,41,5,200.0
+baseline majority,41,6,200.0
+baseline majority,41,7,200.0
+baseline majority,41,8,200.0
+baseline majority,41,9,200.0
+baseline majority,41,10,200.0
+baseline majority,41,11,200.0
+baseline majority,41,12,200.0
+baseline majority,41,13,200.0
+baseline majority,41,14,200.0
+baseline majority,41,15,200.0
+baseline majority,41,16,200.0
+baseline majority,41,17,200.0
+baseline majority,41,18,200.0
+baseline majority,41,19,200.0
+baseline majority,41,20,200.0
+baseline majority,41,21,200.0
+baseline majority,41,22,200.0
+baseline majority,41,23,200.0
+baseline majority,41,24,200.0
+baseline majority,41,25,200.0
+baseline majority,41,26,200.0
+baseline majority,41,27,200.0
+baseline majority,41,28,200.0
+baseline majority,41,29,200.0
+baseline majority,41,30,200.0
+baseline majority,41,31,200.0
+baseline majority,41,32,200.0
+baseline majority,41,33,200.0
+baseline majority,41,34,200.0
+baseline majority,41,35,200.0
+baseline majority,41,36,200.0
+baseline majority,41,37,200.0
+baseline majority,41,38,200.0
+baseline majority,41,39,200.0
+baseline majority,41,40,200.0
+baseline majority,41,41,200.0
+baseline majority,41,42,200.0
+baseline majority,41,43,200.0
+baseline majority,41,44,200.0
+baseline majority,41,45,98.0
+baseline majority,41,46,200.0
+baseline majority,41,47,200.0
+baseline majority,41,48,200.0
+baseline majority,41,49,200.0
+baseline majority,41,50,200.0
+baseline majority,41,51,200.0
+baseline majority,41,52,200.0
+baseline majority,41,53,200.0
+baseline majority,41,54,200.0
+baseline majority,41,55,200.0
+baseline majority,41,56,200.0
+baseline majority,41,57,200.0
+baseline majority,41,58,200.0
+baseline majority,41,59,200.0
+baseline majority,41,60,200.0
+baseline majority,41,61,200.0
+baseline majority,41,62,200.0
+baseline majority,41,63,200.0
+baseline majority,41,64,200.0
+baseline majority,41,65,200.0
+baseline majority,41,66,200.0
+baseline majority,41,67,200.0
+baseline majority,41,68,200.0
+baseline majority,41,69,200.0
+baseline majority,41,70,200.0
+baseline majority,41,71,200.0
+baseline majority,41,72,200.0
+baseline majority,41,73,200.0
+baseline majority,41,74,200.0
+baseline majority,41,75,200.0
+baseline majority,41,76,200.0
+baseline majority,41,77,200.0
+baseline majority,41,78,200.0
+baseline majority,41,79,200.0
+baseline majority,41,80,200.0
+baseline majority,41,81,200.0
+baseline majority,41,82,200.0
+baseline majority,41,83,200.0
+baseline majority,41,84,200.0
+baseline majority,41,85,200.0
+baseline majority,41,86,200.0
+baseline majority,41,87,84.0
+baseline majority,41,88,200.0
+baseline majority,41,89,200.0
+baseline majority,41,90,200.0
+baseline majority,41,91,200.0
+baseline majority,41,92,200.0
+baseline majority,41,93,200.0
+baseline majority,41,94,200.0
+baseline majority,41,95,200.0
+baseline majority,41,96,200.0
+baseline majority,41,97,200.0
+baseline majority,41,98,200.0
+baseline majority,41,99,200.0
+baseline majority,41,100,200.0
+baseline majority,43,1,200.0
+baseline majority,43,2,200.0
+baseline majority,43,3,200.0
+baseline majority,43,4,200.0
+baseline majority,43,5,200.0
+baseline majority,43,6,200.0
+baseline majority,43,7,200.0
+baseline majority,43,8,200.0
+baseline majority,43,9,200.0
+baseline majority,43,10,200.0
+baseline majority,43,11,200.0
+baseline majority,43,12,200.0
+baseline majority,43,13,200.0
+baseline majority,43,14,200.0
+baseline majority,43,15,200.0
+baseline majority,43,16,200.0
+baseline majority,43,17,200.0
+baseline majority,43,18,16.0
+baseline majority,43,19,200.0
+baseline majority,43,20,200.0
+baseline majority,43,21,200.0
+baseline majority,43,22,200.0
+baseline majority,43,23,200.0
+baseline majority,43,24,200.0
+baseline majority,43,25,200.0
+baseline majority,43,26,200.0
+baseline majority,43,27,200.0
+baseline majority,43,28,200.0
+baseline majority,43,29,200.0
+baseline majority,43,30,200.0
+baseline majority,43,31,181.0
+baseline majority,43,32,200.0
+baseline majority,43,33,200.0
+baseline majority,43,34,157.0
+baseline majority,43,35,181.0
+baseline majority,43,36,200.0
+baseline majority,43,37,200.0
+baseline majority,43,38,200.0
+baseline majority,43,39,200.0
+baseline majority,43,40,200.0
+baseline majority,43,41,200.0
+baseline majority,43,42,14.0
+baseline majority,43,43,200.0
+baseline majority,43,44,200.0
+baseline majority,43,45,200.0
+baseline majority,43,46,200.0
+baseline majority,43,47,200.0
+baseline majority,43,48,200.0
+baseline majority,43,49,200.0
+baseline majority,43,50,200.0
+baseline majority,43,51,200.0
+baseline majority,43,52,200.0
+baseline majority,43,53,142.0
+baseline majority,43,54,200.0
+baseline majority,43,55,200.0
+baseline majority,43,56,200.0
+baseline majority,43,57,200.0
+baseline majority,43,58,200.0
+baseline majority,43,59,200.0
+baseline majority,43,60,200.0
+baseline majority,43,61,200.0
+baseline majority,43,62,200.0
+baseline majority,43,63,200.0
+baseline majority,43,64,200.0
+baseline majority,43,65,200.0
+baseline majority,43,66,200.0
+baseline majority,43,67,200.0
+baseline majority,43,68,200.0
+baseline majority,43,69,200.0
+baseline majority,43,70,200.0
+baseline majority,43,71,200.0
+baseline majority,43,72,200.0
+baseline majority,43,73,200.0
+baseline majority,43,74,200.0
+baseline majority,43,75,200.0
+baseline majority,43,76,200.0
+baseline majority,43,77,200.0
+baseline majority,43,78,200.0
+baseline majority,43,79,200.0
+baseline majority,43,80,200.0
+baseline majority,43,81,200.0
+baseline majority,43,82,200.0
+baseline majority,43,83,200.0
+baseline majority,43,84,200.0
+baseline majority,43,85,200.0
+baseline majority,43,86,200.0
+baseline majority,43,87,200.0
+baseline majority,43,88,200.0
+baseline majority,43,89,200.0
+baseline majority,43,90,200.0
+baseline majority,43,91,200.0
+baseline majority,43,92,200.0
+baseline majority,43,93,200.0
+baseline majority,43,94,200.0
+baseline majority,43,95,200.0
+baseline majority,43,96,200.0
+baseline majority,43,97,200.0
+baseline majority,43,98,200.0
+baseline majority,43,99,200.0
+baseline majority,43,100,200.0
+baseline majority,47,1,200.0
+baseline majority,47,2,200.0
+baseline majority,47,3,200.0
+baseline majority,47,4,200.0
+baseline majority,47,5,47.0
+baseline majority,47,6,50.0
+baseline majority,47,7,200.0
+baseline majority,47,8,200.0
+baseline majority,47,9,200.0
+baseline majority,47,10,200.0
+baseline majority,47,11,200.0
+baseline majority,47,12,200.0
+baseline majority,47,13,200.0
+baseline majority,47,14,200.0
+baseline majority,47,15,200.0
+baseline majority,47,16,200.0
+baseline majority,47,17,200.0
+baseline majority,47,18,200.0
+baseline majority,47,19,200.0
+baseline majority,47,20,200.0
+baseline majority,47,21,200.0
+baseline majority,47,22,200.0
+baseline majority,47,23,200.0
+baseline majority,47,24,200.0
+baseline majority,47,25,200.0
+baseline majority,47,26,200.0
+baseline majority,47,27,200.0
+baseline majority,47,28,200.0
+baseline majority,47,29,200.0
+baseline majority,47,30,200.0
+baseline majority,47,31,200.0
+baseline majority,47,32,200.0
+baseline majority,47,33,200.0
+baseline majority,47,34,200.0
+baseline majority,47,35,200.0
+baseline majority,47,36,200.0
+baseline majority,47,37,200.0
+baseline majority,47,38,200.0
+baseline majority,47,39,200.0
+baseline majority,47,40,200.0
+baseline majority,47,41,200.0
+baseline majority,47,42,200.0
+baseline majority,47,43,200.0
+baseline majority,47,44,200.0
+baseline majority,47,45,200.0
+baseline majority,47,46,200.0
+baseline majority,47,47,200.0
+baseline majority,47,48,200.0
+baseline majority,47,49,200.0
+baseline majority,47,50,200.0
+baseline majority,47,51,200.0
+baseline majority,47,52,200.0
+baseline majority,47,53,200.0
+baseline majority,47,54,200.0
+baseline majority,47,55,200.0
+baseline majority,47,56,200.0
+baseline majority,47,57,200.0
+baseline majority,47,58,200.0
+baseline majority,47,59,200.0
+baseline majority,47,60,200.0
+baseline majority,47,61,200.0
+baseline majority,47,62,200.0
+baseline majority,47,63,200.0
+baseline majority,47,64,192.0
+baseline majority,47,65,200.0
+baseline majority,47,66,200.0
+baseline majority,47,67,200.0
+baseline majority,47,68,200.0
+baseline majority,47,69,200.0
+baseline majority,47,70,200.0
+baseline majority,47,71,200.0
+baseline majority,47,72,200.0
+baseline majority,47,73,200.0
+baseline majority,47,74,200.0
+baseline majority,47,75,200.0
+baseline majority,47,76,200.0
+baseline majority,47,77,200.0
+baseline majority,47,78,200.0
+baseline majority,47,79,200.0
+baseline majority,47,80,200.0
+baseline majority,47,81,200.0
+baseline majority,47,82,200.0
+baseline majority,47,83,200.0
+baseline majority,47,84,200.0
+baseline majority,47,85,200.0
+baseline majority,47,86,143.0
+baseline majority,47,87,200.0
+baseline majority,47,88,200.0
+baseline majority,47,89,200.0
+baseline majority,47,90,200.0
+baseline majority,47,91,200.0
+baseline majority,47,92,200.0
+baseline majority,47,93,200.0
+baseline majority,47,94,200.0
+baseline majority,47,95,200.0
+baseline majority,47,96,200.0
+baseline majority,47,97,200.0
+baseline majority,47,98,200.0
+baseline majority,47,99,35.0
+baseline majority,47,100,200.0
+baseline majority,53,1,200.0
+baseline majority,53,2,200.0
+baseline majority,53,3,200.0
+baseline majority,53,4,200.0
+baseline majority,53,5,200.0
+baseline majority,53,6,200.0
+baseline majority,53,7,200.0
+baseline majority,53,8,200.0
+baseline majority,53,9,200.0
+baseline majority,53,10,200.0
+baseline majority,53,11,200.0
+baseline majority,53,12,200.0
+baseline majority,53,13,200.0
+baseline majority,53,14,200.0
+baseline majority,53,15,200.0
+baseline majority,53,16,200.0
+baseline majority,53,17,200.0
+baseline majority,53,18,200.0
+baseline majority,53,19,200.0
+baseline majority,53,20,200.0
+baseline majority,53,21,200.0
+baseline majority,53,22,200.0
+baseline majority,53,23,200.0
+baseline majority,53,24,200.0
+baseline majority,53,25,200.0
+baseline majority,53,26,200.0
+baseline majority,53,27,200.0
+baseline majority,53,28,200.0
+baseline majority,53,29,200.0
+baseline majority,53,30,200.0
+baseline majority,53,31,200.0
+baseline majority,53,32,200.0
+baseline majority,53,33,200.0
+baseline majority,53,34,200.0
+baseline majority,53,35,200.0
+baseline majority,53,36,200.0
+baseline majority,53,37,200.0
+baseline majority,53,38,200.0
+baseline majority,53,39,200.0
+baseline majority,53,40,200.0
+baseline majority,53,41,200.0
+baseline majority,53,42,200.0
+baseline majority,53,43,200.0
+baseline majority,53,44,200.0
+baseline majority,53,45,200.0
+baseline majority,53,46,200.0
+baseline majority,53,47,200.0
+baseline majority,53,48,200.0
+baseline majority,53,49,200.0
+baseline majority,53,50,200.0
+baseline majority,53,51,200.0
+baseline majority,53,52,200.0
+baseline majority,53,53,200.0
+baseline majority,53,54,200.0
+baseline majority,53,55,200.0
+baseline majority,53,56,200.0
+baseline majority,53,57,200.0
+baseline majority,53,58,200.0
+baseline majority,53,59,200.0
+baseline majority,53,60,200.0
+baseline majority,53,61,200.0
+baseline majority,53,62,200.0
+baseline majority,53,63,200.0
+baseline majority,53,64,200.0
+baseline majority,53,65,200.0
+baseline majority,53,66,200.0
+baseline majority,53,67,200.0
+baseline majority,53,68,200.0
+baseline majority,53,69,200.0
+baseline majority,53,70,200.0
+baseline majority,53,71,200.0
+baseline majority,53,72,200.0
+baseline majority,53,73,200.0
+baseline majority,53,74,200.0
+baseline majority,53,75,200.0
+baseline majority,53,76,200.0
+baseline majority,53,77,200.0
+baseline majority,53,78,200.0
+baseline majority,53,79,200.0
+baseline majority,53,80,200.0
+baseline majority,53,81,200.0
+baseline majority,53,82,200.0
+baseline majority,53,83,200.0
+baseline majority,53,84,200.0
+baseline majority,53,85,200.0
+baseline majority,53,86,200.0
+baseline majority,53,87,200.0
+baseline majority,53,88,200.0
+baseline majority,53,89,200.0
+baseline majority,53,90,200.0
+baseline majority,53,91,200.0
+baseline majority,53,92,200.0
+baseline majority,53,93,200.0
+baseline majority,53,94,200.0
+baseline majority,53,95,200.0
+baseline majority,53,96,200.0
+baseline majority,53,97,200.0
+baseline majority,53,98,200.0
+baseline majority,53,99,200.0
+baseline majority,53,100,200.0
+baseline majority,59,1,200.0
+baseline majority,59,2,200.0
+baseline majority,59,3,200.0
+baseline majority,59,4,200.0
+baseline majority,59,5,200.0
+baseline majority,59,6,200.0
+baseline majority,59,7,200.0
+baseline majority,59,8,200.0
+baseline majority,59,9,200.0
+baseline majority,59,10,200.0
+baseline majority,59,11,200.0
+baseline majority,59,12,200.0
+baseline majority,59,13,200.0
+baseline majority,59,14,200.0
+baseline majority,59,15,200.0
+baseline majority,59,16,200.0
+baseline majority,59,17,200.0
+baseline majority,59,18,200.0
+baseline majority,59,19,200.0
+baseline majority,59,20,200.0
+baseline majority,59,21,200.0
+baseline majority,59,22,200.0
+baseline majority,59,23,200.0
+baseline majority,59,24,200.0
+baseline majority,59,25,200.0
+baseline majority,59,26,200.0
+baseline majority,59,27,200.0
+baseline majority,59,28,200.0
+baseline majority,59,29,200.0
+baseline majority,59,30,200.0
+baseline majority,59,31,200.0
+baseline majority,59,32,200.0
+baseline majority,59,33,200.0
+baseline majority,59,34,200.0
+baseline majority,59,35,200.0
+baseline majority,59,36,200.0
+baseline majority,59,37,200.0
+baseline majority,59,38,200.0
+baseline majority,59,39,200.0
+baseline majority,59,40,200.0
+baseline majority,59,41,200.0
+baseline majority,59,42,200.0
+baseline majority,59,43,200.0
+baseline majority,59,44,109.0
+baseline majority,59,45,200.0
+baseline majority,59,46,200.0
+baseline majority,59,47,200.0
+baseline majority,59,48,200.0
+baseline majority,59,49,200.0
+baseline majority,59,50,200.0
+baseline majority,59,51,200.0
+baseline majority,59,52,200.0
+baseline majority,59,53,200.0
+baseline majority,59,54,200.0
+baseline majority,59,55,200.0
+baseline majority,59,56,200.0
+baseline majority,59,57,200.0
+baseline majority,59,58,200.0
+baseline majority,59,59,200.0
+baseline majority,59,60,200.0
+baseline majority,59,61,200.0
+baseline majority,59,62,200.0
+baseline majority,59,63,200.0
+baseline majority,59,64,200.0
+baseline majority,59,65,200.0
+baseline majority,59,66,200.0
+baseline majority,59,67,200.0
+baseline majority,59,68,200.0
+baseline majority,59,69,200.0
+baseline majority,59,70,200.0
+baseline majority,59,71,200.0
+baseline majority,59,72,200.0
+baseline majority,59,73,200.0
+baseline majority,59,74,200.0
+baseline majority,59,75,200.0
+baseline majority,59,76,200.0
+baseline majority,59,77,200.0
+baseline majority,59,78,200.0
+baseline majority,59,79,200.0
+baseline majority,59,80,200.0
+baseline majority,59,81,200.0
+baseline majority,59,82,200.0
+baseline majority,59,83,200.0
+baseline majority,59,84,200.0
+baseline majority,59,85,200.0
+baseline majority,59,86,200.0
+baseline majority,59,87,200.0
+baseline majority,59,88,200.0
+baseline majority,59,89,200.0
+baseline majority,59,90,200.0
+baseline majority,59,91,200.0
+baseline majority,59,92,200.0
+baseline majority,59,93,200.0
+baseline majority,59,94,200.0
+baseline majority,59,95,200.0
+baseline majority,59,96,200.0
+baseline majority,59,97,200.0
+baseline majority,59,98,200.0
+baseline majority,59,99,200.0
+baseline majority,59,100,200.0
+majority + 10 RZZZ,3,1,200.0
+majority + 10 RZZZ,3,2,200.0
+majority + 10 RZZZ,3,3,200.0
+majority + 10 RZZZ,3,4,200.0
+majority + 10 RZZZ,3,5,200.0
+majority + 10 RZZZ,3,6,200.0
+majority + 10 RZZZ,3,7,200.0
+majority + 10 RZZZ,3,8,200.0
+majority + 10 RZZZ,3,9,200.0
+majority + 10 RZZZ,3,10,200.0
+majority + 10 RZZZ,3,11,200.0
+majority + 10 RZZZ,3,12,200.0
+majority + 10 RZZZ,3,13,200.0
+majority + 10 RZZZ,3,14,200.0
+majority + 10 RZZZ,3,15,200.0
+majority + 10 RZZZ,3,16,200.0
+majority + 10 RZZZ,3,17,200.0
+majority + 10 RZZZ,3,18,200.0
+majority + 10 RZZZ,3,19,200.0
+majority + 10 RZZZ,3,20,200.0
+majority + 10 RZZZ,3,21,200.0
+majority + 10 RZZZ,3,22,200.0
+majority + 10 RZZZ,3,23,200.0
+majority + 10 RZZZ,3,24,200.0
+majority + 10 RZZZ,3,25,200.0
+majority + 10 RZZZ,3,26,200.0
+majority + 10 RZZZ,3,27,200.0
+majority + 10 RZZZ,3,28,200.0
+majority + 10 RZZZ,3,29,200.0
+majority + 10 RZZZ,3,30,200.0
+majority + 10 RZZZ,3,31,200.0
+majority + 10 RZZZ,3,32,200.0
+majority + 10 RZZZ,3,33,200.0
+majority + 10 RZZZ,3,34,200.0
+majority + 10 RZZZ,3,35,200.0
+majority + 10 RZZZ,3,36,200.0
+majority + 10 RZZZ,3,37,200.0
+majority + 10 RZZZ,3,38,200.0
+majority + 10 RZZZ,3,39,200.0
+majority + 10 RZZZ,3,40,200.0
+majority + 10 RZZZ,3,41,200.0
+majority + 10 RZZZ,3,42,200.0
+majority + 10 RZZZ,3,43,200.0
+majority + 10 RZZZ,3,44,200.0
+majority + 10 RZZZ,3,45,200.0
+majority + 10 RZZZ,3,46,200.0
+majority + 10 RZZZ,3,47,200.0
+majority + 10 RZZZ,3,48,200.0
+majority + 10 RZZZ,3,49,200.0
+majority + 10 RZZZ,3,50,200.0
+majority + 10 RZZZ,3,51,200.0
+majority + 10 RZZZ,3,52,200.0
+majority + 10 RZZZ,3,53,200.0
+majority + 10 RZZZ,3,54,200.0
+majority + 10 RZZZ,3,55,200.0
+majority + 10 RZZZ,3,56,200.0
+majority + 10 RZZZ,3,57,200.0
+majority + 10 RZZZ,3,58,200.0
+majority + 10 RZZZ,3,59,200.0
+majority + 10 RZZZ,3,60,200.0
+majority + 10 RZZZ,3,61,200.0
+majority + 10 RZZZ,3,62,200.0
+majority + 10 RZZZ,3,63,200.0
+majority + 10 RZZZ,3,64,200.0
+majority + 10 RZZZ,3,65,200.0
+majority + 10 RZZZ,3,66,200.0
+majority + 10 RZZZ,3,67,200.0
+majority + 10 RZZZ,3,68,200.0
+majority + 10 RZZZ,3,69,200.0
+majority + 10 RZZZ,3,70,200.0
+majority + 10 RZZZ,3,71,200.0
+majority + 10 RZZZ,3,72,200.0
+majority + 10 RZZZ,3,73,200.0
+majority + 10 RZZZ,3,74,200.0
+majority + 10 RZZZ,3,75,200.0
+majority + 10 RZZZ,3,76,200.0
+majority + 10 RZZZ,3,77,200.0
+majority + 10 RZZZ,3,78,200.0
+majority + 10 RZZZ,3,79,200.0
+majority + 10 RZZZ,3,80,200.0
+majority + 10 RZZZ,3,81,200.0
+majority + 10 RZZZ,3,82,200.0
+majority + 10 RZZZ,3,83,200.0
+majority + 10 RZZZ,3,84,200.0
+majority + 10 RZZZ,3,85,200.0
+majority + 10 RZZZ,3,86,200.0
+majority + 10 RZZZ,3,87,200.0
+majority + 10 RZZZ,3,88,200.0
+majority + 10 RZZZ,3,89,200.0
+majority + 10 RZZZ,3,90,200.0
+majority + 10 RZZZ,3,91,200.0
+majority + 10 RZZZ,3,92,200.0
+majority + 10 RZZZ,3,93,200.0
+majority + 10 RZZZ,3,94,200.0
+majority + 10 RZZZ,3,95,200.0
+majority + 10 RZZZ,3,96,200.0
+majority + 10 RZZZ,3,97,200.0
+majority + 10 RZZZ,3,98,200.0
+majority + 10 RZZZ,3,99,200.0
+majority + 10 RZZZ,3,100,200.0
+majority + 10 RZZZ,7,1,200.0
+majority + 10 RZZZ,7,2,200.0
+majority + 10 RZZZ,7,3,200.0
+majority + 10 RZZZ,7,4,200.0
+majority + 10 RZZZ,7,5,200.0
+majority + 10 RZZZ,7,6,200.0
+majority + 10 RZZZ,7,7,200.0
+majority + 10 RZZZ,7,8,200.0
+majority + 10 RZZZ,7,9,200.0
+majority + 10 RZZZ,7,10,200.0
+majority + 10 RZZZ,7,11,200.0
+majority + 10 RZZZ,7,12,200.0
+majority + 10 RZZZ,7,13,200.0
+majority + 10 RZZZ,7,14,200.0
+majority + 10 RZZZ,7,15,200.0
+majority + 10 RZZZ,7,16,200.0
+majority + 10 RZZZ,7,17,200.0
+majority + 10 RZZZ,7,18,200.0
+majority + 10 RZZZ,7,19,200.0
+majority + 10 RZZZ,7,20,84.0
+majority + 10 RZZZ,7,21,200.0
+majority + 10 RZZZ,7,22,200.0
+majority + 10 RZZZ,7,23,200.0
+majority + 10 RZZZ,7,24,200.0
+majority + 10 RZZZ,7,25,200.0
+majority + 10 RZZZ,7,26,200.0
+majority + 10 RZZZ,7,27,200.0
+majority + 10 RZZZ,7,28,200.0
+majority + 10 RZZZ,7,29,200.0
+majority + 10 RZZZ,7,30,200.0
+majority + 10 RZZZ,7,31,200.0
+majority + 10 RZZZ,7,32,200.0
+majority + 10 RZZZ,7,33,200.0
+majority + 10 RZZZ,7,34,200.0
+majority + 10 RZZZ,7,35,200.0
+majority + 10 RZZZ,7,36,200.0
+majority + 10 RZZZ,7,37,200.0
+majority + 10 RZZZ,7,38,200.0
+majority + 10 RZZZ,7,39,200.0
+majority + 10 RZZZ,7,40,200.0
+majority + 10 RZZZ,7,41,200.0
+majority + 10 RZZZ,7,42,200.0
+majority + 10 RZZZ,7,43,200.0
+majority + 10 RZZZ,7,44,200.0
+majority + 10 RZZZ,7,45,200.0
+majority + 10 RZZZ,7,46,200.0
+majority + 10 RZZZ,7,47,200.0
+majority + 10 RZZZ,7,48,28.0
+majority + 10 RZZZ,7,49,200.0
+majority + 10 RZZZ,7,50,200.0
+majority + 10 RZZZ,7,51,200.0
+majority + 10 RZZZ,7,52,200.0
+majority + 10 RZZZ,7,53,200.0
+majority + 10 RZZZ,7,54,200.0
+majority + 10 RZZZ,7,55,200.0
+majority + 10 RZZZ,7,56,200.0
+majority + 10 RZZZ,7,57,200.0
+majority + 10 RZZZ,7,58,200.0
+majority + 10 RZZZ,7,59,200.0
+majority + 10 RZZZ,7,60,200.0
+majority + 10 RZZZ,7,61,200.0
+majority + 10 RZZZ,7,62,200.0
+majority + 10 RZZZ,7,63,200.0
+majority + 10 RZZZ,7,64,200.0
+majority + 10 RZZZ,7,65,200.0
+majority + 10 RZZZ,7,66,200.0
+majority + 10 RZZZ,7,67,200.0
+majority + 10 RZZZ,7,68,200.0
+majority + 10 RZZZ,7,69,200.0
+majority + 10 RZZZ,7,70,154.0
+majority + 10 RZZZ,7,71,200.0
+majority + 10 RZZZ,7,72,200.0
+majority + 10 RZZZ,7,73,200.0
+majority + 10 RZZZ,7,74,200.0
+majority + 10 RZZZ,7,75,200.0
+majority + 10 RZZZ,7,76,200.0
+majority + 10 RZZZ,7,77,200.0
+majority + 10 RZZZ,7,78,200.0
+majority + 10 RZZZ,7,79,200.0
+majority + 10 RZZZ,7,80,200.0
+majority + 10 RZZZ,7,81,200.0
+majority + 10 RZZZ,7,82,200.0
+majority + 10 RZZZ,7,83,200.0
+majority + 10 RZZZ,7,84,200.0
+majority + 10 RZZZ,7,85,200.0
+majority + 10 RZZZ,7,86,200.0
+majority + 10 RZZZ,7,87,200.0
+majority + 10 RZZZ,7,88,200.0
+majority + 10 RZZZ,7,89,200.0
+majority + 10 RZZZ,7,90,200.0
+majority + 10 RZZZ,7,91,166.0
+majority + 10 RZZZ,7,92,200.0
+majority + 10 RZZZ,7,93,200.0
+majority + 10 RZZZ,7,94,200.0
+majority + 10 RZZZ,7,95,200.0
+majority + 10 RZZZ,7,96,200.0
+majority + 10 RZZZ,7,97,200.0
+majority + 10 RZZZ,7,98,200.0
+majority + 10 RZZZ,7,99,200.0
+majority + 10 RZZZ,7,100,200.0
+majority + 10 RZZZ,11,1,200.0
+majority + 10 RZZZ,11,2,200.0
+majority + 10 RZZZ,11,3,200.0
+majority + 10 RZZZ,11,4,200.0
+majority + 10 RZZZ,11,5,200.0
+majority + 10 RZZZ,11,6,200.0
+majority + 10 RZZZ,11,7,200.0
+majority + 10 RZZZ,11,8,200.0
+majority + 10 RZZZ,11,9,200.0
+majority + 10 RZZZ,11,10,200.0
+majority + 10 RZZZ,11,11,200.0
+majority + 10 RZZZ,11,12,200.0
+majority + 10 RZZZ,11,13,200.0
+majority + 10 RZZZ,11,14,200.0
+majority + 10 RZZZ,11,15,200.0
+majority + 10 RZZZ,11,16,200.0
+majority + 10 RZZZ,11,17,200.0
+majority + 10 RZZZ,11,18,26.0
+majority + 10 RZZZ,11,19,200.0
+majority + 10 RZZZ,11,20,54.0
+majority + 10 RZZZ,11,21,200.0
+majority + 10 RZZZ,11,22,200.0
+majority + 10 RZZZ,11,23,200.0
+majority + 10 RZZZ,11,24,200.0
+majority + 10 RZZZ,11,25,137.0
+majority + 10 RZZZ,11,26,200.0
+majority + 10 RZZZ,11,27,200.0
+majority + 10 RZZZ,11,28,200.0
+majority + 10 RZZZ,11,29,200.0
+majority + 10 RZZZ,11,30,200.0
+majority + 10 RZZZ,11,31,200.0
+majority + 10 RZZZ,11,32,114.0
+majority + 10 RZZZ,11,33,200.0
+majority + 10 RZZZ,11,34,200.0
+majority + 10 RZZZ,11,35,200.0
+majority + 10 RZZZ,11,36,35.0
+majority + 10 RZZZ,11,37,21.0
+majority + 10 RZZZ,11,38,200.0
+majority + 10 RZZZ,11,39,200.0
+majority + 10 RZZZ,11,40,94.0
+majority + 10 RZZZ,11,41,200.0
+majority + 10 RZZZ,11,42,200.0
+majority + 10 RZZZ,11,43,200.0
+majority + 10 RZZZ,11,44,200.0
+majority + 10 RZZZ,11,45,200.0
+majority + 10 RZZZ,11,46,200.0
+majority + 10 RZZZ,11,47,200.0
+majority + 10 RZZZ,11,48,200.0
+majority + 10 RZZZ,11,49,200.0
+majority + 10 RZZZ,11,50,200.0
+majority + 10 RZZZ,11,51,200.0
+majority + 10 RZZZ,11,52,123.0
+majority + 10 RZZZ,11,53,200.0
+majority + 10 RZZZ,11,54,200.0
+majority + 10 RZZZ,11,55,200.0
+majority + 10 RZZZ,11,56,98.0
+majority + 10 RZZZ,11,57,155.0
+majority + 10 RZZZ,11,58,200.0
+majority + 10 RZZZ,11,59,200.0
+majority + 10 RZZZ,11,60,200.0
+majority + 10 RZZZ,11,61,200.0
+majority + 10 RZZZ,11,62,200.0
+majority + 10 RZZZ,11,63,200.0
+majority + 10 RZZZ,11,64,200.0
+majority + 10 RZZZ,11,65,200.0
+majority + 10 RZZZ,11,66,200.0
+majority + 10 RZZZ,11,67,200.0
+majority + 10 RZZZ,11,68,200.0
+majority + 10 RZZZ,11,69,200.0
+majority + 10 RZZZ,11,70,200.0
+majority + 10 RZZZ,11,71,56.0
+majority + 10 RZZZ,11,72,200.0
+majority + 10 RZZZ,11,73,200.0
+majority + 10 RZZZ,11,74,115.0
+majority + 10 RZZZ,11,75,200.0
+majority + 10 RZZZ,11,76,200.0
+majority + 10 RZZZ,11,77,200.0
+majority + 10 RZZZ,11,78,200.0
+majority + 10 RZZZ,11,79,200.0
+majority + 10 RZZZ,11,80,40.0
+majority + 10 RZZZ,11,81,200.0
+majority + 10 RZZZ,11,82,200.0
+majority + 10 RZZZ,11,83,200.0
+majority + 10 RZZZ,11,84,127.0
+majority + 10 RZZZ,11,85,200.0
+majority + 10 RZZZ,11,86,80.0
+majority + 10 RZZZ,11,87,200.0
+majority + 10 RZZZ,11,88,200.0
+majority + 10 RZZZ,11,89,200.0
+majority + 10 RZZZ,11,90,200.0
+majority + 10 RZZZ,11,91,200.0
+majority + 10 RZZZ,11,92,200.0
+majority + 10 RZZZ,11,93,200.0
+majority + 10 RZZZ,11,94,200.0
+majority + 10 RZZZ,11,95,200.0
+majority + 10 RZZZ,11,96,200.0
+majority + 10 RZZZ,11,97,200.0
+majority + 10 RZZZ,11,98,200.0
+majority + 10 RZZZ,11,99,200.0
+majority + 10 RZZZ,11,100,200.0
+majority + 10 RZZZ,23,1,200.0
+majority + 10 RZZZ,23,2,200.0
+majority + 10 RZZZ,23,3,200.0
+majority + 10 RZZZ,23,4,200.0
+majority + 10 RZZZ,23,5,200.0
+majority + 10 RZZZ,23,6,200.0
+majority + 10 RZZZ,23,7,200.0
+majority + 10 RZZZ,23,8,200.0
+majority + 10 RZZZ,23,9,200.0
+majority + 10 RZZZ,23,10,200.0
+majority + 10 RZZZ,23,11,200.0
+majority + 10 RZZZ,23,12,200.0
+majority + 10 RZZZ,23,13,200.0
+majority + 10 RZZZ,23,14,200.0
+majority + 10 RZZZ,23,15,200.0
+majority + 10 RZZZ,23,16,200.0
+majority + 10 RZZZ,23,17,200.0
+majority + 10 RZZZ,23,18,200.0
+majority + 10 RZZZ,23,19,200.0
+majority + 10 RZZZ,23,20,200.0
+majority + 10 RZZZ,23,21,200.0
+majority + 10 RZZZ,23,22,200.0
+majority + 10 RZZZ,23,23,200.0
+majority + 10 RZZZ,23,24,200.0
+majority + 10 RZZZ,23,25,200.0
+majority + 10 RZZZ,23,26,200.0
+majority + 10 RZZZ,23,27,200.0
+majority + 10 RZZZ,23,28,200.0
+majority + 10 RZZZ,23,29,200.0
+majority + 10 RZZZ,23,30,200.0
+majority + 10 RZZZ,23,31,200.0
+majority + 10 RZZZ,23,32,200.0
+majority + 10 RZZZ,23,33,160.0
+majority + 10 RZZZ,23,34,200.0
+majority + 10 RZZZ,23,35,200.0
+majority + 10 RZZZ,23,36,200.0
+majority + 10 RZZZ,23,37,200.0
+majority + 10 RZZZ,23,38,200.0
+majority + 10 RZZZ,23,39,200.0
+majority + 10 RZZZ,23,40,200.0
+majority + 10 RZZZ,23,41,200.0
+majority + 10 RZZZ,23,42,200.0
+majority + 10 RZZZ,23,43,200.0
+majority + 10 RZZZ,23,44,200.0
+majority + 10 RZZZ,23,45,200.0
+majority + 10 RZZZ,23,46,200.0
+majority + 10 RZZZ,23,47,200.0
+majority + 10 RZZZ,23,48,200.0
+majority + 10 RZZZ,23,49,200.0
+majority + 10 RZZZ,23,50,200.0
+majority + 10 RZZZ,23,51,200.0
+majority + 10 RZZZ,23,52,200.0
+majority + 10 RZZZ,23,53,200.0
+majority + 10 RZZZ,23,54,200.0
+majority + 10 RZZZ,23,55,200.0
+majority + 10 RZZZ,23,56,200.0
+majority + 10 RZZZ,23,57,200.0
+majority + 10 RZZZ,23,58,200.0
+majority + 10 RZZZ,23,59,200.0
+majority + 10 RZZZ,23,60,200.0
+majority + 10 RZZZ,23,61,200.0
+majority + 10 RZZZ,23,62,200.0
+majority + 10 RZZZ,23,63,200.0
+majority + 10 RZZZ,23,64,200.0
+majority + 10 RZZZ,23,65,200.0
+majority + 10 RZZZ,23,66,200.0
+majority + 10 RZZZ,23,67,200.0
+majority + 10 RZZZ,23,68,200.0
+majority + 10 RZZZ,23,69,200.0
+majority + 10 RZZZ,23,70,200.0
+majority + 10 RZZZ,23,71,200.0
+majority + 10 RZZZ,23,72,200.0
+majority + 10 RZZZ,23,73,200.0
+majority + 10 RZZZ,23,74,200.0
+majority + 10 RZZZ,23,75,200.0
+majority + 10 RZZZ,23,76,200.0
+majority + 10 RZZZ,23,77,200.0
+majority + 10 RZZZ,23,78,200.0
+majority + 10 RZZZ,23,79,200.0
+majority + 10 RZZZ,23,80,28.0
+majority + 10 RZZZ,23,81,200.0
+majority + 10 RZZZ,23,82,200.0
+majority + 10 RZZZ,23,83,200.0
+majority + 10 RZZZ,23,84,200.0
+majority + 10 RZZZ,23,85,200.0
+majority + 10 RZZZ,23,86,200.0
+majority + 10 RZZZ,23,87,200.0
+majority + 10 RZZZ,23,88,200.0
+majority + 10 RZZZ,23,89,200.0
+majority + 10 RZZZ,23,90,200.0
+majority + 10 RZZZ,23,91,200.0
+majority + 10 RZZZ,23,92,200.0
+majority + 10 RZZZ,23,93,200.0
+majority + 10 RZZZ,23,94,200.0
+majority + 10 RZZZ,23,95,200.0
+majority + 10 RZZZ,23,96,200.0
+majority + 10 RZZZ,23,97,200.0
+majority + 10 RZZZ,23,98,200.0
+majority + 10 RZZZ,23,99,200.0
+majority + 10 RZZZ,23,100,200.0
+majority + 10 RZZZ,37,1,200.0
+majority + 10 RZZZ,37,2,200.0
+majority + 10 RZZZ,37,3,200.0
+majority + 10 RZZZ,37,4,200.0
+majority + 10 RZZZ,37,5,200.0
+majority + 10 RZZZ,37,6,200.0
+majority + 10 RZZZ,37,7,200.0
+majority + 10 RZZZ,37,8,200.0
+majority + 10 RZZZ,37,9,200.0
+majority + 10 RZZZ,37,10,187.0
+majority + 10 RZZZ,37,11,200.0
+majority + 10 RZZZ,37,12,200.0
+majority + 10 RZZZ,37,13,200.0
+majority + 10 RZZZ,37,14,200.0
+majority + 10 RZZZ,37,15,200.0
+majority + 10 RZZZ,37,16,200.0
+majority + 10 RZZZ,37,17,188.0
+majority + 10 RZZZ,37,18,200.0
+majority + 10 RZZZ,37,19,200.0
+majority + 10 RZZZ,37,20,200.0
+majority + 10 RZZZ,37,21,200.0
+majority + 10 RZZZ,37,22,200.0
+majority + 10 RZZZ,37,23,200.0
+majority + 10 RZZZ,37,24,200.0
+majority + 10 RZZZ,37,25,200.0
+majority + 10 RZZZ,37,26,200.0
+majority + 10 RZZZ,37,27,200.0
+majority + 10 RZZZ,37,28,200.0
+majority + 10 RZZZ,37,29,200.0
+majority + 10 RZZZ,37,30,200.0
+majority + 10 RZZZ,37,31,200.0
+majority + 10 RZZZ,37,32,200.0
+majority + 10 RZZZ,37,33,200.0
+majority + 10 RZZZ,37,34,200.0
+majority + 10 RZZZ,37,35,200.0
+majority + 10 RZZZ,37,36,200.0
+majority + 10 RZZZ,37,37,166.0
+majority + 10 RZZZ,37,38,36.0
+majority + 10 RZZZ,37,39,200.0
+majority + 10 RZZZ,37,40,200.0
+majority + 10 RZZZ,37,41,200.0
+majority + 10 RZZZ,37,42,200.0
+majority + 10 RZZZ,37,43,200.0
+majority + 10 RZZZ,37,44,200.0
+majority + 10 RZZZ,37,45,200.0
+majority + 10 RZZZ,37,46,200.0
+majority + 10 RZZZ,37,47,200.0
+majority + 10 RZZZ,37,48,200.0
+majority + 10 RZZZ,37,49,200.0
+majority + 10 RZZZ,37,50,200.0
+majority + 10 RZZZ,37,51,200.0
+majority + 10 RZZZ,37,52,200.0
+majority + 10 RZZZ,37,53,200.0
+majority + 10 RZZZ,37,54,200.0
+majority + 10 RZZZ,37,55,200.0
+majority + 10 RZZZ,37,56,200.0
+majority + 10 RZZZ,37,57,200.0
+majority + 10 RZZZ,37,58,200.0
+majority + 10 RZZZ,37,59,200.0
+majority + 10 RZZZ,37,60,200.0
+majority + 10 RZZZ,37,61,200.0
+majority + 10 RZZZ,37,62,200.0
+majority + 10 RZZZ,37,63,200.0
+majority + 10 RZZZ,37,64,200.0
+majority + 10 RZZZ,37,65,200.0
+majority + 10 RZZZ,37,66,200.0
+majority + 10 RZZZ,37,67,200.0
+majority + 10 RZZZ,37,68,200.0
+majority + 10 RZZZ,37,69,200.0
+majority + 10 RZZZ,37,70,200.0
+majority + 10 RZZZ,37,71,200.0
+majority + 10 RZZZ,37,72,200.0
+majority + 10 RZZZ,37,73,132.0
+majority + 10 RZZZ,37,74,200.0
+majority + 10 RZZZ,37,75,200.0
+majority + 10 RZZZ,37,76,200.0
+majority + 10 RZZZ,37,77,200.0
+majority + 10 RZZZ,37,78,200.0
+majority + 10 RZZZ,37,79,200.0
+majority + 10 RZZZ,37,80,200.0
+majority + 10 RZZZ,37,81,200.0
+majority + 10 RZZZ,37,82,200.0
+majority + 10 RZZZ,37,83,200.0
+majority + 10 RZZZ,37,84,200.0
+majority + 10 RZZZ,37,85,200.0
+majority + 10 RZZZ,37,86,200.0
+majority + 10 RZZZ,37,87,200.0
+majority + 10 RZZZ,37,88,200.0
+majority + 10 RZZZ,37,89,200.0
+majority + 10 RZZZ,37,90,200.0
+majority + 10 RZZZ,37,91,200.0
+majority + 10 RZZZ,37,92,200.0
+majority + 10 RZZZ,37,93,200.0
+majority + 10 RZZZ,37,94,200.0
+majority + 10 RZZZ,37,95,200.0
+majority + 10 RZZZ,37,96,200.0
+majority + 10 RZZZ,37,97,200.0
+majority + 10 RZZZ,37,98,200.0
+majority + 10 RZZZ,37,99,200.0
+majority + 10 RZZZ,37,100,200.0
+majority + 10 RZZZ,41,1,200.0
+majority + 10 RZZZ,41,2,200.0
+majority + 10 RZZZ,41,3,200.0
+majority + 10 RZZZ,41,4,200.0
+majority + 10 RZZZ,41,5,200.0
+majority + 10 RZZZ,41,6,200.0
+majority + 10 RZZZ,41,7,200.0
+majority + 10 RZZZ,41,8,200.0
+majority + 10 RZZZ,41,9,200.0
+majority + 10 RZZZ,41,10,200.0
+majority + 10 RZZZ,41,11,200.0
+majority + 10 RZZZ,41,12,200.0
+majority + 10 RZZZ,41,13,200.0
+majority + 10 RZZZ,41,14,200.0
+majority + 10 RZZZ,41,15,200.0
+majority + 10 RZZZ,41,16,200.0
+majority + 10 RZZZ,41,17,200.0
+majority + 10 RZZZ,41,18,200.0
+majority + 10 RZZZ,41,19,91.0
+majority + 10 RZZZ,41,20,200.0
+majority + 10 RZZZ,41,21,200.0
+majority + 10 RZZZ,41,22,200.0
+majority + 10 RZZZ,41,23,200.0
+majority + 10 RZZZ,41,24,200.0
+majority + 10 RZZZ,41,25,200.0
+majority + 10 RZZZ,41,26,200.0
+majority + 10 RZZZ,41,27,200.0
+majority + 10 RZZZ,41,28,200.0
+majority + 10 RZZZ,41,29,200.0
+majority + 10 RZZZ,41,30,200.0
+majority + 10 RZZZ,41,31,200.0
+majority + 10 RZZZ,41,32,200.0
+majority + 10 RZZZ,41,33,200.0
+majority + 10 RZZZ,41,34,200.0
+majority + 10 RZZZ,41,35,200.0
+majority + 10 RZZZ,41,36,191.0
+majority + 10 RZZZ,41,37,200.0
+majority + 10 RZZZ,41,38,200.0
+majority + 10 RZZZ,41,39,200.0
+majority + 10 RZZZ,41,40,200.0
+majority + 10 RZZZ,41,41,200.0
+majority + 10 RZZZ,41,42,200.0
+majority + 10 RZZZ,41,43,200.0
+majority + 10 RZZZ,41,44,128.0
+majority + 10 RZZZ,41,45,87.0
+majority + 10 RZZZ,41,46,200.0
+majority + 10 RZZZ,41,47,200.0
+majority + 10 RZZZ,41,48,200.0
+majority + 10 RZZZ,41,49,146.0
+majority + 10 RZZZ,41,50,200.0
+majority + 10 RZZZ,41,51,200.0
+majority + 10 RZZZ,41,52,200.0
+majority + 10 RZZZ,41,53,200.0
+majority + 10 RZZZ,41,54,200.0
+majority + 10 RZZZ,41,55,200.0
+majority + 10 RZZZ,41,56,200.0
+majority + 10 RZZZ,41,57,200.0
+majority + 10 RZZZ,41,58,200.0
+majority + 10 RZZZ,41,59,58.0
+majority + 10 RZZZ,41,60,200.0
+majority + 10 RZZZ,41,61,200.0
+majority + 10 RZZZ,41,62,137.0
+majority + 10 RZZZ,41,63,200.0
+majority + 10 RZZZ,41,64,200.0
+majority + 10 RZZZ,41,65,200.0
+majority + 10 RZZZ,41,66,200.0
+majority + 10 RZZZ,41,67,200.0
+majority + 10 RZZZ,41,68,200.0
+majority + 10 RZZZ,41,69,200.0
+majority + 10 RZZZ,41,70,200.0
+majority + 10 RZZZ,41,71,200.0
+majority + 10 RZZZ,41,72,200.0
+majority + 10 RZZZ,41,73,200.0
+majority + 10 RZZZ,41,74,200.0
+majority + 10 RZZZ,41,75,200.0
+majority + 10 RZZZ,41,76,200.0
+majority + 10 RZZZ,41,77,200.0
+majority + 10 RZZZ,41,78,200.0
+majority + 10 RZZZ,41,79,200.0
+majority + 10 RZZZ,41,80,200.0
+majority + 10 RZZZ,41,81,200.0
+majority + 10 RZZZ,41,82,200.0
+majority + 10 RZZZ,41,83,200.0
+majority + 10 RZZZ,41,84,200.0
+majority + 10 RZZZ,41,85,200.0
+majority + 10 RZZZ,41,86,200.0
+majority + 10 RZZZ,41,87,86.0
+majority + 10 RZZZ,41,88,200.0
+majority + 10 RZZZ,41,89,200.0
+majority + 10 RZZZ,41,90,200.0
+majority + 10 RZZZ,41,91,200.0
+majority + 10 RZZZ,41,92,200.0
+majority + 10 RZZZ,41,93,200.0
+majority + 10 RZZZ,41,94,200.0
+majority + 10 RZZZ,41,95,200.0
+majority + 10 RZZZ,41,96,200.0
+majority + 10 RZZZ,41,97,200.0
+majority + 10 RZZZ,41,98,200.0
+majority + 10 RZZZ,41,99,200.0
+majority + 10 RZZZ,41,100,200.0
+majority + 10 RZZZ,43,1,200.0
+majority + 10 RZZZ,43,2,200.0
+majority + 10 RZZZ,43,3,200.0
+majority + 10 RZZZ,43,4,200.0
+majority + 10 RZZZ,43,5,200.0
+majority + 10 RZZZ,43,6,200.0
+majority + 10 RZZZ,43,7,200.0
+majority + 10 RZZZ,43,8,200.0
+majority + 10 RZZZ,43,9,200.0
+majority + 10 RZZZ,43,10,200.0
+majority + 10 RZZZ,43,11,200.0
+majority + 10 RZZZ,43,12,200.0
+majority + 10 RZZZ,43,13,200.0
+majority + 10 RZZZ,43,14,200.0
+majority + 10 RZZZ,43,15,200.0
+majority + 10 RZZZ,43,16,200.0
+majority + 10 RZZZ,43,17,200.0
+majority + 10 RZZZ,43,18,200.0
+majority + 10 RZZZ,43,19,200.0
+majority + 10 RZZZ,43,20,200.0
+majority + 10 RZZZ,43,21,200.0
+majority + 10 RZZZ,43,22,200.0
+majority + 10 RZZZ,43,23,200.0
+majority + 10 RZZZ,43,24,200.0
+majority + 10 RZZZ,43,25,200.0
+majority + 10 RZZZ,43,26,200.0
+majority + 10 RZZZ,43,27,200.0
+majority + 10 RZZZ,43,28,200.0
+majority + 10 RZZZ,43,29,200.0
+majority + 10 RZZZ,43,30,200.0
+majority + 10 RZZZ,43,31,200.0
+majority + 10 RZZZ,43,32,200.0
+majority + 10 RZZZ,43,33,200.0
+majority + 10 RZZZ,43,34,200.0
+majority + 10 RZZZ,43,35,200.0
+majority + 10 RZZZ,43,36,200.0
+majority + 10 RZZZ,43,37,200.0
+majority + 10 RZZZ,43,38,200.0
+majority + 10 RZZZ,43,39,200.0
+majority + 10 RZZZ,43,40,200.0
+majority + 10 RZZZ,43,41,200.0
+majority + 10 RZZZ,43,42,200.0
+majority + 10 RZZZ,43,43,81.0
+majority + 10 RZZZ,43,44,200.0
+majority + 10 RZZZ,43,45,200.0
+majority + 10 RZZZ,43,46,200.0
+majority + 10 RZZZ,43,47,200.0
+majority + 10 RZZZ,43,48,200.0
+majority + 10 RZZZ,43,49,200.0
+majority + 10 RZZZ,43,50,200.0
+majority + 10 RZZZ,43,51,200.0
+majority + 10 RZZZ,43,52,200.0
+majority + 10 RZZZ,43,53,142.0
+majority + 10 RZZZ,43,54,200.0
+majority + 10 RZZZ,43,55,39.0
+majority + 10 RZZZ,43,56,200.0
+majority + 10 RZZZ,43,57,200.0
+majority + 10 RZZZ,43,58,200.0
+majority + 10 RZZZ,43,59,200.0
+majority + 10 RZZZ,43,60,200.0
+majority + 10 RZZZ,43,61,200.0
+majority + 10 RZZZ,43,62,200.0
+majority + 10 RZZZ,43,63,200.0
+majority + 10 RZZZ,43,64,200.0
+majority + 10 RZZZ,43,65,200.0
+majority + 10 RZZZ,43,66,200.0
+majority + 10 RZZZ,43,67,200.0
+majority + 10 RZZZ,43,68,200.0
+majority + 10 RZZZ,43,69,200.0
+majority + 10 RZZZ,43,70,200.0
+majority + 10 RZZZ,43,71,200.0
+majority + 10 RZZZ,43,72,200.0
+majority + 10 RZZZ,43,73,200.0
+majority + 10 RZZZ,43,74,200.0
+majority + 10 RZZZ,43,75,200.0
+majority + 10 RZZZ,43,76,200.0
+majority + 10 RZZZ,43,77,200.0
+majority + 10 RZZZ,43,78,200.0
+majority + 10 RZZZ,43,79,200.0
+majority + 10 RZZZ,43,80,200.0
+majority + 10 RZZZ,43,81,200.0
+majority + 10 RZZZ,43,82,200.0
+majority + 10 RZZZ,43,83,200.0
+majority + 10 RZZZ,43,84,200.0
+majority + 10 RZZZ,43,85,200.0
+majority + 10 RZZZ,43,86,200.0
+majority + 10 RZZZ,43,87,200.0
+majority + 10 RZZZ,43,88,200.0
+majority + 10 RZZZ,43,89,200.0
+majority + 10 RZZZ,43,90,200.0
+majority + 10 RZZZ,43,91,200.0
+majority + 10 RZZZ,43,92,200.0
+majority + 10 RZZZ,43,93,200.0
+majority + 10 RZZZ,43,94,200.0
+majority + 10 RZZZ,43,95,200.0
+majority + 10 RZZZ,43,96,200.0
+majority + 10 RZZZ,43,97,200.0
+majority + 10 RZZZ,43,98,200.0
+majority + 10 RZZZ,43,99,200.0
+majority + 10 RZZZ,43,100,200.0
+majority + 10 RZZZ,47,1,200.0
+majority + 10 RZZZ,47,2,200.0
+majority + 10 RZZZ,47,3,200.0
+majority + 10 RZZZ,47,4,200.0
+majority + 10 RZZZ,47,5,200.0
+majority + 10 RZZZ,47,6,200.0
+majority + 10 RZZZ,47,7,200.0
+majority + 10 RZZZ,47,8,200.0
+majority + 10 RZZZ,47,9,200.0
+majority + 10 RZZZ,47,10,200.0
+majority + 10 RZZZ,47,11,200.0
+majority + 10 RZZZ,47,12,200.0
+majority + 10 RZZZ,47,13,200.0
+majority + 10 RZZZ,47,14,200.0
+majority + 10 RZZZ,47,15,200.0
+majority + 10 RZZZ,47,16,200.0
+majority + 10 RZZZ,47,17,200.0
+majority + 10 RZZZ,47,18,200.0
+majority + 10 RZZZ,47,19,200.0
+majority + 10 RZZZ,47,20,200.0
+majority + 10 RZZZ,47,21,200.0
+majority + 10 RZZZ,47,22,200.0
+majority + 10 RZZZ,47,23,200.0
+majority + 10 RZZZ,47,24,200.0
+majority + 10 RZZZ,47,25,200.0
+majority + 10 RZZZ,47,26,200.0
+majority + 10 RZZZ,47,27,200.0
+majority + 10 RZZZ,47,28,200.0
+majority + 10 RZZZ,47,29,200.0
+majority + 10 RZZZ,47,30,200.0
+majority + 10 RZZZ,47,31,200.0
+majority + 10 RZZZ,47,32,200.0
+majority + 10 RZZZ,47,33,200.0
+majority + 10 RZZZ,47,34,200.0
+majority + 10 RZZZ,47,35,200.0
+majority + 10 RZZZ,47,36,200.0
+majority + 10 RZZZ,47,37,200.0
+majority + 10 RZZZ,47,38,200.0
+majority + 10 RZZZ,47,39,200.0
+majority + 10 RZZZ,47,40,200.0
+majority + 10 RZZZ,47,41,200.0
+majority + 10 RZZZ,47,42,200.0
+majority + 10 RZZZ,47,43,200.0
+majority + 10 RZZZ,47,44,200.0
+majority + 10 RZZZ,47,45,200.0
+majority + 10 RZZZ,47,46,200.0
+majority + 10 RZZZ,47,47,200.0
+majority + 10 RZZZ,47,48,200.0
+majority + 10 RZZZ,47,49,200.0
+majority + 10 RZZZ,47,50,200.0
+majority + 10 RZZZ,47,51,200.0
+majority + 10 RZZZ,47,52,200.0
+majority + 10 RZZZ,47,53,200.0
+majority + 10 RZZZ,47,54,200.0
+majority + 10 RZZZ,47,55,200.0
+majority + 10 RZZZ,47,56,200.0
+majority + 10 RZZZ,47,57,200.0
+majority + 10 RZZZ,47,58,200.0
+majority + 10 RZZZ,47,59,200.0
+majority + 10 RZZZ,47,60,200.0
+majority + 10 RZZZ,47,61,200.0
+majority + 10 RZZZ,47,62,200.0
+majority + 10 RZZZ,47,63,200.0
+majority + 10 RZZZ,47,64,200.0
+majority + 10 RZZZ,47,65,200.0
+majority + 10 RZZZ,47,66,200.0
+majority + 10 RZZZ,47,67,200.0
+majority + 10 RZZZ,47,68,200.0
+majority + 10 RZZZ,47,69,200.0
+majority + 10 RZZZ,47,70,200.0
+majority + 10 RZZZ,47,71,200.0
+majority + 10 RZZZ,47,72,200.0
+majority + 10 RZZZ,47,73,200.0
+majority + 10 RZZZ,47,74,200.0
+majority + 10 RZZZ,47,75,200.0
+majority + 10 RZZZ,47,76,200.0
+majority + 10 RZZZ,47,77,200.0
+majority + 10 RZZZ,47,78,200.0
+majority + 10 RZZZ,47,79,200.0
+majority + 10 RZZZ,47,80,200.0
+majority + 10 RZZZ,47,81,200.0
+majority + 10 RZZZ,47,82,200.0
+majority + 10 RZZZ,47,83,200.0
+majority + 10 RZZZ,47,84,200.0
+majority + 10 RZZZ,47,85,200.0
+majority + 10 RZZZ,47,86,200.0
+majority + 10 RZZZ,47,87,200.0
+majority + 10 RZZZ,47,88,200.0
+majority + 10 RZZZ,47,89,200.0
+majority + 10 RZZZ,47,90,200.0
+majority + 10 RZZZ,47,91,200.0
+majority + 10 RZZZ,47,92,200.0
+majority + 10 RZZZ,47,93,200.0
+majority + 10 RZZZ,47,94,200.0
+majority + 10 RZZZ,47,95,200.0
+majority + 10 RZZZ,47,96,200.0
+majority + 10 RZZZ,47,97,200.0
+majority + 10 RZZZ,47,98,200.0
+majority + 10 RZZZ,47,99,200.0
+majority + 10 RZZZ,47,100,200.0
+majority + 10 RZZZ,53,1,200.0
+majority + 10 RZZZ,53,2,200.0
+majority + 10 RZZZ,53,3,200.0
+majority + 10 RZZZ,53,4,200.0
+majority + 10 RZZZ,53,5,200.0
+majority + 10 RZZZ,53,6,200.0
+majority + 10 RZZZ,53,7,200.0
+majority + 10 RZZZ,53,8,200.0
+majority + 10 RZZZ,53,9,200.0
+majority + 10 RZZZ,53,10,200.0
+majority + 10 RZZZ,53,11,200.0
+majority + 10 RZZZ,53,12,200.0
+majority + 10 RZZZ,53,13,200.0
+majority + 10 RZZZ,53,14,200.0
+majority + 10 RZZZ,53,15,200.0
+majority + 10 RZZZ,53,16,200.0
+majority + 10 RZZZ,53,17,200.0
+majority + 10 RZZZ,53,18,200.0
+majority + 10 RZZZ,53,19,200.0
+majority + 10 RZZZ,53,20,200.0
+majority + 10 RZZZ,53,21,200.0
+majority + 10 RZZZ,53,22,200.0
+majority + 10 RZZZ,53,23,200.0
+majority + 10 RZZZ,53,24,200.0
+majority + 10 RZZZ,53,25,200.0
+majority + 10 RZZZ,53,26,200.0
+majority + 10 RZZZ,53,27,200.0
+majority + 10 RZZZ,53,28,200.0
+majority + 10 RZZZ,53,29,200.0
+majority + 10 RZZZ,53,30,200.0
+majority + 10 RZZZ,53,31,200.0
+majority + 10 RZZZ,53,32,200.0
+majority + 10 RZZZ,53,33,200.0
+majority + 10 RZZZ,53,34,200.0
+majority + 10 RZZZ,53,35,200.0
+majority + 10 RZZZ,53,36,200.0
+majority + 10 RZZZ,53,37,200.0
+majority + 10 RZZZ,53,38,200.0
+majority + 10 RZZZ,53,39,200.0
+majority + 10 RZZZ,53,40,200.0
+majority + 10 RZZZ,53,41,200.0
+majority + 10 RZZZ,53,42,200.0
+majority + 10 RZZZ,53,43,200.0
+majority + 10 RZZZ,53,44,200.0
+majority + 10 RZZZ,53,45,200.0
+majority + 10 RZZZ,53,46,200.0
+majority + 10 RZZZ,53,47,200.0
+majority + 10 RZZZ,53,48,200.0
+majority + 10 RZZZ,53,49,200.0
+majority + 10 RZZZ,53,50,200.0
+majority + 10 RZZZ,53,51,200.0
+majority + 10 RZZZ,53,52,200.0
+majority + 10 RZZZ,53,53,200.0
+majority + 10 RZZZ,53,54,200.0
+majority + 10 RZZZ,53,55,200.0
+majority + 10 RZZZ,53,56,200.0
+majority + 10 RZZZ,53,57,200.0
+majority + 10 RZZZ,53,58,200.0
+majority + 10 RZZZ,53,59,200.0
+majority + 10 RZZZ,53,60,200.0
+majority + 10 RZZZ,53,61,200.0
+majority + 10 RZZZ,53,62,200.0
+majority + 10 RZZZ,53,63,200.0
+majority + 10 RZZZ,53,64,200.0
+majority + 10 RZZZ,53,65,200.0
+majority + 10 RZZZ,53,66,200.0
+majority + 10 RZZZ,53,67,200.0
+majority + 10 RZZZ,53,68,200.0
+majority + 10 RZZZ,53,69,200.0
+majority + 10 RZZZ,53,70,200.0
+majority + 10 RZZZ,53,71,200.0
+majority + 10 RZZZ,53,72,200.0
+majority + 10 RZZZ,53,73,200.0
+majority + 10 RZZZ,53,74,200.0
+majority + 10 RZZZ,53,75,200.0
+majority + 10 RZZZ,53,76,200.0
+majority + 10 RZZZ,53,77,200.0
+majority + 10 RZZZ,53,78,116.0
+majority + 10 RZZZ,53,79,200.0
+majority + 10 RZZZ,53,80,200.0
+majority + 10 RZZZ,53,81,200.0
+majority + 10 RZZZ,53,82,28.0
+majority + 10 RZZZ,53,83,200.0
+majority + 10 RZZZ,53,84,200.0
+majority + 10 RZZZ,53,85,200.0
+majority + 10 RZZZ,53,86,200.0
+majority + 10 RZZZ,53,87,200.0
+majority + 10 RZZZ,53,88,200.0
+majority + 10 RZZZ,53,89,200.0
+majority + 10 RZZZ,53,90,200.0
+majority + 10 RZZZ,53,91,200.0
+majority + 10 RZZZ,53,92,200.0
+majority + 10 RZZZ,53,93,200.0
+majority + 10 RZZZ,53,94,200.0
+majority + 10 RZZZ,53,95,200.0
+majority + 10 RZZZ,53,96,200.0
+majority + 10 RZZZ,53,97,25.0
+majority + 10 RZZZ,53,98,200.0
+majority + 10 RZZZ,53,99,200.0
+majority + 10 RZZZ,53,100,200.0
+majority + 10 RZZZ,59,1,200.0
+majority + 10 RZZZ,59,2,200.0
+majority + 10 RZZZ,59,3,200.0
+majority + 10 RZZZ,59,4,200.0
+majority + 10 RZZZ,59,5,200.0
+majority + 10 RZZZ,59,6,200.0
+majority + 10 RZZZ,59,7,200.0
+majority + 10 RZZZ,59,8,200.0
+majority + 10 RZZZ,59,9,200.0
+majority + 10 RZZZ,59,10,200.0
+majority + 10 RZZZ,59,11,200.0
+majority + 10 RZZZ,59,12,200.0
+majority + 10 RZZZ,59,13,200.0
+majority + 10 RZZZ,59,14,200.0
+majority + 10 RZZZ,59,15,200.0
+majority + 10 RZZZ,59,16,200.0
+majority + 10 RZZZ,59,17,200.0
+majority + 10 RZZZ,59,18,200.0
+majority + 10 RZZZ,59,19,200.0
+majority + 10 RZZZ,59,20,200.0
+majority + 10 RZZZ,59,21,200.0
+majority + 10 RZZZ,59,22,200.0
+majority + 10 RZZZ,59,23,200.0
+majority + 10 RZZZ,59,24,200.0
+majority + 10 RZZZ,59,25,200.0
+majority + 10 RZZZ,59,26,200.0
+majority + 10 RZZZ,59,27,200.0
+majority + 10 RZZZ,59,28,200.0
+majority + 10 RZZZ,59,29,200.0
+majority + 10 RZZZ,59,30,200.0
+majority + 10 RZZZ,59,31,200.0
+majority + 10 RZZZ,59,32,200.0
+majority + 10 RZZZ,59,33,200.0
+majority + 10 RZZZ,59,34,200.0
+majority + 10 RZZZ,59,35,200.0
+majority + 10 RZZZ,59,36,200.0
+majority + 10 RZZZ,59,37,200.0
+majority + 10 RZZZ,59,38,200.0
+majority + 10 RZZZ,59,39,200.0
+majority + 10 RZZZ,59,40,200.0
+majority + 10 RZZZ,59,41,200.0
+majority + 10 RZZZ,59,42,200.0
+majority + 10 RZZZ,59,43,200.0
+majority + 10 RZZZ,59,44,200.0
+majority + 10 RZZZ,59,45,200.0
+majority + 10 RZZZ,59,46,148.0
+majority + 10 RZZZ,59,47,200.0
+majority + 10 RZZZ,59,48,200.0
+majority + 10 RZZZ,59,49,200.0
+majority + 10 RZZZ,59,50,200.0
+majority + 10 RZZZ,59,51,200.0
+majority + 10 RZZZ,59,52,200.0
+majority + 10 RZZZ,59,53,200.0
+majority + 10 RZZZ,59,54,200.0
+majority + 10 RZZZ,59,55,200.0
+majority + 10 RZZZ,59,56,200.0
+majority + 10 RZZZ,59,57,200.0
+majority + 10 RZZZ,59,58,200.0
+majority + 10 RZZZ,59,59,200.0
+majority + 10 RZZZ,59,60,200.0
+majority + 10 RZZZ,59,61,200.0
+majority + 10 RZZZ,59,62,200.0
+majority + 10 RZZZ,59,63,200.0
+majority + 10 RZZZ,59,64,200.0
+majority + 10 RZZZ,59,65,200.0
+majority + 10 RZZZ,59,66,200.0
+majority + 10 RZZZ,59,67,200.0
+majority + 10 RZZZ,59,68,200.0
+majority + 10 RZZZ,59,69,200.0
+majority + 10 RZZZ,59,70,200.0
+majority + 10 RZZZ,59,71,200.0
+majority + 10 RZZZ,59,72,200.0
+majority + 10 RZZZ,59,73,200.0
+majority + 10 RZZZ,59,74,200.0
+majority + 10 RZZZ,59,75,200.0
+majority + 10 RZZZ,59,76,200.0
+majority + 10 RZZZ,59,77,200.0
+majority + 10 RZZZ,59,78,200.0
+majority + 10 RZZZ,59,79,200.0
+majority + 10 RZZZ,59,80,200.0
+majority + 10 RZZZ,59,81,200.0
+majority + 10 RZZZ,59,82,200.0
+majority + 10 RZZZ,59,83,182.0
+majority + 10 RZZZ,59,84,200.0
+majority + 10 RZZZ,59,85,200.0
+majority + 10 RZZZ,59,86,200.0
+majority + 10 RZZZ,59,87,200.0
+majority + 10 RZZZ,59,88,200.0
+majority + 10 RZZZ,59,89,200.0
+majority + 10 RZZZ,59,90,200.0
+majority + 10 RZZZ,59,91,200.0
+majority + 10 RZZZ,59,92,200.0
+majority + 10 RZZZ,59,93,200.0
+majority + 10 RZZZ,59,94,200.0
+majority + 10 RZZZ,59,95,200.0
+majority + 10 RZZZ,59,96,200.0
+majority + 10 RZZZ,59,97,200.0
+majority + 10 RZZZ,59,98,200.0
+majority + 10 RZZZ,59,99,200.0
+majority + 10 RZZZ,59,100,200.0

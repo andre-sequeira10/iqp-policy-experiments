@@ -1,0 +1,17 @@
+{
+  "model": {
+    "name": "iqp_7_0.15",
+    "n": 7,
+    "sigma": 0.15
+  },
+  "seed": 223,
+  "phase": "development_v1",
+  "episodes": 500,
+  "auc": 0.91023,
+  "restricted_solve_episode": 242,
+  "final50": 193.62,
+  "heldout": 192.2,
+  "parameters": 49,
+  "seconds": 23.79518222808838,
+  "initial_sha256": "5c2a7e37f94d94054a4c53829228d00f6c213a7a7683a19ab45479f2122de411"
+}

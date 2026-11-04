@@ -1,0 +1,21 @@
+{
+  "model": {
+    "name": "iqpblocksbalanced_21_0.5",
+    "n": 21,
+    "sigma": 0.5,
+    "family": "iqpblocksbalanced"
+  },
+  "seed": 677,
+  "phase": "validation_round2_strict",
+  "episodes": 500,
+  "auc": 0.93904,
+  "restricted_solve_episode": 171,
+  "final50": 200.0,
+  "heldout": 198.25,
+  "parameters": 133,
+  "seconds": 29.231700897216797,
+  "freeze_protocol": "full_100_episodes",
+  "optimizer_freeze_episode": 175,
+  "optimizer_updates": 34,
+  "initial_sha256": "181a4ce92549d8cd53a2b8941b9816cc95d77fe74e8843014642ba07218d5ca7"
+}

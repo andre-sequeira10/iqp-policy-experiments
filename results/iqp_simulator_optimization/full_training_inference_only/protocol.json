@@ -1,0 +1,19 @@
+{
+  "seeds": [
+    2001,
+    2002,
+    2003
+  ],
+  "methods": [
+    "reference",
+    "compiled",
+    "compiled_frozen",
+    "mlp",
+    "mlp_frozen"
+  ],
+  "episodes": 500,
+  "torch": "2.7.0",
+  "platform": "macOS-27.0-arm64-arm-64bit",
+  "threads": 1,
+  "scope": "Training only; compile warmup reported separately. First four methods run serially in rotated order across seeds; MLP frozen-work elimination is a separate three-seed follow-up. Shared desktop, not an exclusive-host benchmark. No changes to circuit, decoder, precision, initialization, loss, optimizer, batching, random streams, freeze rule or total episodes."
+}

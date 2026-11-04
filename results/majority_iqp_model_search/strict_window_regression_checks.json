@@ -1,0 +1,22 @@
+[
+  {
+    "early_good_episodes_only": false,
+    "freeze_episode": 100,
+    "optimizer_updates": 19
+  },
+  {
+    "early_good_episodes_only": true,
+    "freeze_episode": null,
+    "optimizer_updates": 22
+  },
+  {
+    "model": "mlp",
+    "unchanged_pre_freeze_trajectory": true,
+    "parameter_difference": 0.0
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.15",
+    "unchanged_pre_freeze_trajectory": true,
+    "parameter_difference": 0.0
+  }
+]

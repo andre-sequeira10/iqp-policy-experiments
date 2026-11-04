@@ -1,0 +1,41 @@
+condition,seed,normalized_training_auc,training_final_50,heldout_evaluation_mean,strict_solved_episode,heldout_mean_at_least_195
+graph-local $R_{ZZZ}$ IQP,61,0.66281,193.86,199.02,377.0,True
+graph-local $R_{ZZZ}$ IQP,67,0.6088600000000001,193.44,188.83,,False
+graph-local $R_{ZZZ}$ IQP,71,0.48026,196.74,195.04,,True
+graph-local $R_{ZZZ}$ IQP,73,0.57175,199.66,196.95,429.0,True
+graph-local $R_{ZZZ}$ IQP,79,0.57731,199.42,200.0,409.0,True
+graph-local $R_{ZZZ}$ IQP,83,0.68167,199.52,193.56,389.0,False
+graph-local $R_{ZZZ}$ IQP,89,0.79601,198.22,200.0,284.0,True
+graph-local $R_{ZZZ}$ IQP,97,0.38795,171.76,179.94,,False
+graph-local $R_{ZZZ}$ IQP,101,0.58302,197.32,197.12,,True
+graph-local $R_{ZZZ}$ IQP,103,0.49473999999999996,190.1,193.63,,False
+graph-local $R_{ZZZ}$ IQP,107,0.70441,195.06,197.79,,True
+graph-local $R_{ZZZ}$ IQP,109,0.69134,198.32,198.89,392.0,True
+graph-local $R_{ZZZ}$ IQP,113,0.53654,188.88,194.71,,False
+graph-local $R_{ZZZ}$ IQP,127,0.66878,192.28,195.74,329.0,True
+graph-local $R_{ZZZ}$ IQP,131,0.7704099999999999,198.78,198.86,375.0,True
+graph-local $R_{ZZZ}$ IQP,137,0.7371,195.32,198.64,,True
+graph-local $R_{ZZZ}$ IQP,139,0.67228,198.64,195.03,388.0,True
+graph-local $R_{ZZZ}$ IQP,149,0.57794,189.68,196.41,,True
+graph-local $R_{ZZZ}$ IQP,151,0.40496000000000004,188.1,189.14,,False
+graph-local $R_{ZZZ}$ IQP,157,0.7268899999999999,197.98,198.68,309.0,True
+classical MLP,61,0.84555,197.72,199.62,201.0,True
+classical MLP,67,0.83914,190.1,188.49,247.0,False
+classical MLP,71,0.81731,199.28,200.0,233.0,True
+classical MLP,73,0.85833,197.72,196.43,214.0,True
+classical MLP,79,0.81238,200.0,199.78,334.0,True
+classical MLP,83,0.78062,199.96,199.48,325.0,True
+classical MLP,89,0.8861199999999999,196.26,200.0,185.0,True
+classical MLP,97,0.75776,200.0,199.81,291.0,True
+classical MLP,101,0.7620600000000001,196.32,192.76,,False
+classical MLP,103,0.86847,197.96,200.0,238.0,True
+classical MLP,107,0.76201,200.0,200.0,386.0,True
+classical MLP,109,0.77858,199.94,199.98,329.0,True
+classical MLP,113,0.91033,200.0,199.57,167.0,True
+classical MLP,127,0.80295,196.26,195.92,221.0,True
+classical MLP,131,0.892,200.0,200.0,174.0,True
+classical MLP,137,0.8471599999999999,197.56,196.34,197.0,True
+classical MLP,139,0.9020999999999999,200.0,200.0,204.0,True
+classical MLP,149,0.7969499999999999,200.0,198.63,361.0,True
+classical MLP,151,0.81792,200.0,200.0,305.0,True
+classical MLP,157,0.81732,200.0,200.0,319.0,True

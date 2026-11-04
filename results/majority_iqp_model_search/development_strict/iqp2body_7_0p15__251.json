@@ -1,0 +1,21 @@
+{
+  "model": {
+    "name": "iqp2body_7_0.15",
+    "n": 7,
+    "sigma": 0.15,
+    "family": "iqp2body"
+  },
+  "seed": 251,
+  "phase": "development_strict",
+  "episodes": 500,
+  "auc": 0.97956,
+  "restricted_solve_episode": 133,
+  "final50": 200.0,
+  "heldout": 200.0,
+  "parameters": 42,
+  "seconds": 45.467639207839966,
+  "freeze_protocol": "full_100_episodes",
+  "optimizer_freeze_episode": 135,
+  "optimizer_updates": 26,
+  "initial_sha256": "906ffd3f1191c8889f5c3dcf8e57578ac02e89a1b65162e3e1e047664eca488d"
+}

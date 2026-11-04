@@ -1,0 +1,20 @@
+{
+  "spec": {
+    "name": "iqp_disconnected",
+    "kind": "disconnected",
+    "n": 21,
+    "lr": 0.03,
+    "parameters": 133
+  },
+  "seed": 2005,
+  "phase": "test",
+  "auc": 0.87708,
+  "solve_episode": 245,
+  "final50": 199.02,
+  "heldout": 198.0,
+  "freeze_episode": 245,
+  "updates": 48,
+  "seconds": 39.523934841156006,
+  "parameters": 133,
+  "initial_hash": "c3df14396eaeb913a7ee39af24b856c8e5b78f6d4134c31da0cc4ae72c14bc2b"
+}

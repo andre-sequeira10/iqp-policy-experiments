@@ -1,0 +1,16 @@
+{
+  "completed": true,
+  "protocol_version": "source_action_rng_reset_after_model_init_v2",
+  "seed": 3,
+  "n_episodes": 500,
+  "n_updates": 100,
+  "n_steps": 79583,
+  "initial_trainable_sha256": "a326ed08bfff4dc7643fe447ff3b5b67c44b528cb1a6e6eecec34284b2931466",
+  "final_mean_return_50": 188.4,
+  "source_freeze_episode": null,
+  "freeze_disabled_for_diagnostic": true,
+  "max_reconstruction_relative_error_used": 1.1705300266839913e-06,
+  "max_alignment_share_sum_error": 2.384185791015625e-07,
+  "max_probability_recompute_error": 2.980232238769531e-07,
+  "runtime_seconds": 97.86525124998298
+}

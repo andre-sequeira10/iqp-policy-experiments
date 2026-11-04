@@ -1,0 +1,167 @@
+{
+  "selected_by_width": {
+    "1": "mlp_h01_lr0p1",
+    "2": "mlp_h02_lr0p1",
+    "4": "mlp_h04_lr0p1",
+    "6": "mlp_h06_lr0p1",
+    "9": "mlp_h09_lr0p1",
+    "12": "mlp_h12_lr0p03",
+    "16": "mlp_h16_lr0p1",
+    "19": "mlp_h19_lr0p03"
+  },
+  "best_auc_mlp": "mlp_h04_lr0p1",
+  "best_solve_mlp": "mlp_h12_lr0p1",
+  "development_means": {
+    "mlp_h01_lr0p003": {
+      "auc": 0.09467125,
+      "solve": 501.0
+    },
+    "mlp_h01_lr0p01": {
+      "auc": 0.15732500000000002,
+      "solve": 501.0
+    },
+    "mlp_h01_lr0p03": {
+      "auc": 0.54229625,
+      "solve": 475.375
+    },
+    "mlp_h01_lr0p1": {
+      "auc": 0.7910487500000001,
+      "solve": 303.0
+    },
+    "mlp_h02_lr0p003": {
+      "auc": 0.12122625,
+      "solve": 501.0
+    },
+    "mlp_h02_lr0p01": {
+      "auc": 0.30598000000000003,
+      "solve": 501.0
+    },
+    "mlp_h02_lr0p03": {
+      "auc": 0.67058,
+      "solve": 418.25
+    },
+    "mlp_h02_lr0p1": {
+      "auc": 0.79676375,
+      "solve": 332.5
+    },
+    "mlp_h04_lr0p003": {
+      "auc": 0.13827250000000002,
+      "solve": 501.0
+    },
+    "mlp_h04_lr0p01": {
+      "auc": 0.4497275,
+      "solve": 501.0
+    },
+    "mlp_h04_lr0p03": {
+      "auc": 0.74321375,
+      "solve": 363.25
+    },
+    "mlp_h04_lr0p1": {
+      "auc": 0.889785,
+      "solve": 232.375
+    },
+    "mlp_h06_lr0p003": {
+      "auc": 0.14487125,
+      "solve": 501.0
+    },
+    "mlp_h06_lr0p01": {
+      "auc": 0.47697375,
+      "solve": 501.0
+    },
+    "mlp_h06_lr0p03": {
+      "auc": 0.7828350000000001,
+      "solve": 285.875
+    },
+    "mlp_h06_lr0p1": {
+      "auc": 0.8715999999999999,
+      "solve": 233.75
+    },
+    "mlp_h09_lr0p003": {
+      "auc": 0.17831375,
+      "solve": 501.0
+    },
+    "mlp_h09_lr0p01": {
+      "auc": 0.59880375,
+      "solve": 501.0
+    },
+    "mlp_h09_lr0p03": {
+      "auc": 0.8205875,
+      "solve": 282.625
+    },
+    "mlp_h09_lr0p1": {
+      "auc": 0.88777375,
+      "solve": 233.25
+    },
+    "mlp_h12_lr0p003": {
+      "auc": 0.2085125,
+      "solve": 501.0
+    },
+    "mlp_h12_lr0p01": {
+      "auc": 0.6454312500000001,
+      "solve": 444.75
+    },
+    "mlp_h12_lr0p03": {
+      "auc": 0.843705,
+      "solve": 241.125
+    },
+    "mlp_h12_lr0p1": {
+      "auc": 0.82306125,
+      "solve": 209.875
+    },
+    "mlp_h16_lr0p003": {
+      "auc": 0.28839249999999994,
+      "solve": 501.0
+    },
+    "mlp_h16_lr0p01": {
+      "auc": 0.7171737499999999,
+      "solve": 411.625
+    },
+    "mlp_h16_lr0p03": {
+      "auc": 0.7937062500000001,
+      "solve": 348.875
+    },
+    "mlp_h16_lr0p1": {
+      "auc": 0.83669875,
+      "solve": 310.0
+    },
+    "mlp_h19_lr0p003": {
+      "auc": 0.322475,
+      "solve": 501.0
+    },
+    "mlp_h19_lr0p01": {
+      "auc": 0.74433,
+      "solve": 361.625
+    },
+    "mlp_h19_lr0p03": {
+      "auc": 0.8459525,
+      "solve": 311.375
+    },
+    "mlp_h19_lr0p1": {
+      "auc": 0.77779625,
+      "solve": 314.5
+    }
+  },
+  "test_seeds": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "selection_rule": "Within each width choose highest mean development AUC; ties use smaller solve episode, then lower learning rate. Also designate the fastest-convergence configuration across the full development grid, tie-break by higher AUC then smaller width and lower learning rate."
+}

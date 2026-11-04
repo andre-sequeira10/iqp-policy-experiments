@@ -1,0 +1,37 @@
+[
+  {
+    "family": "iqpblocks",
+    "qubits": 9,
+    "sigma": 0.15,
+    "max_weight_distribution_error": 4.078402271456838e-08,
+    "interaction_gradient_error": 3.0627474188804626e-05
+  },
+  {
+    "family": "iqpblocks",
+    "qubits": 15,
+    "sigma": 0.15,
+    "max_weight_distribution_error": 1.3637477569439227e-07,
+    "interaction_gradient_error": 5.338340997695923e-06
+  },
+  {
+    "family": "iqpblocksbalanced",
+    "qubits": 9,
+    "sigma": 0.15,
+    "max_weight_distribution_error": 1.1329370314117071e-07,
+    "interaction_gradient_error": 5.034729838371277e-06
+  },
+  {
+    "family": "iqpblocksbalanced",
+    "qubits": 15,
+    "sigma": 0.15,
+    "max_weight_distribution_error": 1.0956438711851035e-07,
+    "interaction_gradient_error": 1.385621726512909e-05
+  },
+  {
+    "family": "iqpblocksbalanced",
+    "qubits": 21,
+    "sigma": 0.5,
+    "max_weight_distribution_error": 8.72871808166309e-08,
+    "interaction_gradient_error": 1.5133991837501526e-05
+  }
+]

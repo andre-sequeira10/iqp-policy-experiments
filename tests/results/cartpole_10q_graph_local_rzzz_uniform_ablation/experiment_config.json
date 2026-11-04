@@ -1,0 +1,189 @@
+{
+  "environment_label": "CartPole-v1/200",
+  "gymnasium_environment_id": "CartPole-v1",
+  "trainer_side_step_cap": 200,
+  "training_episodes": 500,
+  "heldout_evaluation_episodes_per_seed": 100,
+  "seeds": [
+    61,
+    67,
+    71,
+    73,
+    79,
+    83,
+    89,
+    97,
+    101,
+    103,
+    107,
+    109,
+    113,
+    127,
+    131,
+    137,
+    139,
+    149,
+    151,
+    157
+  ],
+  "training": {
+    "gamma": 0.99,
+    "lr": 0.03,
+    "lr_schedule": "constant (none)",
+    "optimizer": "Adam(amsgrad=True)",
+    "batch_episodes": 5,
+    "normalize_mode": "clip",
+    "normalize_returns": true,
+    "baseline_type": "ema",
+    "baseline_momentum": 0.05,
+    "entropy_coef": 0.005,
+    "max_grad_norm": 1.0
+  },
+  "n_qubits": 10,
+  "n_layers": 1,
+  "graph_master_seed": 31415,
+  "accepted_networkx_seed": 1039606416,
+  "spectral_gap": 0.8533505224209765,
+  "edges": [
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      5,
+      8
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "measurement_wires": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "coupled_unmeasured_wires": [
+    9
+  ],
+  "decoder": "deterministic majority on nine measured wires",
+  "rzzz_gate_count": 10,
+  "selected_triples": [
+    [
+      0,
+      5,
+      6
+    ],
+    [
+      1,
+      4,
+      7
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      3,
+      4,
+      7
+    ],
+    [
+      3,
+      4,
+      9
+    ],
+    [
+      0,
+      5,
+      8
+    ],
+    [
+      2,
+      5,
+      6
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      2,
+      8,
+      9
+    ],
+    [
+      3,
+      8,
+      9
+    ]
+  ],
+  "triple_selection": "one length-two path per graph vertex; all 15 edges covered; each qubit occurs in exactly three triples; fixed before candidate evaluation",
+  "rzzz_initialization": "QASP uniform[0,2pi) using a separate reproducible stream",
+  "extra_parameter_master_seed": 20261024,
+  "base_learning_rate": 0.03,
+  "rzzz_learning_rate": 0.03,
+  "shared_parameter_count": 65,
+  "augmented_parameter_count": 75,
+  "baseline_protocol_source": "./tests/results/majority_local_sector_ablation/experiment_config.json",
+  "baseline_run_source": "./tests/results/cartpole_10q_graph_local_rzzz_fast_convergence/runs",
+  "primary_endpoint": "normalized training-return AUC over 500 episodes",
+  "secondary_endpoint": "restricted strict solve episode",
+  "baseline_provenance_note": "Baseline trajectories are copied from the completed twenty-seed study. The candidate uses identical shared tensors and separately sampled full-period uniform RZZZ angles."
+}

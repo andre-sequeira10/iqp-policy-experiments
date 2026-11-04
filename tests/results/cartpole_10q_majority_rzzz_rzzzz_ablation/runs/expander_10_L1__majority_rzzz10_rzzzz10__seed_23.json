@@ -1,0 +1,156 @@
+{
+  "run_id": "expander_10_L1__majority_rzzz10_rzzzz10__seed_23",
+  "seed": 23,
+  "condition": "majority_rzzz_rzzzz",
+  "n_qubits": 10,
+  "depth": 1,
+  "measurement_wires": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "n_rzzz_gates": 10,
+  "triples": [
+    [
+      2,
+      7,
+      8
+    ],
+    [
+      4,
+      7,
+      8
+    ],
+    [
+      1,
+      3,
+      8
+    ],
+    [
+      4,
+      5,
+      9
+    ],
+    [
+      2,
+      8,
+      9
+    ],
+    [
+      1,
+      2,
+      7
+    ],
+    [
+      2,
+      5,
+      7
+    ],
+    [
+      2,
+      5,
+      8
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      2,
+      3,
+      5
+    ]
+  ],
+  "n_rzzzz_gates": 10,
+  "quartets": [
+    [
+      2,
+      3,
+      7,
+      9
+    ],
+    [
+      0,
+      3,
+      4,
+      5
+    ],
+    [
+      1,
+      4,
+      7,
+      9
+    ],
+    [
+      1,
+      5,
+      6,
+      7
+    ],
+    [
+      6,
+      7,
+      8,
+      9
+    ],
+    [
+      1,
+      2,
+      4,
+      9
+    ],
+    [
+      2,
+      3,
+      6,
+      7
+    ],
+    [
+      2,
+      6,
+      7,
+      8
+    ],
+    [
+      0,
+      1,
+      7,
+      8
+    ],
+    [
+      1,
+      3,
+      7,
+      9
+    ]
+  ],
+  "n_parameters": 85,
+  "initial_shared_parameter_sha256": "ef156006850c5d3140e57bb52ad1d0a2fe7aa6fe9d72588a5b02dd14e7fc3b01",
+  "baseline_shared_parameter_sha256": "ef156006850c5d3140e57bb52ad1d0a2fe7aa6fe9d72588a5b02dd14e7fc3b01",
+  "initial_rzzz_parameter_sha256": "7bc26a6edc1d63beecc091ca7d7c5d6ed4e58ab56b1764cd894c3e1538b8eb7a",
+  "rzzz_parameter_seed": 3515265873,
+  "initial_rzzzz_parameter_sha256": "a3164f5c451f8065051a067140aaf7142c05f7caec9348af9a94a0835bbc1c22",
+  "rzzzz_parameter_seed": 4147360324,
+  "execution_backend": "validated_analytic_torch_statevector",
+  "measurement_path": "nine_bit_majority_exact_probabilities",
+  "training_final_50": 103.36,
+  "evaluation_mean": 132.94,
+  "evaluation_std": 63.99334245675779,
+  "strict_solved_episode": NaN,
+  "optimizer_freeze_episode": NaN,
+  "optimizer_updates": 100,
+  "training_forward_circuit_calls": 28093,
+  "evaluation_forward_circuit_calls": 13294,
+  "training_seconds": 67.63825591700152,
+  "evaluation_seconds": 6.719647375000932,
+  "total_seconds": 74.36973445899639,
+  "checkpoint_npz": "./tests/results/cartpole_10q_majority_rzzz_rzzzz_ablation/runs/expander_10_L1__majority_rzzz10_rzzzz10__seed_23.npz",
+  "checkpoint_pt": "./tests/results/cartpole_10q_majority_rzzz_rzzzz_ablation/runs/expander_10_L1__majority_rzzz10_rzzzz10__seed_23.pt"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "mlp_h12_lr0p03",
+  "seed": 2020,
+  "initial_return": 19.25,
+  "episodes": 100
+}

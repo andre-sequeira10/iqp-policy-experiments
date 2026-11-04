@@ -1,0 +1,322 @@
+[
+  {
+    "qubits": 3,
+    "update": 0,
+    "shape": [
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 3,
+    "update": 0,
+    "shape": [
+      1,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 3,
+    "update": 0,
+    "shape": [
+      7,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 3,
+    "update": 0,
+    "shape": [
+      2,
+      3,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 3,
+    "update": 1,
+    "shape": [
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 3,
+    "update": 1,
+    "shape": [
+      1,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 3,
+    "update": 1,
+    "shape": [
+      7,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 3,
+    "update": 1,
+    "shape": [
+      2,
+      3,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 9,
+    "update": 0,
+    "shape": [
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 9,
+    "update": 0,
+    "shape": [
+      1,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 9,
+    "update": 0,
+    "shape": [
+      7,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 9,
+    "update": 0,
+    "shape": [
+      2,
+      3,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 9,
+    "update": 1,
+    "shape": [
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 9,
+    "update": 1,
+    "shape": [
+      1,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 9,
+    "update": 1,
+    "shape": [
+      7,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 9,
+    "update": 1,
+    "shape": [
+      2,
+      3,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 21,
+    "update": 0,
+    "shape": [
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 21,
+    "update": 0,
+    "shape": [
+      1,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 21,
+    "update": 0,
+    "shape": [
+      7,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 21,
+    "update": 0,
+    "shape": [
+      2,
+      3,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 21,
+    "update": 1,
+    "shape": [
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 21,
+    "update": 1,
+    "shape": [
+      1,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 21,
+    "update": 1,
+    "shape": [
+      7,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 21,
+    "update": 1,
+    "shape": [
+      2,
+      3,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 45,
+    "update": 0,
+    "shape": [
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 45,
+    "update": 0,
+    "shape": [
+      1,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 45,
+    "update": 0,
+    "shape": [
+      7,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 45,
+    "update": 0,
+    "shape": [
+      2,
+      3,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 45,
+    "update": 1,
+    "shape": [
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 45,
+    "update": 1,
+    "shape": [
+      1,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 45,
+    "update": 1,
+    "shape": [
+      7,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  },
+  {
+    "qubits": 45,
+    "update": 1,
+    "shape": [
+      2,
+      3,
+      4
+    ],
+    "probabilities_equal": true,
+    "input_and_parameter_gradients_equal": true
+  }
+]

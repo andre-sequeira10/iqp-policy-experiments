@@ -1,0 +1,19 @@
+{
+  "model": {
+    "name": "mlp",
+    "hidden": 9
+  },
+  "seed": 719,
+  "phase": "validation_round2_strict",
+  "episodes": 500,
+  "auc": 0.8084399999999999,
+  "restricted_solve_episode": 254,
+  "final50": 199.38,
+  "heldout": 199.88,
+  "parameters": 65,
+  "seconds": 13.123934984207153,
+  "freeze_protocol": "full_100_episodes",
+  "optimizer_freeze_episode": 255,
+  "optimizer_updates": 50,
+  "initial_sha256": "79ed3fb2ad7d1d1822cc7f851f612ba06cd381f983bd70cb4a3fc985c62ad046"
+}

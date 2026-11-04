@@ -1,0 +1,16 @@
+{
+  "method": "compiled",
+  "seed": 2003,
+  "training_seconds": 35.30692745896522,
+  "cpu_seconds": 34.28760300000005,
+  "compilation_seconds": 0.0872882500407286,
+  "returns_bitwise_equal": true,
+  "final_state_bitwise_equal": true,
+  "max_state_error": 0.0,
+  "freeze_episode": 195,
+  "updates": 38,
+  "auc": 0.8911199999999999,
+  "criterion_episode": 194,
+  "freeze_equal": true,
+  "updates_equal": true
+}

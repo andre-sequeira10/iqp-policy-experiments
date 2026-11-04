@@ -1,0 +1,93 @@
+{
+  "run_id": "expander_10_L1__graph_local_rzzz__seed_97",
+  "seed": 97,
+  "condition": "graph_local_rzzz",
+  "n_qubits": 10,
+  "depth": 1,
+  "measurement_wires": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "n_rzzz_gates": 10,
+  "triples": [
+    [
+      0,
+      5,
+      6
+    ],
+    [
+      1,
+      4,
+      7
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      3,
+      4,
+      7
+    ],
+    [
+      3,
+      4,
+      9
+    ],
+    [
+      0,
+      5,
+      8
+    ],
+    [
+      2,
+      5,
+      6
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      2,
+      8,
+      9
+    ],
+    [
+      3,
+      8,
+      9
+    ]
+  ],
+  "n_parameters": 75,
+  "initial_shared_parameter_sha256": "0b84c4ec219512eed83af7e4262afbe2ab7bad0797dbf88b2fb5f40beb99905a",
+  "paired_shared_parameter_sha256": "0b84c4ec219512eed83af7e4262afbe2ab7bad0797dbf88b2fb5f40beb99905a",
+  "initial_rzzz_parameter_sha256": "2c34ce1df23b838c5abf2a7f6437cca3d3067ed509ff25f11df6b11b582b51eb",
+  "base_learning_rate": 0.03,
+  "rzzz_learning_rate": 0.01,
+  "execution_backend": "validated_analytic_torch_statevector",
+  "measurement_path": "nine_bit_majority_exact_probabilities",
+  "training_final_50": 179.26,
+  "normalized_training_auc": 0.45128999999999997,
+  "evaluation_mean": 185.91,
+  "evaluation_std": 42.11194676818041,
+  "strict_solved_episode": NaN,
+  "optimizer_freeze_episode": NaN,
+  "optimizer_updates": 100,
+  "training_forward_circuit_calls": 45129,
+  "evaluation_forward_circuit_calls": 18591,
+  "training_seconds": 105.1955442499966,
+  "evaluation_seconds": 11.888050832996669,
+  "total_seconds": 117.09017020899773,
+  "checkpoint_npz": "./tests/results/cartpole_10q_graph_local_rzzz_fast_convergence/runs/expander_10_L1__graph_local_rzzz__seed_97.npz",
+  "checkpoint_pt": "./tests/results/cartpole_10q_graph_local_rzzz_fast_convergence/runs/expander_10_L1__graph_local_rzzz__seed_97.pt"
+}

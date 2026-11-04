@@ -1,0 +1,42 @@
+[
+  {
+    "path": "variance_summary.csv",
+    "bytes": 4226,
+    "sha256": "f1c422760df36b2ba00ff024839a9fb2a847a4d080dc48c9733c6df071e4aec6"
+  },
+  {
+    "path": "diagnoser_action_probability_samples.csv",
+    "bytes": 2614932,
+    "sha256": "5876208abd69ba731547a1ea2092e52835530330c312343480f8f17fe5fca3dc"
+  },
+  {
+    "path": "diagnoser_topology_results.csv",
+    "bytes": 179587,
+    "sha256": "0bebe15c8418592d2d4571a1c8210f6306da5630402db979bdfec9f20b7896d0"
+  },
+  {
+    "path": "sampled_circuits.csv",
+    "bytes": 165586,
+    "sha256": "c7ce4419ee75d6d606874bc1c82439b2152ab94ac2ea771fd90fd15261035683"
+  },
+  {
+    "path": "figures/neural_embedding_majority_barren_plateau.png",
+    "bytes": 109491,
+    "sha256": "60e042b501de2f2336a6cf53191d1394dc9ca773dd2880c1aa3e30b1774b5a78"
+  },
+  {
+    "path": "figures/neural_embedding_majority_barren_plateau.pdf",
+    "bytes": 20493,
+    "sha256": "e6551653cda76d906638597f1ec4e898392d335cc59bc98be7de6bf9478c0274"
+  },
+  {
+    "path": "metadata.json",
+    "bytes": 2159,
+    "sha256": "6baeaabcefc2f24b0dfb8fe78e56aa3bba1bcc544897931132b225abe6a99c23"
+  },
+  {
+    "path": "angle_only_comparison.csv",
+    "bytes": 4807,
+    "sha256": "a12a682383353d0838bd096550fccf3552b8106cc0dbdaf141f7a64321e7918f"
+  }
+]

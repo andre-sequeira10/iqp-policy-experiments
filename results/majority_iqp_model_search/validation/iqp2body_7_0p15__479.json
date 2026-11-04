@@ -1,0 +1,18 @@
+{
+  "model": {
+    "name": "iqp2body_7_0.15",
+    "n": 7,
+    "sigma": 0.15,
+    "family": "iqp2body"
+  },
+  "seed": 479,
+  "phase": "validation",
+  "episodes": 500,
+  "auc": 0.75921,
+  "restricted_solve_episode": 368,
+  "final50": 193.94,
+  "heldout": 195.8,
+  "parameters": 42,
+  "seconds": 19.63646125793457,
+  "initial_sha256": "031a7ba7839bb1efb4abf28015e366afa5bdefbd61fa8b467ced2fa4c5541006"
+}

@@ -1,0 +1,23 @@
+{
+  "run_id": "ring_6_L2__parity__seed_3",
+  "depth": 2,
+  "policy": "parity",
+  "seed": 3,
+  "n_qubits": 6,
+  "n_actions": 2,
+  "parameter_count": 72,
+  "initial_parameter_sha256": "85d2a28c7380ecc98d3de9111b6c9d6335659dfcfa8d64e529e6bf3cfa6e3d66",
+  "execution_backend": "analytic_torch_statevector",
+  "gradient_method": "exact PyTorch reverse-mode autodiff",
+  "shots": null,
+  "tie_rule": "action 0 for Hamming weight <= 3",
+  "final_50": 179.4,
+  "overall_mean": 116.058,
+  "strict_solved_episode": NaN,
+  "solved": false,
+  "optimizer_updates": 100,
+  "forward_calls": 58029,
+  "runtime_seconds": 233.69857766600035,
+  "checkpoint_npz": "./tests/results/cartpole_6q_even_majority_vs_parity/runs/ring_6_L2__parity__seed_3.npz",
+  "checkpoint_pt": "./tests/results/cartpole_6q_even_majority_vs_parity/runs/ring_6_L2__parity__seed_3.pt"
+}

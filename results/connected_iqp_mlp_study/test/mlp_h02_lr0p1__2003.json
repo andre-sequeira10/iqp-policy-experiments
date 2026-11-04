@@ -1,0 +1,20 @@
+{
+  "spec": {
+    "name": "mlp_h02_lr0p1",
+    "kind": "mlp",
+    "width": 2,
+    "lr": 0.1,
+    "parameters": 16
+  },
+  "seed": 2003,
+  "phase": "test",
+  "auc": 0.84002,
+  "solve_episode": 188,
+  "final50": 193.68,
+  "heldout": 193.33,
+  "freeze_episode": 190,
+  "updates": 37,
+  "seconds": 22.279404878616333,
+  "parameters": 16,
+  "initial_hash": "549f285c8af23221c7b17925dd032b3663487545cfeb9e272b0fc3f4806ab5d3"
+}

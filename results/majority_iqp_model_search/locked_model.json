@@ -1,0 +1,18 @@
+{
+  "model": "iqp2body_7_0.15",
+  "locked_before_validation": true,
+  "date": "2026-10-27",
+  "development_seeds": [211,223,227,229],
+  "validation_seeds": [401,409,419,421,431,433,439,443,449,457,461,463,467,479,487,491,499,503,509,521],
+  "architecture": "H^7 [product_i RZ_i(w_i.s + b_i)] [product_(i,i+1 mod 7) RZZ(theta_i)] H^7, followed by majority on all seven outcomes",
+  "neural_weights": "28 trainable weights iid Uniform[0,2pi); no feature-specific engineering",
+  "gate_initialization": "b_i = pi/2 + Normal(0,0.15^2); seven edge angles iid Normal(0,0.15^2)",
+  "parameters": 42,
+  "baseline": "Original Linear(4,9)-Tanh-Linear(9,2) MLP, 65 parameters, default torch initialization",
+  "selection_reason": "Highest mean AUC and earliest mean restricted solve episode among finalists evaluated on all four development seeds. All failed trials retained.",
+  "endpoints": ["normalized 500-episode return AUC", "first full rolling-100 mean >=195, restricted to 501 for unsolved runs"],
+  "success": "Positive paired 95 percent bootstrap confidence interval and Holm-adjusted two-sided exact sign-randomization p<0.05 for both endpoints",
+  "validation_no_retuning": true,
+  "terminal_performance": "Report final-50 and 100 frozen heldout episodes per seed separately; do not infer improved terminal quality from AUC",
+  "scope": "Exact-probability CartPole experiment; not a classical-hardness or quantum-advantage claim"
+}

@@ -1,0 +1,132 @@
+{
+  "environment_label": "CartPole-v1/200",
+  "gymnasium_environment_id": "CartPole-v1",
+  "trainer_side_step_cap": 200,
+  "training_episodes": 500,
+  "batch_episodes": 5,
+  "seeds": [
+    3,
+    7,
+    11,
+    23,
+    37,
+    41,
+    43,
+    47,
+    53,
+    59
+  ],
+  "architecture": {
+    "label": "10-qubit connected cubic graph, L=1 (9 measured)",
+    "n_qubits": 10,
+    "n_layers": 1,
+    "edges": [
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        8,
+        9
+      ]
+    ],
+    "measurement_wires": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "initializer": "uniform",
+    "expected_quantum_parameters": 65,
+    "accepted_networkx_seed": 1039606416
+  },
+  "training": {
+    "gamma": 0.99,
+    "lr": 0.03,
+    "optimizer": "Adam(amsgrad=True)",
+    "batch_episodes": 5,
+    "normalize_mode": "clip",
+    "normalize_returns": true,
+    "baseline_type": "ema",
+    "baseline_momentum": 0.05,
+    "entropy_coef": 0.005,
+    "max_grad_norm": 1.0
+  },
+  "policy": "full deterministic binary majority",
+  "measurement_effects": "Pi0=(I+M9)/2, Pi1=(I-M9)/2",
+  "pauli_weights_present": [
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "pauli_weights_absent": [
+    2,
+    4,
+    6,
+    8
+  ],
+  "freeze_choice": "source solve threshold is recorded, but optimization continues through episode 500 so late gradients remain diagnostic",
+  "attribution_scope": "quantum policy parameters only; exact coherent weight-sector VJPs",
+  "per_string_incoherent_norms_reported": false,
+  "n_jobs": 2,
+  "protocol_version": "source_action_rng_reset_after_model_init_v2_exact_sector_vjp"
+}

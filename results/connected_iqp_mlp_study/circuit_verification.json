@@ -1,0 +1,36 @@
+[
+  {
+    "qubits": 9,
+    "parameters": 59,
+    "max_probability_error": 7.452078890080038e-08,
+    "first_block_reduced_purity": 0.9987260356930537,
+    "predicted_first_cut_purity": 0.9987260356930581,
+    "finite_difference_errors": {
+      "weights": 6.465241312980652e-06,
+      "bias": 6.6533684730529785e-06,
+      "pair": 3.3229589462280273e-06,
+      "triple": 2.806633710861206e-05,
+      "bridge": 5.6791119277477264e-05
+    },
+    "zero_bridge_error": 2.9802322387695312e-08,
+    "batch_gradient_error": 3.725290298461914e-08,
+    "milliseconds_per_inference": 0.36889416980557144
+  },
+  {
+    "qubits": 21,
+    "parameters": 139,
+    "max_probability_error": 7.083764036464046e-08,
+    "first_block_reduced_purity": 0.9987260356930444,
+    "predicted_first_cut_purity": 0.9987260356930581,
+    "finite_difference_errors": {
+      "weights": 8.538016118109226e-06,
+      "bias": 2.6676803827285767e-05,
+      "pair": 2.3527070879936218e-05,
+      "triple": 9.700655937194824e-06,
+      "bridge": 2.1230429410934448e-05
+    },
+    "zero_bridge_error": 2.9802322387695312e-08,
+    "batch_gradient_error": 3.5390257835388184e-08,
+    "milliseconds_per_inference": 0.5543795798439533
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "reason": "First locked seven-qubit ring model failed validation. Preserve that result; do not retune or overwrite its validation cohort.",
+  "models": ["iqpblocks_15_0.15", "iqpblocks_21_0.15", "iqpblocks_27_0.15", "iqpblocksbalanced_21_0.15", "iqpblocksbalanced_21_0.5"],
+  "architecture": "Independent three-qubit IQP blocks with three pair rotations and one triple rotation per block, parallel trainable neural encoding, and one global majority decoder across every qubit",
+  "unchanged": ["iid Uniform[0,2pi) neural feature weights", "all weights trainable", "gate bias centered at pi/2", "original REINFORCE objective and optimizer", "original MLP baseline"],
+  "block_initialization_followup": "Development-only comparison of exactly pi/2 initial local angles, still trainable, and interaction standard deviations 0.15 and 0.5. No feature weights or training rules changed.",
+  "development_seeds": [211,223,227,229,233,239,241,251],
+  "screening": "First four development seeds, then eight for promising candidates; retain all trials.",
+  "new_validation_seeds_reserved": [601,607,613,617,619,631,641,643,647,653,659,661,673,677,683,691,701,709,719,727],
+  "user_approved_protocol_correction": "Require 100 completed episodes before freezing on rolling-100 mean >=195, for both IQP and MLP. Old development_v2 and validation results remain separate; corrected development is development_strict.",
+  "corrected_protocol_finalists": ["iqp2body_7_0.15", "iqpblocksbalanced_21_0.15", "iqpblocksbalanced_21_0.5"],
+  "confirmation": "Lock one model before new validation. Two-sided exact paired sign-randomization with Holm correction for both endpoints, plus factor-two correction for the two locked models tested in this search. Positive paired bootstrap intervals required for AUC and solve-time advantage.",
+  "parameter_count_note": "These wider models have more parameters than the 65-parameter MLP; report counts explicitly. This compares against that fixed baseline, not equal capacity or best-tuned classical models.",
+  "simulation_note": "Independent block factorization permits exact polynomial-time classical simulation of the global majority distribution. This experiment cannot demonstrate quantum computational advantage."
+}

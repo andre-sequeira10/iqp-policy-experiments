@@ -1,0 +1,991 @@
+{
+  "selection": {
+    "selected_by_width": {
+      "1": "mlp_h01_lr0p1",
+      "2": "mlp_h02_lr0p1",
+      "4": "mlp_h04_lr0p1",
+      "6": "mlp_h06_lr0p1",
+      "9": "mlp_h09_lr0p1",
+      "12": "mlp_h12_lr0p03",
+      "16": "mlp_h16_lr0p1",
+      "19": "mlp_h19_lr0p03"
+    },
+    "best_auc_mlp": "mlp_h04_lr0p1",
+    "best_solve_mlp": "mlp_h12_lr0p1",
+    "development_means": {
+      "mlp_h01_lr0p003": {
+        "auc": 0.09467125,
+        "solve": 501.0
+      },
+      "mlp_h01_lr0p01": {
+        "auc": 0.15732500000000002,
+        "solve": 501.0
+      },
+      "mlp_h01_lr0p03": {
+        "auc": 0.54229625,
+        "solve": 475.375
+      },
+      "mlp_h01_lr0p1": {
+        "auc": 0.7910487500000001,
+        "solve": 303.0
+      },
+      "mlp_h02_lr0p003": {
+        "auc": 0.12122625,
+        "solve": 501.0
+      },
+      "mlp_h02_lr0p01": {
+        "auc": 0.30598000000000003,
+        "solve": 501.0
+      },
+      "mlp_h02_lr0p03": {
+        "auc": 0.67058,
+        "solve": 418.25
+      },
+      "mlp_h02_lr0p1": {
+        "auc": 0.79676375,
+        "solve": 332.5
+      },
+      "mlp_h04_lr0p003": {
+        "auc": 0.13827250000000002,
+        "solve": 501.0
+      },
+      "mlp_h04_lr0p01": {
+        "auc": 0.4497275,
+        "solve": 501.0
+      },
+      "mlp_h04_lr0p03": {
+        "auc": 0.74321375,
+        "solve": 363.25
+      },
+      "mlp_h04_lr0p1": {
+        "auc": 0.889785,
+        "solve": 232.375
+      },
+      "mlp_h06_lr0p003": {
+        "auc": 0.14487125,
+        "solve": 501.0
+      },
+      "mlp_h06_lr0p01": {
+        "auc": 0.47697375,
+        "solve": 501.0
+      },
+      "mlp_h06_lr0p03": {
+        "auc": 0.7828350000000001,
+        "solve": 285.875
+      },
+      "mlp_h06_lr0p1": {
+        "auc": 0.8715999999999999,
+        "solve": 233.75
+      },
+      "mlp_h09_lr0p003": {
+        "auc": 0.17831375,
+        "solve": 501.0
+      },
+      "mlp_h09_lr0p01": {
+        "auc": 0.59880375,
+        "solve": 501.0
+      },
+      "mlp_h09_lr0p03": {
+        "auc": 0.8205875,
+        "solve": 282.625
+      },
+      "mlp_h09_lr0p1": {
+        "auc": 0.88777375,
+        "solve": 233.25
+      },
+      "mlp_h12_lr0p003": {
+        "auc": 0.2085125,
+        "solve": 501.0
+      },
+      "mlp_h12_lr0p01": {
+        "auc": 0.6454312500000001,
+        "solve": 444.75
+      },
+      "mlp_h12_lr0p03": {
+        "auc": 0.843705,
+        "solve": 241.125
+      },
+      "mlp_h12_lr0p1": {
+        "auc": 0.82306125,
+        "solve": 209.875
+      },
+      "mlp_h16_lr0p003": {
+        "auc": 0.28839249999999994,
+        "solve": 501.0
+      },
+      "mlp_h16_lr0p01": {
+        "auc": 0.7171737499999999,
+        "solve": 411.625
+      },
+      "mlp_h16_lr0p03": {
+        "auc": 0.7937062500000001,
+        "solve": 348.875
+      },
+      "mlp_h16_lr0p1": {
+        "auc": 0.83669875,
+        "solve": 310.0
+      },
+      "mlp_h19_lr0p003": {
+        "auc": 0.322475,
+        "solve": 501.0
+      },
+      "mlp_h19_lr0p01": {
+        "auc": 0.74433,
+        "solve": 361.625
+      },
+      "mlp_h19_lr0p03": {
+        "auc": 0.8459525,
+        "solve": 311.375
+      },
+      "mlp_h19_lr0p1": {
+        "auc": 0.77779625,
+        "solve": 314.5
+      }
+    },
+    "test_seeds": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "selection_rule": "Within each width choose highest mean development AUC; ties use smaller solve episode, then lower learning rate. Also designate the fastest-convergence configuration across the full development grid, tie-break by higher AUC then smaller width and lower learning rate."
+  },
+  "summary": {
+    "mlp_h01_lr0p1": {
+      "parameters": 9,
+      "lr": 0.1,
+      "n": 20,
+      "solved": 15,
+      "initial_return": 16.141,
+      "auc": {
+        "mean": 0.7229285,
+        "sem": 0.027065019628907675,
+        "ci95": [
+          0.6670219125,
+          0.7697122125000001
+        ]
+      },
+      "solve_episode": {
+        "mean": 374.45,
+        "sem": 25.959429379017763,
+        "ci95": [
+          324.85,
+          423.1
+        ]
+      },
+      "final50": {
+        "mean": 191.81900000000002,
+        "sem": 3.0913783248525926,
+        "ci95": [
+          185.42699999999996,
+          197.164025
+        ]
+      },
+      "heldout": {
+        "mean": 191.25400000000002,
+        "sem": 3.616799137358887,
+        "ci95": [
+          183.6704625,
+          197.42103749999998
+        ]
+      }
+    },
+    "mlp_h02_lr0p1": {
+      "parameters": 16,
+      "lr": 0.1,
+      "n": 20,
+      "solved": 18,
+      "initial_return": 19.29,
+      "auc": {
+        "mean": 0.7984615,
+        "sem": 0.020299489030061294,
+        "ci95": [
+          0.7576734749999999,
+          0.8348920125
+        ]
+      },
+      "solve_episode": {
+        "mean": 277.7,
+        "sem": 23.658435682592547,
+        "ci95": [
+          235.55,
+          326.05
+        ]
+      },
+      "final50": {
+        "mean": 196.329,
+        "sem": 2.493286343257365,
+        "ci95": [
+          190.993,
+          199.475
+        ]
+      },
+      "heldout": {
+        "mean": 197.09949999999998,
+        "sem": 1.4150989318214129,
+        "ci95": [
+          194.02498750000004,
+          199.281
+        ]
+      }
+    },
+    "mlp_h04_lr0p1": {
+      "parameters": 30,
+      "lr": 0.1,
+      "n": 20,
+      "solved": 17,
+      "initial_return": 19.9985,
+      "auc": {
+        "mean": 0.8468635000000001,
+        "sem": 0.01932345759181393,
+        "ci95": [
+          0.8084853500000001,
+          0.882147125
+        ]
+      },
+      "solve_episode": {
+        "mean": 263.65,
+        "sem": 29.948840149758542,
+        "ci95": [
+          209.8,
+          324.2
+        ]
+      },
+      "final50": {
+        "mean": 191.58999999999997,
+        "sem": 4.706494840559217,
+        "ci95": [
+          181.100975,
+          198.400025
+        ]
+      },
+      "heldout": {
+        "mean": 191.57700000000003,
+        "sem": 3.895023417266272,
+        "ci95": [
+          183.2598875,
+          198.032
+        ]
+      }
+    },
+    "mlp_h06_lr0p1": {
+      "parameters": 44,
+      "lr": 0.1,
+      "n": 20,
+      "solved": 17,
+      "initial_return": 20.854,
+      "auc": {
+        "mean": 0.8631220000000001,
+        "sem": 0.015925871447692308,
+        "ci95": [
+          0.8311078874999999,
+          0.8917560375
+        ]
+      },
+      "solve_episode": {
+        "mean": 261.9,
+        "sem": 28.771596007905178,
+        "ci95": [
+          209.94875000000005,
+          319.7
+        ]
+      },
+      "final50": {
+        "mean": 192.374,
+        "sem": 4.235227229347975,
+        "ci95": [
+          183.294,
+          199.459
+        ]
+      },
+      "heldout": {
+        "mean": 193.855,
+        "sem": 4.221560668009428,
+        "ci95": [
+          184.31650000000002,
+          199.8565
+        ]
+      }
+    },
+    "mlp_h09_lr0p1": {
+      "parameters": 65,
+      "lr": 0.1,
+      "n": 20,
+      "solved": 16,
+      "initial_return": 21.178500000000003,
+      "auc": {
+        "mean": 0.8428445,
+        "sem": 0.023238210451470696,
+        "ci95": [
+          0.79566835,
+          0.883885025
+        ]
+      },
+      "solve_episode": {
+        "mean": 309.75,
+        "sem": 31.6138606343883,
+        "ci95": [
+          249.69875000000005,
+          370.90125000000006
+        ]
+      },
+      "final50": {
+        "mean": 187.71800000000002,
+        "sem": 6.626767394836124,
+        "ci95": [
+          173.285,
+          198.272
+        ]
+      },
+      "heldout": {
+        "mean": 187.5985,
+        "sem": 6.159503366642817,
+        "ci95": [
+          174.3629875,
+          197.7185375
+        ]
+      }
+    },
+    "mlp_h12_lr0p03": {
+      "parameters": 86,
+      "lr": 0.03,
+      "n": 20,
+      "solved": 18,
+      "initial_return": 20.115999999999996,
+      "auc": {
+        "mean": 0.8413320000000001,
+        "sem": 0.009374457025679718,
+        "ci95": [
+          0.8228253500000001,
+          0.8584160125000001
+        ]
+      },
+      "solve_episode": {
+        "mean": 274.7,
+        "sem": 24.406545713890168,
+        "ci95": [
+          231.4,
+          324.0012500000001
+        ]
+      },
+      "final50": {
+        "mean": 196.95800000000003,
+        "sem": 1.17329217431797,
+        "ci95": [
+          194.383,
+          198.76399999999998
+        ]
+      },
+      "heldout": {
+        "mean": 198.2385,
+        "sem": 0.4812682122322881,
+        "ci95": [
+          197.273,
+          199.1105
+        ]
+      }
+    },
+    "mlp_h16_lr0p1": {
+      "parameters": 114,
+      "lr": 0.1,
+      "n": 20,
+      "solved": 16,
+      "initial_return": 20.62,
+      "auc": {
+        "mean": 0.794118,
+        "sem": 0.04623991055013202,
+        "ci95": [
+          0.694213325,
+          0.8680427749999999
+        ]
+      },
+      "solve_episode": {
+        "mean": 323.15,
+        "sem": 29.27485673478361,
+        "ci95": [
+          267.2,
+          379.0
+        ]
+      },
+      "final50": {
+        "mean": 182.692,
+        "sem": 10.063334008588857,
+        "ci95": [
+          160.66085,
+          197.58800000000002
+        ]
+      },
+      "heldout": {
+        "mean": 185.79350000000002,
+        "sem": 9.699099558721935,
+        "ci95": [
+          164.5695,
+          198.8905
+        ]
+      }
+    },
+    "mlp_h19_lr0p03": {
+      "parameters": 135,
+      "lr": 0.03,
+      "n": 20,
+      "solved": 20,
+      "initial_return": 20.224,
+      "auc": {
+        "mean": 0.8679549999999999,
+        "sem": 0.012485003836181778,
+        "ci95": [
+          0.8414134625,
+          0.8886160125000001
+        ]
+      },
+      "solve_episode": {
+        "mean": 236.5,
+        "sem": 14.522305892008081,
+        "ci95": [
+          209.54875000000007,
+          264.7012500000001
+        ]
+      },
+      "final50": {
+        "mean": 199.221,
+        "sem": 0.31913526252903057,
+        "ci95": [
+          198.56900000000002,
+          199.77100000000002
+        ]
+      },
+      "heldout": {
+        "mean": 198.962,
+        "sem": 0.39670657325428604,
+        "ci95": [
+          198.125,
+          199.6205
+        ]
+      }
+    },
+    "mlp_h12_lr0p1": {
+      "parameters": 86,
+      "lr": 0.1,
+      "n": 20,
+      "solved": 17,
+      "initial_return": 20.115999999999996,
+      "auc": {
+        "mean": 0.8590565,
+        "sem": 0.022012741983188307,
+        "ci95": [
+          0.8149624750000001,
+          0.8986425624999999
+        ]
+      },
+      "solve_episode": {
+        "mean": 261.6,
+        "sem": 30.927112955940032,
+        "ci95": [
+          205.05,
+          322.35
+        ]
+      },
+      "final50": {
+        "mean": 186.23299999999998,
+        "sem": 7.598662247222758,
+        "ci95": [
+          170.30089999999998,
+          199.889
+        ]
+      },
+      "heldout": {
+        "mean": 188.716,
+        "sem": 6.14078549750077,
+        "ci95": [
+          176.03996250000003,
+          199.848
+        ]
+      }
+    },
+    "iqp_connected": {
+      "parameters": 139,
+      "lr": 0.03,
+      "n": 20,
+      "solved": 20,
+      "initial_return": 73.628,
+      "auc": {
+        "mean": 0.9319010000000001,
+        "sem": 0.011793467524996961,
+        "ci95": [
+          0.9081057124999998,
+          0.9529506375000003
+        ]
+      },
+      "solve_episode": {
+        "mean": 171.45,
+        "sem": 13.780320636404122,
+        "ci95": [
+          147.75,
+          200.05
+        ]
+      },
+      "final50": {
+        "mean": 199.624,
+        "sem": 0.19245013024567903,
+        "ci95": [
+          199.204975,
+          199.928
+        ]
+      },
+      "heldout": {
+        "mean": 199.10850000000002,
+        "sem": 0.3472101403745971,
+        "ci95": [
+          198.3725,
+          199.6895
+        ]
+      }
+    },
+    "iqp_disconnected": {
+      "parameters": 133,
+      "lr": 0.03,
+      "n": 20,
+      "solved": 20,
+      "initial_return": 77.343,
+      "auc": {
+        "mean": 0.9301065000000002,
+        "sem": 0.012009105893248799,
+        "ci95": [
+          0.9060465000000001,
+          0.9515465875000003
+        ]
+      },
+      "solve_episode": {
+        "mean": 169.9,
+        "sem": 9.604247963654853,
+        "ci95": [
+          152.35,
+          188.85
+        ]
+      },
+      "final50": {
+        "mean": 198.404,
+        "sem": 0.5713338041718466,
+        "ci95": [
+          197.21599999999998,
+          199.391
+        ]
+      },
+      "heldout": {
+        "mean": 198.367,
+        "sem": 0.4271232411820916,
+        "ci95": [
+          197.4865,
+          199.119
+        ]
+      }
+    }
+  },
+  "connected_minus_mlp": {
+    "mlp_h01_lr0p1": {
+      "auc": {
+        "mean_difference": 0.2089725,
+        "ci95": [
+          0.15144637499999994,
+          0.2740737125
+        ],
+        "two_sided_exact_sign_p": 1.9073486328125e-06,
+        "positive_pairs": 20,
+        "holm_p": 3.4332275390625e-05
+      },
+      "solve_episode": {
+        "mean_difference": 203.0,
+        "ci95": [
+          150.7,
+          255.6512500000001
+        ],
+        "two_sided_exact_sign_p": 1.9073486328125e-06,
+        "positive_pairs": 20,
+        "holm_p": 3.4332275390625e-05
+      },
+      "heldout": {
+        "mean_difference": 7.854499999999999,
+        "ci95": [
+          1.5999875000000001,
+          15.5210375
+        ],
+        "two_sided_exact_sign_p": 0.03167724609375,
+        "positive_pairs": 11
+      }
+    },
+    "mlp_h02_lr0p1": {
+      "auc": {
+        "mean_difference": 0.1334395,
+        "ci95": [
+          0.08729698749999996,
+          0.17810536250000003
+        ],
+        "two_sided_exact_sign_p": 5.14984130859375e-05,
+        "positive_pairs": 18,
+        "holm_p": 0.000720977783203125
+      },
+      "solve_episode": {
+        "mean_difference": 106.25,
+        "ci95": [
+          50.9,
+          160.9
+        ],
+        "two_sided_exact_sign_p": 0.001567840576171875,
+        "positive_pairs": 16,
+        "holm_p": 0.012542724609375
+      },
+      "heldout": {
+        "mean_difference": 2.0089999999999977,
+        "ci95": [
+          -0.32050000000000267,
+          5.128512499999998
+        ],
+        "two_sided_exact_sign_p": 0.187255859375,
+        "positive_pairs": 7
+      }
+    },
+    "mlp_h04_lr0p1": {
+      "auc": {
+        "mean_difference": 0.08503750000000002,
+        "ci95": [
+          0.05019931250000002,
+          0.11984028749999996
+        ],
+        "two_sided_exact_sign_p": 0.000171661376953125,
+        "positive_pairs": 18,
+        "holm_p": 0.002231597900390625
+      },
+      "solve_episode": {
+        "mean_difference": 92.2,
+        "ci95": [
+          44.7,
+          145.2
+        ],
+        "two_sided_exact_sign_p": 0.001094818115234375,
+        "positive_pairs": 16,
+        "holm_p": 0.009853363037109375
+      },
+      "heldout": {
+        "mean_difference": 7.5314999999999985,
+        "ci95": [
+          0.9569999999999979,
+          15.928512500000004
+        ],
+        "two_sided_exact_sign_p": 0.078460693359375,
+        "positive_pairs": 8
+      }
+    },
+    "mlp_h06_lr0p1": {
+      "auc": {
+        "mean_difference": 0.068779,
+        "ci95": [
+          0.031918012500000016,
+          0.103573025
+        ],
+        "two_sided_exact_sign_p": 0.001697540283203125,
+        "positive_pairs": 18,
+        "holm_p": 0.012542724609375
+      },
+      "solve_episode": {
+        "mean_difference": 90.45,
+        "ci95": [
+          30.9,
+          149.4
+        ],
+        "two_sided_exact_sign_p": 0.008905410766601562,
+        "positive_pairs": 18,
+        "holm_p": 0.026716232299804688
+      },
+      "heldout": {
+        "mean_difference": 5.253499999999998,
+        "ci95": [
+          -0.6830000000000013,
+          14.497512499999997
+        ],
+        "two_sided_exact_sign_p": 0.3857421875,
+        "positive_pairs": 4
+      }
+    },
+    "mlp_h09_lr0p1": {
+      "auc": {
+        "mean_difference": 0.08905649999999998,
+        "ci95": [
+          0.0360294125,
+          0.1450587875
+        ],
+        "two_sided_exact_sign_p": 0.00399017333984375,
+        "positive_pairs": 17,
+        "holm_p": 0.015960693359375
+      },
+      "solve_episode": {
+        "mean_difference": 138.3,
+        "ci95": [
+          65.55,
+          211.75
+        ],
+        "two_sided_exact_sign_p": 0.0022430419921875,
+        "positive_pairs": 16,
+        "holm_p": 0.012542724609375
+      },
+      "heldout": {
+        "mean_difference": 11.51,
+        "ci95": [
+          1.3714625000000018,
+          24.759112500000004
+        ],
+        "two_sided_exact_sign_p": 0.0316162109375,
+        "positive_pairs": 9
+      }
+    },
+    "mlp_h12_lr0p03": {
+      "auc": {
+        "mean_difference": 0.090569,
+        "ci95": [
+          0.06910796250000001,
+          0.11151972499999997
+        ],
+        "two_sided_exact_sign_p": 3.814697265625e-06,
+        "positive_pairs": 19,
+        "holm_p": 6.103515625e-05
+      },
+      "solve_episode": {
+        "mean_difference": 103.25,
+        "ci95": [
+          58.2,
+          152.0
+        ],
+        "two_sided_exact_sign_p": 0.0001926422119140625,
+        "positive_pairs": 17,
+        "holm_p": 0.002288818359375
+      },
+      "heldout": {
+        "mean_difference": 0.8699999999999989,
+        "ci95": [
+          -0.08101250000000018,
+          1.9009999999999976
+        ],
+        "two_sided_exact_sign_p": 0.11075592041015625,
+        "positive_pairs": 14
+      }
+    },
+    "mlp_h16_lr0p1": {
+      "auc": {
+        "mean_difference": 0.137783,
+        "ci95": [
+          0.060204987499999994,
+          0.24546073749999997
+        ],
+        "two_sided_exact_sign_p": 0.00019073486328125,
+        "positive_pairs": 16,
+        "holm_p": 0.002288818359375
+      },
+      "solve_episode": {
+        "mean_difference": 151.7,
+        "ci95": [
+          96.6,
+          207.95
+        ],
+        "two_sided_exact_sign_p": 2.288818359375e-05,
+        "positive_pairs": 18,
+        "holm_p": 0.00034332275390625
+      },
+      "heldout": {
+        "mean_difference": 13.314999999999998,
+        "ci95": [
+          0.4394624999999984,
+          34.33706250000001
+        ],
+        "two_sided_exact_sign_p": 0.12451171875,
+        "positive_pairs": 5
+      }
+    },
+    "mlp_h19_lr0p03": {
+      "auc": {
+        "mean_difference": 0.06394599999999998,
+        "ci95": [
+          0.03434674999999996,
+          0.09782158749999999
+        ],
+        "two_sided_exact_sign_p": 0.000247955322265625,
+        "positive_pairs": 19,
+        "holm_p": 0.00247955322265625
+      },
+      "solve_episode": {
+        "mean_difference": 65.05,
+        "ci95": [
+          31.65,
+          98.4
+        ],
+        "two_sided_exact_sign_p": 0.0017871856689453125,
+        "positive_pairs": 16,
+        "holm_p": 0.012542724609375
+      },
+      "heldout": {
+        "mean_difference": 0.14650000000000177,
+        "ci95": [
+          -0.5094999999999985,
+          0.8275250000000048
+        ],
+        "two_sided_exact_sign_p": 0.67974853515625,
+        "positive_pairs": 6
+      }
+    },
+    "mlp_h12_lr0p1": {
+      "auc": {
+        "mean_difference": 0.0728445,
+        "ci95": [
+          0.023998375000000023,
+          0.12492507499999998
+        ],
+        "two_sided_exact_sign_p": 0.0114288330078125,
+        "positive_pairs": 16,
+        "holm_p": 0.026716232299804688
+      },
+      "solve_episode": {
+        "mean_difference": 90.15,
+        "ci95": [
+          22.55,
+          161.10125000000008
+        ],
+        "two_sided_exact_sign_p": 0.023515701293945312,
+        "positive_pairs": 12,
+        "holm_p": 0.026716232299804688
+      },
+      "heldout": {
+        "mean_difference": 10.392499999999998,
+        "ci95": [
+          -0.44800000000000184,
+          23.143125
+        ],
+        "two_sided_exact_sign_p": 0.23736572265625,
+        "positive_pairs": 8
+      }
+    }
+  },
+  "connected_minus_disconnected_exploratory": {
+    "auc": {
+      "mean_difference": 0.0017944999999999988,
+      "ci95": [
+        -0.004366512500000037,
+        0.00872051249999997
+      ],
+      "two_sided_exact_sign_p": 0.6276187896728516,
+      "positive_pairs": 9
+    },
+    "solve_episode": {
+      "mean_difference": -1.55,
+      "ci95": [
+        -18.45,
+        14.45
+      ],
+      "two_sided_exact_sign_p": 0.8523120880126953,
+      "positive_pairs": 12
+    },
+    "heldout": {
+      "mean_difference": 0.7415000000000035,
+      "ci95": [
+        -0.19799999999999757,
+        1.7680000000000036
+      ],
+      "two_sided_exact_sign_p": 0.170928955078125,
+      "positive_pairs": 11
+    }
+  },
+  "saturation": {
+    "9": {
+      "auc": {
+        "mean_benefit_of_width19": 0.0251105,
+        "ci98_3333": [
+          -0.03519619999999998,
+          0.08913096250000002
+        ],
+        "equivalence_margin": 0.02,
+        "equivalence_established": false
+      },
+      "solve_episode": {
+        "mean_benefit_of_width19": 73.25,
+        "ci98_3333": [
+          -5.8,
+          151.6
+        ],
+        "equivalence_margin": 25,
+        "equivalence_established": false
+      },
+      "equivalent_on_both": false
+    },
+    "12": {
+      "auc": {
+        "mean_benefit_of_width19": 0.026623000000000008,
+        "ci98_3333": [
+          -0.011617512500000008,
+          0.061913687500000016
+        ],
+        "equivalence_margin": 0.02,
+        "equivalence_established": false
+      },
+      "solve_episode": {
+        "mean_benefit_of_width19": 38.2,
+        "ci98_3333": [
+          -35.1,
+          120.2
+        ],
+        "equivalence_margin": 25,
+        "equivalence_established": false
+      },
+      "equivalent_on_both": false
+    },
+    "16": {
+      "auc": {
+        "mean_benefit_of_width19": 0.07383700000000003,
+        "ci98_3333": [
+          -0.006271274999999963,
+          0.19813167500000012
+        ],
+        "equivalence_margin": 0.02,
+        "equivalence_established": false
+      },
+      "solve_episode": {
+        "mean_benefit_of_width19": 86.65,
+        "ci98_3333": [
+          10.35,
+          164.85
+        ],
+        "equivalence_margin": 25,
+        "equivalence_established": false
+      },
+      "equivalent_on_both": false
+    }
+  },
+  "interblock_cut_purities": {
+    "initial": {
+      "min": 0.5274987648173489,
+      "max": 0.9999369596559546,
+      "cut_count": 120,
+      "cuts_with_purity_below_1_minus_1e_8": 120
+    },
+    "final": {
+      "min": 0.5017273824244555,
+      "max": 0.9999834610084709,
+      "cut_count": 120,
+      "cuts_with_purity_below_1_minus_1e_8": 120
+    }
+  },
+  "audited_test_runs": 220,
+  "interpretation": "Positive comparisons favor connected IQP, including fewer solve episodes. Unsolved runs are assigned 501. All IQP-vs-MLP AUC/solve tests receive a single Holm correction; held-out and connected-vs-disconnected tests are secondary/exploratory. Bootstrap CIs are not selection-adjusted simultaneous CIs."
+}

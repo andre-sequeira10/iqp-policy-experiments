@@ -1,0 +1,23 @@
+{
+  "run_id": "ring_6_L2__majority__seed_47",
+  "depth": 2,
+  "policy": "majority",
+  "seed": 47,
+  "n_qubits": 6,
+  "n_actions": 2,
+  "parameter_count": 72,
+  "initial_parameter_sha256": "72d08710f7aa620169370fb55727d6b114d4c0aeb64ac85d4dc6cd3d7cdf9f97",
+  "execution_backend": "analytic_torch_statevector",
+  "gradient_method": "exact PyTorch reverse-mode autodiff",
+  "shots": null,
+  "tie_rule": "action 0 for Hamming weight <= 3",
+  "final_50": 196.88,
+  "overall_mean": 121.862,
+  "strict_solved_episode": NaN,
+  "solved": false,
+  "optimizer_updates": 100,
+  "forward_calls": 60931,
+  "runtime_seconds": 255.74254412499795,
+  "checkpoint_npz": "./tests/results/cartpole_6q_even_majority_vs_parity/runs/ring_6_L2__majority__seed_47.npz",
+  "checkpoint_pt": "./tests/results/cartpole_6q_even_majority_vs_parity/runs/ring_6_L2__majority__seed_47.pt"
+}

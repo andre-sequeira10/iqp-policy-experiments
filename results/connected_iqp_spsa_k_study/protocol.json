@@ -1,0 +1,47 @@
+{
+  "change": "Only the number of independent SPSA directions K changes. All 139 parameters, original initialization, 4096 shots, perturbation schedule, optimizer, seeds, loss, preprocessing and freeze rule unchanged.",
+  "grid": [
+    32,
+    64,
+    128,
+    256,
+    512
+  ],
+  "development_seeds": [
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008
+  ],
+  "test_seeds": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "selection": "Run ascending K on all eight development seeds. Stop at the smallest K with mean AUC >= analytical development AUC-.03, restricted mean convergence episode <= analytical+25, and at least analytical number solved minus one. If none qualifies through 512, select the smallest maximum normalized shortfall in AUC/.03 and convergence/25 (ties smaller K) and report target not met. No test-set retuning.",
+  "metrics": "AUC=sum(training returns)/(500*200); first full rolling-100 return>=195, 501 if unreached. All 500 episodes retained. Held-out evaluation 100 episodes on test; 20 on development, not used in selection.",
+  "timing": "After all parallel experiments finish, serial single-worker CPU timing on seeds 2001,2002,2003. Full 500-episode training only, excluding model setup and held-out evaluation; same one-thread policy for analytical, K=8 and selected K. Cyclic method order across seeds. Record total training time, episode timestamps and time to first convergence criterion. This is classical simulator wall time, not quantum hardware runtime.",
+  "inference": "Paired bootstrap 95% CIs over 20 test seeds. These test seeds were inspected in earlier studies; K selected on disjoint development seeds. Meeting a mean target alone is not statistical equivalence.",
+  "scope": "No changes to manuscript or earlier experiments. Report simulated quantum-shot cost separately from CPU time."
+}

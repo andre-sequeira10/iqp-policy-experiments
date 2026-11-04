@@ -1,0 +1,585 @@
+{
+  "completed": true,
+  "n_seeds": 10,
+  "n_episodes": 5000,
+  "n_updates": 1000,
+  "n_sector_rows": 3000,
+  "n_string_rows": 16000,
+  "max_reconstruction_relative_error_used": 1.4301173223429942e-06,
+  "max_alignment_share_sum_error": 4.76837158203125e-07,
+  "all_cells_executed_from_clean_kernel": true,
+  "protocol_version": "source_action_rng_reset_after_model_init_v2",
+  "scientific_conclusion": {
+    "supports_blanket_late_higher_weight_prominence": false,
+    "interpretation": "Weight-1 signed alignment increases late and weight-3 signed alignment decreases, while weight-3 norm share increases and weight-5 norm share decreases. The combined higher-weight norm share is statistically unresolved; all absolute sector-gradient norms decrease.",
+    "simulability_caveat": "Gradient attribution does not establish equivalence to a local-only policy or increasing classical simulability.",
+    "association_caveat": "Next-bin associations are descriptive and do not establish causality."
+  },
+  "files": [
+    {
+      "path": "bin_summary_across_seeds.csv",
+      "bytes": 9282,
+      "sha256": "dc81164eb72c5fbb2d4c20604ee1e899081325f5dfcb1d5cfd72e6b5a012f361"
+    },
+    {
+      "path": "descriptive_next_bin_association_summary.csv",
+      "bytes": 687,
+      "sha256": "24729799b2096aa809be8f18d2eed3b64dbfb69f1cddd40875a1749b435c364d"
+    },
+    {
+      "path": "descriptive_next_bin_associations.csv",
+      "bytes": 4755,
+      "sha256": "6c9ea190bbdbba7cc0ba2971661e3d97f235d6828f175f2d49ce0cf2b93c2977"
+    },
+    {
+      "path": "experiment_config.json",
+      "bytes": 1503,
+      "sha256": "063c9d5cd5378a01bc695fc8cb128fd56aa78542bd0f4caddc2c54b90bd319c0"
+    },
+    {
+      "path": "figures/majority_gradient_norm_share_during_training_5q.pdf",
+      "bytes": 29886,
+      "sha256": "16031eab4e2ef5d47d535952ae6f4dc282aad90e69611244bedc271310c51be8"
+    },
+    {
+      "path": "figures/majority_gradient_norm_share_during_training_5q.png",
+      "bytes": 232743,
+      "sha256": "5504d50509680aeb2c1b995ea6869135a8029d82319161870c5b406167d29701"
+    },
+    {
+      "path": "figures/majority_gradient_spectrum_during_training.pdf",
+      "bytes": 33947,
+      "sha256": "871797c5004dd42801ee46fdc4f6bd80d8ccc2db5734c7d331149496aee8011d"
+    },
+    {
+      "path": "figures/majority_gradient_spectrum_during_training.png",
+      "bytes": 309674,
+      "sha256": "f958869f2eb253cd34a6a8aad74dfc895c5f0a1dfb1a61c4627259c05a1d6737"
+    },
+    {
+      "path": "majority_pauli_decomposition.csv",
+      "bytes": 416,
+      "sha256": "459c2b6e00665b604241ebd411e8ffc444144547ddf7bf94d7b4c938d8750bde"
+    },
+    {
+      "path": "paired_combined_higher_weight_bootstrap.csv",
+      "bytes": 439,
+      "sha256": "8decb17d6be12aa6f8d0694c235f423ded176a1e8ddc2bbd33ab13a3af305c3c"
+    },
+    {
+      "path": "paired_early_late_bootstrap.csv",
+      "bytes": 4913,
+      "sha256": "4fee09974b827343eea0687bb0ebca3e3fc5509101819a61e79356dec53cdaf1"
+    },
+    {
+      "path": "parameter_layout.csv",
+      "bytes": 2033,
+      "sha256": "3676ac55334c04df98c5fc8b500ff9cba5aee7cce643ae36f0cd045416e243c4"
+    },
+    {
+      "path": "plot_gradient_source.csv",
+      "bytes": 9282,
+      "sha256": "dc81164eb72c5fbb2d4c20604ee1e899081325f5dfcb1d5cfd72e6b5a012f361"
+    },
+    {
+      "path": "plot_return_source.csv",
+      "bytes": 17217,
+      "sha256": "5d246b583b822601e64fd3583eb25968076b97527a89f73c45fdddedc0856c46"
+    },
+    {
+      "path": "plot_seed_values.csv",
+      "bytes": 36235,
+      "sha256": "5e15ad09c6af72c8237910fb27c16240d6db2e810951f6d9b81e8354a4931c26"
+    },
+    {
+      "path": "raw/episode_metrics.csv",
+      "bytes": 521813,
+      "sha256": "8e604ff5f08ba71fc12caf4f5c369045dd40d34ba4b271f1c7f6402f51c9f411"
+    },
+    {
+      "path": "raw/sector_metrics.csv",
+      "bytes": 324841,
+      "sha256": "a44cde55a0888596584672503f5e413439ddd844638d617246f5e41c249e5b49"
+    },
+    {
+      "path": "raw/string_metrics.parquet",
+      "bytes": 382697,
+      "sha256": "2982213600c03fea456e373cfff7459f4e42c1a4cd72edb4dc366fc96b3ea2dd"
+    },
+    {
+      "path": "raw/update_metrics.csv",
+      "bytes": 282274,
+      "sha256": "30ffe6efc8af1aa43710a9af004aaca1be3291060b037bb3200cb3eba803c57f"
+    },
+    {
+      "path": "raw_file_index.csv",
+      "bytes": 4490,
+      "sha256": "6da2e7860d3f8cf752497b07117a3be422e4b87266d13b1cdd7b9229b9f47740"
+    },
+    {
+      "path": "runs/seed_11/episode_metrics.csv",
+      "bytes": 52563,
+      "sha256": "033a636db71c8a55d6d19b1310539cfee9b687c7ba76811667a37cb1ab89abd6"
+    },
+    {
+      "path": "runs/seed_11/final_state.pt",
+      "bytes": 10122,
+      "sha256": "795c9ab8798030dee938586e1f9a19886454a6408f100814a92a8ff8a9378d7b"
+    },
+    {
+      "path": "runs/seed_11/metadata.json",
+      "bytes": 600,
+      "sha256": "fc6e3b90490fd218ad3f44e98cdfd84a60a70cb16a2f27141d931df06f9850dd"
+    },
+    {
+      "path": "runs/seed_11/pauli_string_gradient_vectors.parquet",
+      "bytes": 829970,
+      "sha256": "3c40eaba268a4e773656ef8f8f774ea1b8e8b2209ab57ffa6e553cac8aab6d7c"
+    },
+    {
+      "path": "runs/seed_11/sector_gradient_vectors.parquet",
+      "bytes": 158298,
+      "sha256": "2b5b7f528f7c72b6c4d8cc02d5cbd3b41de530626857e7befac95bdc0532b1ed"
+    },
+    {
+      "path": "runs/seed_11/sector_metrics.csv",
+      "bytes": 35007,
+      "sha256": "0c4ad058a459550b3103cecc2a9e1b1c6fbdff99b7d42a2699ac7800fa57b97a"
+    },
+    {
+      "path": "runs/seed_11/step_metrics.parquet",
+      "bytes": 1929062,
+      "sha256": "36eee151430b16494e0c295e5e4daf85ce3316e30aa314d60e7e758219961c04"
+    },
+    {
+      "path": "runs/seed_11/string_metrics.csv",
+      "bytes": 148429,
+      "sha256": "e5c2a870b35a811e48b49e4e663e7402e522f3229a88f579947f1a4bf19b73f2"
+    },
+    {
+      "path": "runs/seed_11/update_metrics.csv",
+      "bytes": 29325,
+      "sha256": "b0ec52733d8cd7b203e906ef03c4203494d2d55a0faf2c111edaafb94cd652de"
+    },
+    {
+      "path": "runs/seed_23/episode_metrics.csv",
+      "bytes": 52178,
+      "sha256": "4b0c156ecd1dd9a8e15abc849f695cf9bdf83c2d4e538edd591054be2e0727d8"
+    },
+    {
+      "path": "runs/seed_23/final_state.pt",
+      "bytes": 10122,
+      "sha256": "917c83657f01fbd6710d7f1e70856221502a3ec6b93165dfc48995d72fb10149"
+    },
+    {
+      "path": "runs/seed_23/metadata.json",
+      "bytes": 598,
+      "sha256": "281f04ae4be4eba65025a30136891705748b8a3229374e150aeaaa84d3494ecc"
+    },
+    {
+      "path": "runs/seed_23/pauli_string_gradient_vectors.parquet",
+      "bytes": 834060,
+      "sha256": "bc21f4ded708c48e83041a2008b904f3b355e138e34e686484e29143bbc3e52a"
+    },
+    {
+      "path": "runs/seed_23/sector_gradient_vectors.parquet",
+      "bytes": 158644,
+      "sha256": "3d344c048d834dbc00c114cd95f3ebcbe3712fe0a56527fe11b91763495d4269"
+    },
+    {
+      "path": "runs/seed_23/sector_metrics.csv",
+      "bytes": 35114,
+      "sha256": "b46b1678e2a3e8bc75638e1b02b508cb71533dfdbf29987ba9a1d9f4271acbba"
+    },
+    {
+      "path": "runs/seed_23/step_metrics.parquet",
+      "bytes": 2058962,
+      "sha256": "838f4ec9a00bc4ac474d700aff9a758bc2ae4df13f86177cd4d6c080cac68ad5"
+    },
+    {
+      "path": "runs/seed_23/string_metrics.csv",
+      "bytes": 148789,
+      "sha256": "b46027854c6fa025d142b1b19caf47a2e62c7c674773391aeac4999a0e800543"
+    },
+    {
+      "path": "runs/seed_23/update_metrics.csv",
+      "bytes": 29572,
+      "sha256": "518147fcac84a063948543cdcf639164a5a28bfcbb756354ad6f32c6a6069e67"
+    },
+    {
+      "path": "runs/seed_3/episode_metrics.csv",
+      "bytes": 52186,
+      "sha256": "824b14d0706d3a2e342a82978f2c8ef8118b56b308724401a09b50055b3a975d"
+    },
+    {
+      "path": "runs/seed_3/final_state.pt",
+      "bytes": 10122,
+      "sha256": "bd37b3582ad98a9d92bdf18372b1c06414770089fd3bc941d3534825d5936ae8"
+    },
+    {
+      "path": "runs/seed_3/metadata.json",
+      "bytes": 598,
+      "sha256": "7685926fbba7c3c685b71e14e3dc9fc252e220589067dd5f6de3e8ea436f231c"
+    },
+    {
+      "path": "runs/seed_3/pauli_string_gradient_vectors.parquet",
+      "bytes": 830715,
+      "sha256": "8f37bb22e8801e3c5beda45b43286b1f3f6950323ed7a3229d99a3f24e808e3a"
+    },
+    {
+      "path": "runs/seed_3/sector_gradient_vectors.parquet",
+      "bytes": 158331,
+      "sha256": "7efd398733a9a9ba4a04f7930d74b2314eb3782e78953c1957290636ee16eabc"
+    },
+    {
+      "path": "runs/seed_3/sector_metrics.csv",
+      "bytes": 34782,
+      "sha256": "d167c2e4133f39f36789e0b2f0bb8074716012a58030f7289ea4b112238b1c0b"
+    },
+    {
+      "path": "runs/seed_3/step_metrics.parquet",
+      "bytes": 2023881,
+      "sha256": "7195551bdd02d5ce46e38e5fea745c1d3a7267e0f9b1fba8e2dbf23b326bf4d8"
+    },
+    {
+      "path": "runs/seed_3/string_metrics.csv",
+      "bytes": 147112,
+      "sha256": "5def16f46dcd4b0fee19cc2d44a87263996a1d5dbadd33839e4d1313f277d49f"
+    },
+    {
+      "path": "runs/seed_3/update_metrics.csv",
+      "bytes": 29273,
+      "sha256": "30a553f3cddc65bcc75b6126dd717641929fe017ae3e181daf035dbad6ae51c8"
+    },
+    {
+      "path": "runs/seed_37/episode_metrics.csv",
+      "bytes": 52586,
+      "sha256": "b21ffd4ed50f2d1f147a539d54f634a0922c6ea1e59e053f53dfd3e7333d515a"
+    },
+    {
+      "path": "runs/seed_37/final_state.pt",
+      "bytes": 10122,
+      "sha256": "d85ac7a69ae9f0e4c913fb875640e35e41119fc9a89898a9dcf1cf25d967a90c"
+    },
+    {
+      "path": "runs/seed_37/metadata.json",
+      "bytes": 599,
+      "sha256": "0648219f567a57509d915a2c9c73f9a7f468911c801f1186c1d6ba98c5640fa8"
+    },
+    {
+      "path": "runs/seed_37/pauli_string_gradient_vectors.parquet",
+      "bytes": 827971,
+      "sha256": "add2c28f73d796c1a42d416f75758869b0f97d689e8373efba6b3d49c4809c69"
+    },
+    {
+      "path": "runs/seed_37/sector_gradient_vectors.parquet",
+      "bytes": 158208,
+      "sha256": "38cafd8075798f974af62185bee5a37d4a2def5e722a8b0e9e3f61512bd8d3d0"
+    },
+    {
+      "path": "runs/seed_37/sector_metrics.csv",
+      "bytes": 35009,
+      "sha256": "a82eba7e7100ba6788cd6c449819558a5c984b8cf17fe7afbdea435f7b91367e"
+    },
+    {
+      "path": "runs/seed_37/step_metrics.parquet",
+      "bytes": 1932728,
+      "sha256": "1b6bda34bfe762869720ca9b7293ffdc1c68d2c51c5eebc31ce7d1e2c50eebbb"
+    },
+    {
+      "path": "runs/seed_37/string_metrics.csv",
+      "bytes": 148626,
+      "sha256": "587e15af04d8af56a026a8715159b551dc5bc3c57ca72709028345b3ed7c0b5d"
+    },
+    {
+      "path": "runs/seed_37/update_metrics.csv",
+      "bytes": 29370,
+      "sha256": "03433135b0dfece904952fb3dc0923b3b00bbbbaec607995f282de529480c2a5"
+    },
+    {
+      "path": "runs/seed_41/episode_metrics.csv",
+      "bytes": 52362,
+      "sha256": "27d87b2847506e736df5696af58d1cfcf857a05f7e5a72436ac2437be5f084e8"
+    },
+    {
+      "path": "runs/seed_41/final_state.pt",
+      "bytes": 10122,
+      "sha256": "bd32ddbe9dac02efc20ebcb6fdaa9943ae39214b709cd6a45f97518f0956c465"
+    },
+    {
+      "path": "runs/seed_41/metadata.json",
+      "bytes": 600,
+      "sha256": "249197ef6fa357752bb1627d768a4a502fd4a7354b56be4e3a9e3e5861c7190c"
+    },
+    {
+      "path": "runs/seed_41/pauli_string_gradient_vectors.parquet",
+      "bytes": 828594,
+      "sha256": "cef6313da40a1930d6d87cc05efc98eb44123e9936e8051fa3fa1dc6c1feb6f8"
+    },
+    {
+      "path": "runs/seed_41/sector_gradient_vectors.parquet",
+      "bytes": 158497,
+      "sha256": "ee55e4a1088ea6187278a42ee6e5d5708352b8af6d1ab3ac6eb9db4f5f5c8845"
+    },
+    {
+      "path": "runs/seed_41/sector_metrics.csv",
+      "bytes": 35053,
+      "sha256": "0aa8c9167e2969bb3c14ec30b29957f64d65e922e17779d087e677cdf61241e5"
+    },
+    {
+      "path": "runs/seed_41/step_metrics.parquet",
+      "bytes": 1970819,
+      "sha256": "84d10118e1cfbbae209ac1603e58358dc19cb6ab14e5c129cc298df3ba6270a8"
+    },
+    {
+      "path": "runs/seed_41/string_metrics.csv",
+      "bytes": 148760,
+      "sha256": "163ed1ac110d035121c58c150a8ba9f31152b3550b1b2877fc36d213096e19b5"
+    },
+    {
+      "path": "runs/seed_41/update_metrics.csv",
+      "bytes": 29658,
+      "sha256": "0160cf5885e5bca75fc88297722b2805f17cc320b69be096235a252b4b4935c2"
+    },
+    {
+      "path": "runs/seed_43/episode_metrics.csv",
+      "bytes": 52558,
+      "sha256": "c5f7caf43c7cb81fa44783b37360207bb74ebd3c0d54389b7527d10b088de161"
+    },
+    {
+      "path": "runs/seed_43/final_state.pt",
+      "bytes": 10122,
+      "sha256": "b7e54a30e2147aa7f578b5d4c1ab05b52e59ef12a9471a6771520aa0583202b7"
+    },
+    {
+      "path": "runs/seed_43/metadata.json",
+      "bytes": 599,
+      "sha256": "a8678dece39b450e47cd3a4045050c2c4461696323201da0c2c89a6f70211af5"
+    },
+    {
+      "path": "runs/seed_43/pauli_string_gradient_vectors.parquet",
+      "bytes": 829165,
+      "sha256": "7d16e455cd7e888f932e01bfe51750239f2b021d171a3ff8abbd1b57874adcdf"
+    },
+    {
+      "path": "runs/seed_43/sector_gradient_vectors.parquet",
+      "bytes": 158113,
+      "sha256": "e081d4f00f99daa8e9bb49be2dfe0798ce7cc24b7ef4a8ce4b6e6da3d2decb78"
+    },
+    {
+      "path": "runs/seed_43/sector_metrics.csv",
+      "bytes": 34947,
+      "sha256": "e9989b7389b45b8f2fc6951b86085e5d70d864ddce5377412f1a30e95946c103"
+    },
+    {
+      "path": "runs/seed_43/step_metrics.parquet",
+      "bytes": 1724359,
+      "sha256": "3ea58ed6c28af27a8fcc91056fe4e7fe11ffbc62ea47dbf2558fa500ee934dbd"
+    },
+    {
+      "path": "runs/seed_43/string_metrics.csv",
+      "bytes": 148537,
+      "sha256": "c94d252b8e85f534fa9ca7fe30506caf8f610414dd57a02ed10948a2f8e6a240"
+    },
+    {
+      "path": "runs/seed_43/update_metrics.csv",
+      "bytes": 29186,
+      "sha256": "0c816f4f1a19f9fb770016b4179bbdc3c1e8f75bd05d53c7b5a0e3633295b267"
+    },
+    {
+      "path": "runs/seed_47/episode_metrics.csv",
+      "bytes": 52431,
+      "sha256": "1558c9d2989b6fbc10cfc3d87c3aeec597f8bc843cf706fd2eba0c5e2c6db18d"
+    },
+    {
+      "path": "runs/seed_47/final_state.pt",
+      "bytes": 10122,
+      "sha256": "ccedf7ade6ed90fa164775b427811704e0e185b68baf7a671b20aa648473ec06"
+    },
+    {
+      "path": "runs/seed_47/metadata.json",
+      "bytes": 599,
+      "sha256": "7032a372993bbbb6e5d19b3fb69007c45d86db6b8ffa0e3e7af887386222e0b6"
+    },
+    {
+      "path": "runs/seed_47/pauli_string_gradient_vectors.parquet",
+      "bytes": 830277,
+      "sha256": "4cc4e7be279676fa8f9387670c1ecfb9c0be4cd18d3492fbe2dddb39a0b94e13"
+    },
+    {
+      "path": "runs/seed_47/sector_gradient_vectors.parquet",
+      "bytes": 158468,
+      "sha256": "9e1530edb4ae4ee6a8c5f589601ff4875335622069ece48ec805e9c2d44952af"
+    },
+    {
+      "path": "runs/seed_47/sector_metrics.csv",
+      "bytes": 34984,
+      "sha256": "2d8ae32d0fd02bff72e837b4a62dc3495b942209a16ebc6cfc891a178d5f9379"
+    },
+    {
+      "path": "runs/seed_47/step_metrics.parquet",
+      "bytes": 2196525,
+      "sha256": "ad40d5a29d33f613268fc79e3e874b1264b54d1bf2e385b0e1fb6eeeb37255a5"
+    },
+    {
+      "path": "runs/seed_47/string_metrics.csv",
+      "bytes": 148712,
+      "sha256": "4820278c4222afa5087666eed8eaac5f833afc93bd05a41f74387adf87dd49af"
+    },
+    {
+      "path": "runs/seed_47/update_metrics.csv",
+      "bytes": 29626,
+      "sha256": "bab278a318ce142651546a049062ff93f9350f1bbcb6bdfc4630659a7f9a27b8"
+    },
+    {
+      "path": "runs/seed_53/episode_metrics.csv",
+      "bytes": 52533,
+      "sha256": "d0ec6ab65a405e89ed093a2d881ab208625b29a8a347fa2fc3d95ab37532f0d0"
+    },
+    {
+      "path": "runs/seed_53/final_state.pt",
+      "bytes": 10122,
+      "sha256": "06a6364061c51e5ba57726c2307a30b2065ff31702a94a04a95741b25fc1efd1"
+    },
+    {
+      "path": "runs/seed_53/metadata.json",
+      "bytes": 599,
+      "sha256": "a3d6e4915754f44412f6da3de1fc168fbbaad33a499ba2e00425534757239921"
+    },
+    {
+      "path": "runs/seed_53/pauli_string_gradient_vectors.parquet",
+      "bytes": 826883,
+      "sha256": "94940b8b0e4a9fd63e5dabc8fef51002f392b40813741f20a4ca965f0e940995"
+    },
+    {
+      "path": "runs/seed_53/sector_gradient_vectors.parquet",
+      "bytes": 157933,
+      "sha256": "a16322e7a2026c782f84f37a0f4a7bfe7120be672e113b08025ce7db13fb30d6"
+    },
+    {
+      "path": "runs/seed_53/sector_metrics.csv",
+      "bytes": 34981,
+      "sha256": "3ac947462e4465212bc95b6773a99467c56c08b5220e9eac99fd8863d9493f74"
+    },
+    {
+      "path": "runs/seed_53/step_metrics.parquet",
+      "bytes": 1895117,
+      "sha256": "94042f92b5c4b522966e962def095810650ba9dbeb27d6bbbf961bd4f601f2c0"
+    },
+    {
+      "path": "runs/seed_53/string_metrics.csv",
+      "bytes": 148497,
+      "sha256": "7a33e965b493d88cc9a753ef6238a216439fcfa8895dd6b453378541231374f6"
+    },
+    {
+      "path": "runs/seed_53/update_metrics.csv",
+      "bytes": 29237,
+      "sha256": "79144002821867b13fe1cf180fe11b8c669005dedea7c6a7d5b77d3819887769"
+    },
+    {
+      "path": "runs/seed_59/episode_metrics.csv",
+      "bytes": 52515,
+      "sha256": "65e4db1390fca8cb9d1ff83e61a3e909520d4ca0610aa13585e9fde311669d3e"
+    },
+    {
+      "path": "runs/seed_59/final_state.pt",
+      "bytes": 10122,
+      "sha256": "3d9f0fc7c487f4ff65221005f1960291a15c4fbe0e25aec843041a9de4e89d4f"
+    },
+    {
+      "path": "runs/seed_59/metadata.json",
+      "bytes": 599,
+      "sha256": "464b95409ddf377b69c0e507bb1a0edc48febb131d7fbf68d74c3096b2c133ff"
+    },
+    {
+      "path": "runs/seed_59/pauli_string_gradient_vectors.parquet",
+      "bytes": 829782,
+      "sha256": "83e5dc36f5c35b658a72715ac1afda74b743d240de95baa5d32c3321973f9f37"
+    },
+    {
+      "path": "runs/seed_59/sector_gradient_vectors.parquet",
+      "bytes": 158420,
+      "sha256": "172167a1c4b826192133b9b4d819b7531e9925379a63c60fa485bf3becf0c18f"
+    },
+    {
+      "path": "runs/seed_59/sector_metrics.csv",
+      "bytes": 35015,
+      "sha256": "09af9b120e9ea1431b2fe0439ab559ea77f6433ad5efd69e4f715dd8061549a1"
+    },
+    {
+      "path": "runs/seed_59/step_metrics.parquet",
+      "bytes": 2181249,
+      "sha256": "81237ca74b0e64ee528a8467c076efc72478df97c22bc7539feb795314299fb7"
+    },
+    {
+      "path": "runs/seed_59/string_metrics.csv",
+      "bytes": 148859,
+      "sha256": "9384b1acdf167a920531a8705a9e11208818d4cd7f89269fd0c17ed051451b8a"
+    },
+    {
+      "path": "runs/seed_59/update_metrics.csv",
+      "bytes": 29612,
+      "sha256": "1b3e9bf14d3091594e7fe0b5122d94e11b451bd078df0811631e754580056c7b"
+    },
+    {
+      "path": "runs/seed_7/episode_metrics.csv",
+      "bytes": 51926,
+      "sha256": "18f8d4388cc9cad0375bcf58bb8137976c08cdc17e68e2d9b844e910d5846995"
+    },
+    {
+      "path": "runs/seed_7/final_state.pt",
+      "bytes": 10122,
+      "sha256": "892624a8e8de3b7ac0a8489e772ad586cf6be32dd97118f2ddeca136f9560f24"
+    },
+    {
+      "path": "runs/seed_7/metadata.json",
+      "bytes": 597,
+      "sha256": "504d5f1bb7746ca1e9f8cb5ad3276cd4e0c83cad48b7cc7d08cf46bd722110b2"
+    },
+    {
+      "path": "runs/seed_7/pauli_string_gradient_vectors.parquet",
+      "bytes": 828858,
+      "sha256": "d6b1b4a25204651b5e4f2d5f2c6e33289d05282a339e3468dda9cb30ecffb530"
+    },
+    {
+      "path": "runs/seed_7/sector_gradient_vectors.parquet",
+      "bytes": 158343,
+      "sha256": "33bd2d46129d8f5afb3ee999c28382cf0457207416132cbd3f5da7b1372a2e30"
+    },
+    {
+      "path": "runs/seed_7/sector_metrics.csv",
+      "bytes": 34678,
+      "sha256": "ab13b27f2d58789c667789dfa7ce604e2e651b2abf2a1a07a06ed05d34e3d77f"
+    },
+    {
+      "path": "runs/seed_7/step_metrics.parquet",
+      "bytes": 1713921,
+      "sha256": "839ac9a5c9938d1cd5ce3b5c82783b4c43e7631e7e1dce6ee0ad1dbdabd00a68"
+    },
+    {
+      "path": "runs/seed_7/string_metrics.csv",
+      "bytes": 146939,
+      "sha256": "383e23341a9f85518038528ce3b7cd7ff1fbc0640e466acddc2f025d499396ff"
+    },
+    {
+      "path": "runs/seed_7/update_metrics.csv",
+      "bytes": 29264,
+      "sha256": "3aea2277a461eb67eeb69a463cc19f84a591e48231dba97076c0298d65278e82"
+    },
+    {
+      "path": "seed_bin_sector_summary.csv",
+      "bytes": 36235,
+      "sha256": "5e15ad09c6af72c8237910fb27c16240d6db2e810951f6d9b81e8354a4931c26"
+    },
+    {
+      "path": "seed_metadata.csv",
+      "bytes": 2579,
+      "sha256": "c743c78e007f963b335450d29989fc4aa977e52632d6621d3ad854b768b239d1"
+    },
+    {
+      "path": "software_metadata.json",
+      "bytes": 522,
+      "sha256": "0e4669146558c1e2a33779720a8d0e305ad89e55012d2d28375ffe7a095d2bf2"
+    }
+  ]
+}

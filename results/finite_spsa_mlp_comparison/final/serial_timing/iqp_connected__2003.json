@@ -1,0 +1,9 @@
+{
+  "model": "iqp_connected",
+  "seed": 2003,
+  "training_seconds": 41.161133332992904,
+  "training_cpu_seconds": 39.83860400000003,
+  "criterion_episode": 194,
+  "seconds_to_criterion": 14.698790875030681,
+  "trajectory_exactly_reproduced": true
+}

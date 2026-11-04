@@ -1,0 +1,129 @@
+{
+  "phase": "development_strict",
+  "summary": {
+    "iqp2body_7_0.15": {
+      "n": 8,
+      "seeds": [
+        211,
+        223,
+        227,
+        229,
+        233,
+        239,
+        241,
+        251
+      ],
+      "parameters": 42,
+      "auc": {
+        "mean": 0.94695125,
+        "sem": 0.017823559292358366
+      },
+      "restricted_solve_episode": {
+        "mean": 166.0,
+        "sem": 20.458145426350704
+      },
+      "final50": {
+        "mean": 197.62,
+        "sem": 0.9085860286338147
+      },
+      "heldout": {
+        "mean": 197.975,
+        "sem": 1.6845675579040618
+      },
+      "solved_fraction": 1.0
+    },
+    "iqpblocksbalanced_21_0.15": {
+      "n": 8,
+      "seeds": [
+        211,
+        223,
+        227,
+        229,
+        233,
+        239,
+        241,
+        251
+      ],
+      "parameters": 133,
+      "auc": {
+        "mean": 0.91786125,
+        "sem": 0.02891154177817349
+      },
+      "restricted_solve_episode": {
+        "mean": 171.375,
+        "sem": 21.389197457060956
+      },
+      "final50": {
+        "mean": 200.0,
+        "sem": 0.0
+      },
+      "heldout": {
+        "mean": 199.48125,
+        "sem": 0.5187500000000007
+      },
+      "solved_fraction": 1.0
+    },
+    "iqpblocksbalanced_21_0.5": {
+      "n": 8,
+      "seeds": [
+        211,
+        223,
+        227,
+        229,
+        233,
+        239,
+        241,
+        251
+      ],
+      "parameters": 133,
+      "auc": {
+        "mean": 0.92753,
+        "sem": 0.023432289992352747
+      },
+      "restricted_solve_episode": {
+        "mean": 164.0,
+        "sem": 19.595917942265423
+      },
+      "final50": {
+        "mean": 198.955,
+        "sem": 0.459825277376402
+      },
+      "heldout": {
+        "mean": 198.96875,
+        "sem": 0.6823631142162193
+      },
+      "solved_fraction": 1.0
+    },
+    "mlp": {
+      "n": 8,
+      "seeds": [
+        211,
+        223,
+        227,
+        229,
+        233,
+        239,
+        241,
+        251
+      ],
+      "parameters": 65,
+      "auc": {
+        "mean": 0.82964875,
+        "sem": 0.01687764248490334
+      },
+      "restricted_solve_episode": {
+        "mean": 289.5,
+        "sem": 36.77974986320597
+      },
+      "final50": {
+        "mean": 198.8325,
+        "sem": 0.8171722803144298
+      },
+      "heldout": {
+        "mean": 198.30625,
+        "sem": 0.9163415954996569
+      },
+      "solved_fraction": 1.0
+    }
+  }
+}

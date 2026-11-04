@@ -1,0 +1,6 @@
+{
+  "name": "iqp_connected",
+  "seed": 2007,
+  "initial_return": 145.76,
+  "episodes": 100
+}

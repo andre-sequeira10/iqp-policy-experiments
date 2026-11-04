@@ -1,0 +1,20 @@
+{
+  "spec": {
+    "name": "mlp_h19_lr0p03",
+    "kind": "mlp",
+    "width": 19,
+    "lr": 0.03,
+    "parameters": 135
+  },
+  "seed": 1002,
+  "phase": "development",
+  "auc": 0.917,
+  "solve_episode": 167,
+  "final50": 199.7,
+  "heldout": 200.0,
+  "freeze_episode": 170,
+  "updates": 33,
+  "seconds": 21.543699026107788,
+  "parameters": 135,
+  "initial_hash": "4a45d98e5894100680021936d2e392a0837ba6a61c241382a76b09872bc9a722"
+}

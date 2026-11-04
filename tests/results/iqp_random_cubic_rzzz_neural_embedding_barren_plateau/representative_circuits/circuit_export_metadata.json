@@ -1,0 +1,52 @@
+{
+  "source_notebook": "./tests/iqp_random_cubic_rzzz_neural_embedding_barren_plateau.ipynb",
+  "source_record": {
+    "n_qubits": 6,
+    "topology": 0,
+    "graph_seed": 2684399100,
+    "networkx_graph_seed": 2577268763,
+    "graph_rejection_attempts": 1,
+    "triple_seed": 2312805165,
+    "parameter_seed": 3689803491,
+    "scaling_seed": 3466784579,
+    "diagnostic_seed": 2375022423,
+    "edges": "0-2;0-3;0-4;1-2;1-3;1-5;2-5;3-4;4-5",
+    "triples": "0-2-4;0-2-5;0-3-5;1-2-5;1-3-5;2-4-5",
+    "graph_hash": "b5d218df236ed0c1",
+    "triple_hash": "8dc6c63a756b4f61"
+  },
+  "fixed_state": [
+    0.20000000298023224,
+    -0.30000001192092896,
+    0.4000000059604645,
+    -0.5
+  ],
+  "feature_map": "QASP NeuralEmbedding(rotations='Z', features=4)",
+  "policy": "QASP PQCBornVariance majority-modulo, deterministic ties to action 0",
+  "qasp_api": "qasp.rl.model.draw_model(model=..., inputs=..., output='tikz', tikz_options=...)",
+  "parameter_pairing_checks": {
+    "input_scaling_bitwise_equal": true,
+    "shared_rz_rzz_prefix_bitwise_equal": true
+  },
+  "files": {
+    "tikz": [
+      "./tests/results/iqp_random_cubic_rzzz_neural_embedding_barren_plateau/representative_circuits/neural_embedding_random_3_regular_iqp_n6.tex",
+      "./tests/results/iqp_random_cubic_rzzz_neural_embedding_barren_plateau/representative_circuits/neural_embedding_random_3_regular_plus_rzzz_iqp_n6.tex"
+    ],
+    "pdf": [
+      "./tests/results/iqp_random_cubic_rzzz_neural_embedding_barren_plateau/representative_circuits/neural_embedding_random_3_regular_iqp_n6.pdf",
+      "./tests/results/iqp_random_cubic_rzzz_neural_embedding_barren_plateau/representative_circuits/neural_embedding_random_3_regular_plus_rzzz_iqp_n6.pdf"
+    ],
+    "png_300_dpi": [
+      "./tests/results/iqp_random_cubic_rzzz_neural_embedding_barren_plateau/representative_circuits/neural_embedding_random_3_regular_iqp_n6.png",
+      "./tests/results/iqp_random_cubic_rzzz_neural_embedding_barren_plateau/representative_circuits/neural_embedding_random_3_regular_plus_rzzz_iqp_n6.png"
+    ]
+  },
+  "latex_dependencies": [
+    "standalone",
+    "xcolor",
+    "quantikz",
+    "tikz/fit"
+  ],
+  "paper_integration": "Include the compiled PDF at width=\\linewidth (single column) or width=\\textwidth inside figure* (two columns)."
+}

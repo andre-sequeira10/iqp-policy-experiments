@@ -1,0 +1,94 @@
+{
+  "run_id": "expander_10_L1__uniform_rzzz__seed_157",
+  "seed": 157,
+  "condition": "uniform_rzzz",
+  "n_qubits": 10,
+  "depth": 1,
+  "measurement_wires": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "n_rzzz_gates": 10,
+  "triples": [
+    [
+      0,
+      5,
+      6
+    ],
+    [
+      1,
+      4,
+      7
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      3,
+      4,
+      7
+    ],
+    [
+      3,
+      4,
+      9
+    ],
+    [
+      0,
+      5,
+      8
+    ],
+    [
+      2,
+      5,
+      6
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      2,
+      8,
+      9
+    ],
+    [
+      3,
+      8,
+      9
+    ]
+  ],
+  "n_parameters": 75,
+  "initial_shared_parameter_sha256": "359898b6ef4614246ee5a1ae761de8d768811b9551265b9737b086c6dcddc49a",
+  "declared_initial_parameter_sha256": "359898b6ef4614246ee5a1ae761de8d768811b9551265b9737b086c6dcddc49a",
+  "initial_rzzz_parameter_sha256": "eed7d65f59eb50441c80c27cf1c80aa86cf7af8f43d4874b51276f61b1dcc7b9",
+  "base_learning_rate": 0.03,
+  "rzzz_learning_rate": 0.03,
+  "rzzz_initialization": "uniform[0,2pi)",
+  "execution_backend": "validated_analytic_torch_statevector",
+  "measurement_path": "nine_bit_majority_exact_probabilities",
+  "training_final_50": 197.98,
+  "normalized_training_auc": 0.7268899999999999,
+  "evaluation_mean": 198.68,
+  "evaluation_std": 13.199999999999998,
+  "strict_solved_episode": 309.0,
+  "optimizer_freeze_episode": 310.0,
+  "optimizer_updates": 61,
+  "training_forward_circuit_calls": 72689,
+  "evaluation_forward_circuit_calls": 19868,
+  "training_seconds": 116.78354995800328,
+  "evaluation_seconds": 10.46431095799926,
+  "total_seconds": 127.25674829100171,
+  "checkpoint_npz": "./tests/results/cartpole_10q_graph_local_rzzz_uniform_ablation/runs/expander_10_L1__uniform_rzzz__seed_157.npz",
+  "checkpoint_pt": "./tests/results/cartpole_10q_graph_local_rzzz_uniform_ablation/runs/expander_10_L1__uniform_rzzz__seed_157.pt"
+}

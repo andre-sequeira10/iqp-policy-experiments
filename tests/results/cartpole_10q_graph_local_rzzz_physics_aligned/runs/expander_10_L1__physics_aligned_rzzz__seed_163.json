@@ -1,0 +1,94 @@
+{
+  "run_id": "expander_10_L1__physics_aligned_rzzz__seed_163",
+  "seed": 163,
+  "condition": "physics_aligned_rzzz",
+  "n_qubits": 10,
+  "depth": 1,
+  "measurement_wires": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "n_rzzz_gates": 10,
+  "triples": [
+    [
+      0,
+      5,
+      6
+    ],
+    [
+      1,
+      4,
+      7
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      3,
+      4,
+      7
+    ],
+    [
+      3,
+      4,
+      9
+    ],
+    [
+      0,
+      5,
+      8
+    ],
+    [
+      2,
+      5,
+      6
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      2,
+      8,
+      9
+    ],
+    [
+      3,
+      8,
+      9
+    ]
+  ],
+  "n_parameters": 75,
+  "initial_shared_parameter_sha256": "5d7e79c1b72f0205c5e980d5f6e59bce68477509042abc4ada04553e691d12b3",
+  "declared_initial_parameter_sha256": "5d7e79c1b72f0205c5e980d5f6e59bce68477509042abc4ada04553e691d12b3",
+  "initial_rzzz_parameter_sha256": "2c34ce1df23b838c5abf2a7f6437cca3d3067ed509ff25f11df6b11b582b51eb",
+  "base_learning_rate": 0.03,
+  "rzzz_learning_rate": 0.01,
+  "physics_aligned_initialization": true,
+  "execution_backend": "validated_analytic_torch_statevector",
+  "measurement_path": "nine_bit_majority_exact_probabilities",
+  "training_final_50": 195.26,
+  "normalized_training_auc": 0.9778,
+  "evaluation_mean": 199.54,
+  "evaluation_std": 2.061773287951197,
+  "strict_solved_episode": 183.0,
+  "optimizer_freeze_episode": 185.0,
+  "optimizer_updates": 36,
+  "training_forward_circuit_calls": 97780,
+  "evaluation_forward_circuit_calls": 19954,
+  "training_seconds": 157.40211241700308,
+  "evaluation_seconds": 13.420095041998138,
+  "total_seconds": 170.87146774999565,
+  "checkpoint_npz": "./tests/results/cartpole_10q_graph_local_rzzz_physics_aligned/runs/expander_10_L1__physics_aligned_rzzz__seed_163.npz",
+  "checkpoint_pt": "./tests/results/cartpole_10q_graph_local_rzzz_physics_aligned/runs/expander_10_L1__physics_aligned_rzzz__seed_163.pt"
+}

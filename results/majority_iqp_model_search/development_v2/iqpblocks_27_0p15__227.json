@@ -1,0 +1,18 @@
+{
+  "model": {
+    "name": "iqpblocks_27_0.15",
+    "n": 27,
+    "sigma": 0.15,
+    "family": "iqpblocks"
+  },
+  "seed": 227,
+  "phase": "development_v2",
+  "episodes": 500,
+  "auc": 0.9056799999999999,
+  "restricted_solve_episode": 172,
+  "final50": 194.7,
+  "heldout": 200.0,
+  "parameters": 171,
+  "seconds": 31.500235080718994,
+  "initial_sha256": "7dbb3f6c45eb93f88e272a2fc253c656d7535f3043ee9a0fa3d7950c196d7970"
+}

@@ -1,0 +1,5 @@
+contrast,n_pairs,mean_difference,bootstrap_ci95_low,bootstrap_ci95_high
+new_minus_baseline_training_final_50,10,-44.548,-82.88199999999999,-10.169999999999998
+new_minus_rzzz_training_final_50,10,-46.45,-83.5382,-13.212
+new_minus_baseline_heldout,10,-40.00899999999999,-77.46699999999998,-8.803999999999991
+new_minus_rzzz_heldout,10,-41.211,-78.46599999999998,-9.36592499999999

@@ -1,0 +1,9 @@
+{
+  "model": "k8",
+  "seed": 2003,
+  "training_seconds": 64.72641729196766,
+  "training_cpu_seconds": 62.03420899999992,
+  "criterion_episode": 501,
+  "seconds_to_criterion": null,
+  "trajectory_exactly_reproduced": true
+}

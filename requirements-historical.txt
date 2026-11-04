@@ -1,0 +1,10 @@
+# Observed versions in saved local-sector experiment metadata, not a full lockfile.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.14.1
+matplotlib==3.10.3
+torch==2.7.0
+gymnasium==1.0.0
+pennylane==0.42.2
+pennylane-lightning==0.42.0
+joblib==1.5.0

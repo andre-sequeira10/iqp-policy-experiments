@@ -1,0 +1,22 @@
+{
+  "k": 64,
+  "seed": 1001,
+  "phase": "development",
+  "auc": 0.91878,
+  "solve_episode": 196,
+  "heldout": 200.0,
+  "final50": 197.5,
+  "freeze_episode": 200,
+  "updates": 39,
+  "training_seconds": 362.26346254203236,
+  "optimization_seconds": 273.3893943729345,
+  "evaluation_seconds": 2.852472333004698,
+  "circuit_evaluations": {
+    "rollout": 91878,
+    "gradient": 4028800,
+    "evaluation": 4000
+  },
+  "optimized_transitions": 31475,
+  "training_shots": 16878297088,
+  "initial_hash": "d0f95c6964a4bf5eae2039f193f4e1fb881af84b6e92fa9636348c8237bbf90e"
+}

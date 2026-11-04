@@ -1,0 +1,282 @@
+[
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 601,
+    "initial_mean_return": 196.69,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 197.73
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 607,
+    "initial_mean_return": 90.21,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 200.0
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 613,
+    "initial_mean_return": 24.93,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 196.63
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 617,
+    "initial_mean_return": 46.73,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 197.6
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 619,
+    "initial_mean_return": 170.92,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 200.0
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 631,
+    "initial_mean_return": 40.22,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.0
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 641,
+    "initial_mean_return": 37.75,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 192.56
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 643,
+    "initial_mean_return": 50.44,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 198.16
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 647,
+    "initial_mean_return": 42.57,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 200.0
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 653,
+    "initial_mean_return": 177.92,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 200.0
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 659,
+    "initial_mean_return": 57.97,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 200.0
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 661,
+    "initial_mean_return": 46.9,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.21
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 673,
+    "initial_mean_return": 185.88,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 187.66
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 677,
+    "initial_mean_return": 56.25,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 198.25
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 683,
+    "initial_mean_return": 39.1,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.06
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 691,
+    "initial_mean_return": 183.93,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 200.0
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 701,
+    "initial_mean_return": 43.97,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 198.28
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 709,
+    "initial_mean_return": 50.47,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.32
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 719,
+    "initial_mean_return": 41.23,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 200.0
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.5",
+    "seed": 727,
+    "initial_mean_return": 72.59,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.12
+  },
+  {
+    "model": "mlp",
+    "seed": 601,
+    "initial_mean_return": 20.19,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 198.35
+  },
+  {
+    "model": "mlp",
+    "seed": 607,
+    "initial_mean_return": 16.25,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 200.0
+  },
+  {
+    "model": "mlp",
+    "seed": 613,
+    "initial_mean_return": 18.03,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.01
+  },
+  {
+    "model": "mlp",
+    "seed": 617,
+    "initial_mean_return": 19.48,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 200.0
+  },
+  {
+    "model": "mlp",
+    "seed": 619,
+    "initial_mean_return": 21.18,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 198.34
+  },
+  {
+    "model": "mlp",
+    "seed": 631,
+    "initial_mean_return": 19.27,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 195.97
+  },
+  {
+    "model": "mlp",
+    "seed": 641,
+    "initial_mean_return": 19.4,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 198.56
+  },
+  {
+    "model": "mlp",
+    "seed": 643,
+    "initial_mean_return": 20.56,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 195.84
+  },
+  {
+    "model": "mlp",
+    "seed": 647,
+    "initial_mean_return": 16.35,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.58
+  },
+  {
+    "model": "mlp",
+    "seed": 653,
+    "initial_mean_return": 20.95,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 200.0
+  },
+  {
+    "model": "mlp",
+    "seed": 659,
+    "initial_mean_return": 15.51,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.86
+  },
+  {
+    "model": "mlp",
+    "seed": 661,
+    "initial_mean_return": 21.03,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.11
+  },
+  {
+    "model": "mlp",
+    "seed": 673,
+    "initial_mean_return": 21.43,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.79
+  },
+  {
+    "model": "mlp",
+    "seed": 677,
+    "initial_mean_return": 16.93,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 197.25
+  },
+  {
+    "model": "mlp",
+    "seed": 683,
+    "initial_mean_return": 25.53,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.87
+  },
+  {
+    "model": "mlp",
+    "seed": 691,
+    "initial_mean_return": 17.61,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 193.73
+  },
+  {
+    "model": "mlp",
+    "seed": 701,
+    "initial_mean_return": 16.63,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 197.52
+  },
+  {
+    "model": "mlp",
+    "seed": 709,
+    "initial_mean_return": 18.35,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 193.03
+  },
+  {
+    "model": "mlp",
+    "seed": 719,
+    "initial_mean_return": 20.17,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.88
+  },
+  {
+    "model": "mlp",
+    "seed": 727,
+    "initial_mean_return": 21.01,
+    "evaluation_episodes": 100,
+    "trained_mean_return": 199.27
+  }
+]

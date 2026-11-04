@@ -1,0 +1,23 @@
+{
+  "name": "iqp_connected_shots4096_spsa8",
+  "seed": 2010,
+  "parameters": 139,
+  "shots": 4096,
+  "K": 8,
+  "auc": 0.8277599999999999,
+  "solve_episode": 284,
+  "final50": 187.68,
+  "heldout": 180.01,
+  "freeze_episode": 285,
+  "updates": 56,
+  "seconds": 124.31360101699829,
+  "optimized_transitions": 42090,
+  "circuit_evaluations": {
+    "rollout": 82776,
+    "gradient": 673440,
+    "evaluation": 18001
+  },
+  "training_shots": 3097460736,
+  "evaluation_shots": 73732096,
+  "initial_hash": "903a27995a6ed36bbcc4331187b1ead6c94cc193123a104c23f49da104640160"
+}

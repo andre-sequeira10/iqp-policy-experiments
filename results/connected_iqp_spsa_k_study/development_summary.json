@@ -1,0 +1,26 @@
+[
+  {
+    "k": 32,
+    "auc": 0.72838,
+    "solve_episode": 396.625,
+    "solved": 4,
+    "target_met": false,
+    "score": 6.195
+  },
+  {
+    "k": 64,
+    "auc": 0.7600850000000001,
+    "solve_episode": 365.0,
+    "solved": 4,
+    "target_met": false,
+    "score": 4.93
+  },
+  {
+    "k": 128,
+    "auc": 0.80519875,
+    "solve_episode": 309.375,
+    "solved": 6,
+    "target_met": false,
+    "score": 2.705
+  }
+]

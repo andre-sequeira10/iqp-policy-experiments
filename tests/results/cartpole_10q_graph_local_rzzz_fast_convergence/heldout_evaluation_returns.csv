@@ -1,0 +1,4001 @@
+condition,seed,evaluation_episode,return
+baseline majority,61,1,26.0
+baseline majority,61,2,200.0
+baseline majority,61,3,148.0
+baseline majority,61,4,200.0
+baseline majority,61,5,200.0
+baseline majority,61,6,200.0
+baseline majority,61,7,200.0
+baseline majority,61,8,126.0
+baseline majority,61,9,200.0
+baseline majority,61,10,200.0
+baseline majority,61,11,151.0
+baseline majority,61,12,200.0
+baseline majority,61,13,200.0
+baseline majority,61,14,115.0
+baseline majority,61,15,33.0
+baseline majority,61,16,200.0
+baseline majority,61,17,200.0
+baseline majority,61,18,159.0
+baseline majority,61,19,200.0
+baseline majority,61,20,127.0
+baseline majority,61,21,200.0
+baseline majority,61,22,122.0
+baseline majority,61,23,200.0
+baseline majority,61,24,200.0
+baseline majority,61,25,133.0
+baseline majority,61,26,200.0
+baseline majority,61,27,200.0
+baseline majority,61,28,33.0
+baseline majority,61,29,200.0
+baseline majority,61,30,108.0
+baseline majority,61,31,200.0
+baseline majority,61,32,119.0
+baseline majority,61,33,47.0
+baseline majority,61,34,200.0
+baseline majority,61,35,138.0
+baseline majority,61,36,200.0
+baseline majority,61,37,182.0
+baseline majority,61,38,200.0
+baseline majority,61,39,30.0
+baseline majority,61,40,200.0
+baseline majority,61,41,200.0
+baseline majority,61,42,200.0
+baseline majority,61,43,200.0
+baseline majority,61,44,178.0
+baseline majority,61,45,200.0
+baseline majority,61,46,200.0
+baseline majority,61,47,138.0
+baseline majority,61,48,200.0
+baseline majority,61,49,200.0
+baseline majority,61,50,200.0
+baseline majority,61,51,200.0
+baseline majority,61,52,200.0
+baseline majority,61,53,200.0
+baseline majority,61,54,200.0
+baseline majority,61,55,200.0
+baseline majority,61,56,200.0
+baseline majority,61,57,200.0
+baseline majority,61,58,61.0
+baseline majority,61,59,200.0
+baseline majority,61,60,200.0
+baseline majority,61,61,60.0
+baseline majority,61,62,200.0
+baseline majority,61,63,200.0
+baseline majority,61,64,200.0
+baseline majority,61,65,200.0
+baseline majority,61,66,200.0
+baseline majority,61,67,200.0
+baseline majority,61,68,22.0
+baseline majority,61,69,200.0
+baseline majority,61,70,200.0
+baseline majority,61,71,45.0
+baseline majority,61,72,200.0
+baseline majority,61,73,103.0
+baseline majority,61,74,200.0
+baseline majority,61,75,157.0
+baseline majority,61,76,200.0
+baseline majority,61,77,98.0
+baseline majority,61,78,118.0
+baseline majority,61,79,200.0
+baseline majority,61,80,26.0
+baseline majority,61,81,145.0
+baseline majority,61,82,33.0
+baseline majority,61,83,200.0
+baseline majority,61,84,79.0
+baseline majority,61,85,200.0
+baseline majority,61,86,200.0
+baseline majority,61,87,54.0
+baseline majority,61,88,200.0
+baseline majority,61,89,125.0
+baseline majority,61,90,200.0
+baseline majority,61,91,60.0
+baseline majority,61,92,200.0
+baseline majority,61,93,200.0
+baseline majority,61,94,200.0
+baseline majority,61,95,200.0
+baseline majority,61,96,200.0
+baseline majority,61,97,200.0
+baseline majority,61,98,200.0
+baseline majority,61,99,175.0
+baseline majority,61,100,200.0
+baseline majority,67,1,200.0
+baseline majority,67,2,200.0
+baseline majority,67,3,200.0
+baseline majority,67,4,200.0
+baseline majority,67,5,200.0
+baseline majority,67,6,200.0
+baseline majority,67,7,200.0
+baseline majority,67,8,200.0
+baseline majority,67,9,187.0
+baseline majority,67,10,200.0
+baseline majority,67,11,200.0
+baseline majority,67,12,200.0
+baseline majority,67,13,200.0
+baseline majority,67,14,200.0
+baseline majority,67,15,200.0
+baseline majority,67,16,200.0
+baseline majority,67,17,178.0
+baseline majority,67,18,200.0
+baseline majority,67,19,200.0
+baseline majority,67,20,200.0
+baseline majority,67,21,200.0
+baseline majority,67,22,98.0
+baseline majority,67,23,200.0
+baseline majority,67,24,200.0
+baseline majority,67,25,200.0
+baseline majority,67,26,200.0
+baseline majority,67,27,200.0
+baseline majority,67,28,156.0
+baseline majority,67,29,200.0
+baseline majority,67,30,200.0
+baseline majority,67,31,200.0
+baseline majority,67,32,200.0
+baseline majority,67,33,97.0
+baseline majority,67,34,200.0
+baseline majority,67,35,200.0
+baseline majority,67,36,143.0
+baseline majority,67,37,200.0
+baseline majority,67,38,200.0
+baseline majority,67,39,200.0
+baseline majority,67,40,200.0
+baseline majority,67,41,200.0
+baseline majority,67,42,200.0
+baseline majority,67,43,158.0
+baseline majority,67,44,200.0
+baseline majority,67,45,200.0
+baseline majority,67,46,200.0
+baseline majority,67,47,200.0
+baseline majority,67,48,200.0
+baseline majority,67,49,200.0
+baseline majority,67,50,200.0
+baseline majority,67,51,200.0
+baseline majority,67,52,200.0
+baseline majority,67,53,18.0
+baseline majority,67,54,200.0
+baseline majority,67,55,200.0
+baseline majority,67,56,82.0
+baseline majority,67,57,200.0
+baseline majority,67,58,200.0
+baseline majority,67,59,200.0
+baseline majority,67,60,143.0
+baseline majority,67,61,200.0
+baseline majority,67,62,200.0
+baseline majority,67,63,200.0
+baseline majority,67,64,200.0
+baseline majority,67,65,200.0
+baseline majority,67,66,200.0
+baseline majority,67,67,200.0
+baseline majority,67,68,200.0
+baseline majority,67,69,200.0
+baseline majority,67,70,200.0
+baseline majority,67,71,200.0
+baseline majority,67,72,200.0
+baseline majority,67,73,200.0
+baseline majority,67,74,200.0
+baseline majority,67,75,200.0
+baseline majority,67,76,200.0
+baseline majority,67,77,200.0
+baseline majority,67,78,200.0
+baseline majority,67,79,200.0
+baseline majority,67,80,200.0
+baseline majority,67,81,200.0
+baseline majority,67,82,200.0
+baseline majority,67,83,200.0
+baseline majority,67,84,200.0
+baseline majority,67,85,200.0
+baseline majority,67,86,111.0
+baseline majority,67,87,200.0
+baseline majority,67,88,11.0
+baseline majority,67,89,118.0
+baseline majority,67,90,200.0
+baseline majority,67,91,200.0
+baseline majority,67,92,200.0
+baseline majority,67,93,157.0
+baseline majority,67,94,200.0
+baseline majority,67,95,200.0
+baseline majority,67,96,200.0
+baseline majority,67,97,200.0
+baseline majority,67,98,200.0
+baseline majority,67,99,200.0
+baseline majority,67,100,200.0
+baseline majority,71,1,101.0
+baseline majority,71,2,200.0
+baseline majority,71,3,62.0
+baseline majority,71,4,200.0
+baseline majority,71,5,200.0
+baseline majority,71,6,200.0
+baseline majority,71,7,200.0
+baseline majority,71,8,200.0
+baseline majority,71,9,200.0
+baseline majority,71,10,200.0
+baseline majority,71,11,200.0
+baseline majority,71,12,200.0
+baseline majority,71,13,200.0
+baseline majority,71,14,200.0
+baseline majority,71,15,56.0
+baseline majority,71,16,200.0
+baseline majority,71,17,58.0
+baseline majority,71,18,87.0
+baseline majority,71,19,200.0
+baseline majority,71,20,200.0
+baseline majority,71,21,200.0
+baseline majority,71,22,200.0
+baseline majority,71,23,200.0
+baseline majority,71,24,46.0
+baseline majority,71,25,200.0
+baseline majority,71,26,200.0
+baseline majority,71,27,106.0
+baseline majority,71,28,200.0
+baseline majority,71,29,200.0
+baseline majority,71,30,200.0
+baseline majority,71,31,200.0
+baseline majority,71,32,200.0
+baseline majority,71,33,200.0
+baseline majority,71,34,200.0
+baseline majority,71,35,200.0
+baseline majority,71,36,200.0
+baseline majority,71,37,200.0
+baseline majority,71,38,200.0
+baseline majority,71,39,200.0
+baseline majority,71,40,200.0
+baseline majority,71,41,200.0
+baseline majority,71,42,200.0
+baseline majority,71,43,200.0
+baseline majority,71,44,200.0
+baseline majority,71,45,200.0
+baseline majority,71,46,200.0
+baseline majority,71,47,200.0
+baseline majority,71,48,200.0
+baseline majority,71,49,200.0
+baseline majority,71,50,200.0
+baseline majority,71,51,200.0
+baseline majority,71,52,200.0
+baseline majority,71,53,200.0
+baseline majority,71,54,200.0
+baseline majority,71,55,200.0
+baseline majority,71,56,200.0
+baseline majority,71,57,200.0
+baseline majority,71,58,200.0
+baseline majority,71,59,200.0
+baseline majority,71,60,200.0
+baseline majority,71,61,200.0
+baseline majority,71,62,200.0
+baseline majority,71,63,200.0
+baseline majority,71,64,200.0
+baseline majority,71,65,200.0
+baseline majority,71,66,200.0
+baseline majority,71,67,200.0
+baseline majority,71,68,200.0
+baseline majority,71,69,200.0
+baseline majority,71,70,200.0
+baseline majority,71,71,200.0
+baseline majority,71,72,200.0
+baseline majority,71,73,200.0
+baseline majority,71,74,200.0
+baseline majority,71,75,85.0
+baseline majority,71,76,65.0
+baseline majority,71,77,200.0
+baseline majority,71,78,200.0
+baseline majority,71,79,200.0
+baseline majority,71,80,200.0
+baseline majority,71,81,200.0
+baseline majority,71,82,200.0
+baseline majority,71,83,200.0
+baseline majority,71,84,200.0
+baseline majority,71,85,200.0
+baseline majority,71,86,200.0
+baseline majority,71,87,200.0
+baseline majority,71,88,200.0
+baseline majority,71,89,200.0
+baseline majority,71,90,200.0
+baseline majority,71,91,200.0
+baseline majority,71,92,200.0
+baseline majority,71,93,200.0
+baseline majority,71,94,200.0
+baseline majority,71,95,200.0
+baseline majority,71,96,200.0
+baseline majority,71,97,200.0
+baseline majority,71,98,200.0
+baseline majority,71,99,200.0
+baseline majority,71,100,200.0
+baseline majority,73,1,200.0
+baseline majority,73,2,200.0
+baseline majority,73,3,200.0
+baseline majority,73,4,200.0
+baseline majority,73,5,200.0
+baseline majority,73,6,200.0
+baseline majority,73,7,200.0
+baseline majority,73,8,172.0
+baseline majority,73,9,200.0
+baseline majority,73,10,200.0
+baseline majority,73,11,200.0
+baseline majority,73,12,200.0
+baseline majority,73,13,200.0
+baseline majority,73,14,200.0
+baseline majority,73,15,200.0
+baseline majority,73,16,200.0
+baseline majority,73,17,200.0
+baseline majority,73,18,200.0
+baseline majority,73,19,200.0
+baseline majority,73,20,200.0
+baseline majority,73,21,200.0
+baseline majority,73,22,200.0
+baseline majority,73,23,200.0
+baseline majority,73,24,200.0
+baseline majority,73,25,200.0
+baseline majority,73,26,200.0
+baseline majority,73,27,200.0
+baseline majority,73,28,200.0
+baseline majority,73,29,200.0
+baseline majority,73,30,200.0
+baseline majority,73,31,200.0
+baseline majority,73,32,200.0
+baseline majority,73,33,200.0
+baseline majority,73,34,200.0
+baseline majority,73,35,200.0
+baseline majority,73,36,200.0
+baseline majority,73,37,200.0
+baseline majority,73,38,200.0
+baseline majority,73,39,200.0
+baseline majority,73,40,200.0
+baseline majority,73,41,200.0
+baseline majority,73,42,200.0
+baseline majority,73,43,27.0
+baseline majority,73,44,200.0
+baseline majority,73,45,200.0
+baseline majority,73,46,200.0
+baseline majority,73,47,200.0
+baseline majority,73,48,200.0
+baseline majority,73,49,200.0
+baseline majority,73,50,200.0
+baseline majority,73,51,200.0
+baseline majority,73,52,200.0
+baseline majority,73,53,200.0
+baseline majority,73,54,200.0
+baseline majority,73,55,200.0
+baseline majority,73,56,200.0
+baseline majority,73,57,200.0
+baseline majority,73,58,200.0
+baseline majority,73,59,200.0
+baseline majority,73,60,200.0
+baseline majority,73,61,200.0
+baseline majority,73,62,200.0
+baseline majority,73,63,200.0
+baseline majority,73,64,200.0
+baseline majority,73,65,200.0
+baseline majority,73,66,200.0
+baseline majority,73,67,200.0
+baseline majority,73,68,200.0
+baseline majority,73,69,200.0
+baseline majority,73,70,200.0
+baseline majority,73,71,144.0
+baseline majority,73,72,200.0
+baseline majority,73,73,200.0
+baseline majority,73,74,200.0
+baseline majority,73,75,200.0
+baseline majority,73,76,200.0
+baseline majority,73,77,200.0
+baseline majority,73,78,200.0
+baseline majority,73,79,200.0
+baseline majority,73,80,150.0
+baseline majority,73,81,200.0
+baseline majority,73,82,200.0
+baseline majority,73,83,200.0
+baseline majority,73,84,200.0
+baseline majority,73,85,200.0
+baseline majority,73,86,200.0
+baseline majority,73,87,200.0
+baseline majority,73,88,200.0
+baseline majority,73,89,200.0
+baseline majority,73,90,200.0
+baseline majority,73,91,200.0
+baseline majority,73,92,200.0
+baseline majority,73,93,200.0
+baseline majority,73,94,200.0
+baseline majority,73,95,200.0
+baseline majority,73,96,200.0
+baseline majority,73,97,200.0
+baseline majority,73,98,200.0
+baseline majority,73,99,200.0
+baseline majority,73,100,200.0
+baseline majority,79,1,200.0
+baseline majority,79,2,200.0
+baseline majority,79,3,200.0
+baseline majority,79,4,200.0
+baseline majority,79,5,200.0
+baseline majority,79,6,200.0
+baseline majority,79,7,200.0
+baseline majority,79,8,200.0
+baseline majority,79,9,200.0
+baseline majority,79,10,200.0
+baseline majority,79,11,200.0
+baseline majority,79,12,200.0
+baseline majority,79,13,200.0
+baseline majority,79,14,200.0
+baseline majority,79,15,200.0
+baseline majority,79,16,200.0
+baseline majority,79,17,200.0
+baseline majority,79,18,200.0
+baseline majority,79,19,200.0
+baseline majority,79,20,200.0
+baseline majority,79,21,200.0
+baseline majority,79,22,200.0
+baseline majority,79,23,200.0
+baseline majority,79,24,200.0
+baseline majority,79,25,200.0
+baseline majority,79,26,200.0
+baseline majority,79,27,200.0
+baseline majority,79,28,200.0
+baseline majority,79,29,200.0
+baseline majority,79,30,200.0
+baseline majority,79,31,200.0
+baseline majority,79,32,200.0
+baseline majority,79,33,200.0
+baseline majority,79,34,200.0
+baseline majority,79,35,200.0
+baseline majority,79,36,89.0
+baseline majority,79,37,200.0
+baseline majority,79,38,200.0
+baseline majority,79,39,200.0
+baseline majority,79,40,200.0
+baseline majority,79,41,200.0
+baseline majority,79,42,200.0
+baseline majority,79,43,200.0
+baseline majority,79,44,200.0
+baseline majority,79,45,200.0
+baseline majority,79,46,200.0
+baseline majority,79,47,200.0
+baseline majority,79,48,200.0
+baseline majority,79,49,200.0
+baseline majority,79,50,200.0
+baseline majority,79,51,200.0
+baseline majority,79,52,200.0
+baseline majority,79,53,200.0
+baseline majority,79,54,200.0
+baseline majority,79,55,200.0
+baseline majority,79,56,200.0
+baseline majority,79,57,200.0
+baseline majority,79,58,106.0
+baseline majority,79,59,200.0
+baseline majority,79,60,200.0
+baseline majority,79,61,200.0
+baseline majority,79,62,200.0
+baseline majority,79,63,200.0
+baseline majority,79,64,200.0
+baseline majority,79,65,200.0
+baseline majority,79,66,200.0
+baseline majority,79,67,200.0
+baseline majority,79,68,200.0
+baseline majority,79,69,200.0
+baseline majority,79,70,200.0
+baseline majority,79,71,200.0
+baseline majority,79,72,200.0
+baseline majority,79,73,200.0
+baseline majority,79,74,200.0
+baseline majority,79,75,200.0
+baseline majority,79,76,200.0
+baseline majority,79,77,200.0
+baseline majority,79,78,200.0
+baseline majority,79,79,200.0
+baseline majority,79,80,200.0
+baseline majority,79,81,200.0
+baseline majority,79,82,200.0
+baseline majority,79,83,200.0
+baseline majority,79,84,200.0
+baseline majority,79,85,200.0
+baseline majority,79,86,200.0
+baseline majority,79,87,200.0
+baseline majority,79,88,200.0
+baseline majority,79,89,200.0
+baseline majority,79,90,200.0
+baseline majority,79,91,200.0
+baseline majority,79,92,200.0
+baseline majority,79,93,200.0
+baseline majority,79,94,200.0
+baseline majority,79,95,200.0
+baseline majority,79,96,200.0
+baseline majority,79,97,200.0
+baseline majority,79,98,200.0
+baseline majority,79,99,200.0
+baseline majority,79,100,200.0
+baseline majority,83,1,200.0
+baseline majority,83,2,142.0
+baseline majority,83,3,200.0
+baseline majority,83,4,200.0
+baseline majority,83,5,141.0
+baseline majority,83,6,200.0
+baseline majority,83,7,200.0
+baseline majority,83,8,200.0
+baseline majority,83,9,200.0
+baseline majority,83,10,200.0
+baseline majority,83,11,200.0
+baseline majority,83,12,200.0
+baseline majority,83,13,200.0
+baseline majority,83,14,200.0
+baseline majority,83,15,200.0
+baseline majority,83,16,200.0
+baseline majority,83,17,200.0
+baseline majority,83,18,200.0
+baseline majority,83,19,200.0
+baseline majority,83,20,119.0
+baseline majority,83,21,200.0
+baseline majority,83,22,200.0
+baseline majority,83,23,200.0
+baseline majority,83,24,200.0
+baseline majority,83,25,200.0
+baseline majority,83,26,200.0
+baseline majority,83,27,134.0
+baseline majority,83,28,200.0
+baseline majority,83,29,200.0
+baseline majority,83,30,200.0
+baseline majority,83,31,200.0
+baseline majority,83,32,200.0
+baseline majority,83,33,200.0
+baseline majority,83,34,200.0
+baseline majority,83,35,200.0
+baseline majority,83,36,200.0
+baseline majority,83,37,200.0
+baseline majority,83,38,200.0
+baseline majority,83,39,200.0
+baseline majority,83,40,200.0
+baseline majority,83,41,200.0
+baseline majority,83,42,200.0
+baseline majority,83,43,200.0
+baseline majority,83,44,200.0
+baseline majority,83,45,200.0
+baseline majority,83,46,200.0
+baseline majority,83,47,200.0
+baseline majority,83,48,171.0
+baseline majority,83,49,200.0
+baseline majority,83,50,200.0
+baseline majority,83,51,200.0
+baseline majority,83,52,163.0
+baseline majority,83,53,200.0
+baseline majority,83,54,200.0
+baseline majority,83,55,200.0
+baseline majority,83,56,200.0
+baseline majority,83,57,200.0
+baseline majority,83,58,200.0
+baseline majority,83,59,200.0
+baseline majority,83,60,200.0
+baseline majority,83,61,153.0
+baseline majority,83,62,200.0
+baseline majority,83,63,200.0
+baseline majority,83,64,200.0
+baseline majority,83,65,200.0
+baseline majority,83,66,200.0
+baseline majority,83,67,200.0
+baseline majority,83,68,200.0
+baseline majority,83,69,200.0
+baseline majority,83,70,200.0
+baseline majority,83,71,200.0
+baseline majority,83,72,154.0
+baseline majority,83,73,200.0
+baseline majority,83,74,200.0
+baseline majority,83,75,200.0
+baseline majority,83,76,133.0
+baseline majority,83,77,200.0
+baseline majority,83,78,132.0
+baseline majority,83,79,200.0
+baseline majority,83,80,200.0
+baseline majority,83,81,200.0
+baseline majority,83,82,200.0
+baseline majority,83,83,200.0
+baseline majority,83,84,200.0
+baseline majority,83,85,200.0
+baseline majority,83,86,200.0
+baseline majority,83,87,200.0
+baseline majority,83,88,200.0
+baseline majority,83,89,200.0
+baseline majority,83,90,140.0
+baseline majority,83,91,200.0
+baseline majority,83,92,200.0
+baseline majority,83,93,200.0
+baseline majority,83,94,200.0
+baseline majority,83,95,200.0
+baseline majority,83,96,200.0
+baseline majority,83,97,200.0
+baseline majority,83,98,200.0
+baseline majority,83,99,130.0
+baseline majority,83,100,200.0
+baseline majority,89,1,200.0
+baseline majority,89,2,200.0
+baseline majority,89,3,200.0
+baseline majority,89,4,200.0
+baseline majority,89,5,200.0
+baseline majority,89,6,200.0
+baseline majority,89,7,200.0
+baseline majority,89,8,200.0
+baseline majority,89,9,200.0
+baseline majority,89,10,200.0
+baseline majority,89,11,200.0
+baseline majority,89,12,200.0
+baseline majority,89,13,200.0
+baseline majority,89,14,200.0
+baseline majority,89,15,200.0
+baseline majority,89,16,200.0
+baseline majority,89,17,200.0
+baseline majority,89,18,200.0
+baseline majority,89,19,200.0
+baseline majority,89,20,200.0
+baseline majority,89,21,200.0
+baseline majority,89,22,200.0
+baseline majority,89,23,200.0
+baseline majority,89,24,200.0
+baseline majority,89,25,200.0
+baseline majority,89,26,200.0
+baseline majority,89,27,200.0
+baseline majority,89,28,200.0
+baseline majority,89,29,132.0
+baseline majority,89,30,200.0
+baseline majority,89,31,200.0
+baseline majority,89,32,200.0
+baseline majority,89,33,200.0
+baseline majority,89,34,200.0
+baseline majority,89,35,200.0
+baseline majority,89,36,200.0
+baseline majority,89,37,200.0
+baseline majority,89,38,200.0
+baseline majority,89,39,200.0
+baseline majority,89,40,200.0
+baseline majority,89,41,200.0
+baseline majority,89,42,200.0
+baseline majority,89,43,200.0
+baseline majority,89,44,200.0
+baseline majority,89,45,200.0
+baseline majority,89,46,200.0
+baseline majority,89,47,200.0
+baseline majority,89,48,200.0
+baseline majority,89,49,200.0
+baseline majority,89,50,200.0
+baseline majority,89,51,200.0
+baseline majority,89,52,200.0
+baseline majority,89,53,200.0
+baseline majority,89,54,200.0
+baseline majority,89,55,200.0
+baseline majority,89,56,200.0
+baseline majority,89,57,200.0
+baseline majority,89,58,200.0
+baseline majority,89,59,200.0
+baseline majority,89,60,200.0
+baseline majority,89,61,200.0
+baseline majority,89,62,200.0
+baseline majority,89,63,200.0
+baseline majority,89,64,200.0
+baseline majority,89,65,200.0
+baseline majority,89,66,200.0
+baseline majority,89,67,200.0
+baseline majority,89,68,200.0
+baseline majority,89,69,200.0
+baseline majority,89,70,200.0
+baseline majority,89,71,200.0
+baseline majority,89,72,200.0
+baseline majority,89,73,200.0
+baseline majority,89,74,200.0
+baseline majority,89,75,200.0
+baseline majority,89,76,200.0
+baseline majority,89,77,200.0
+baseline majority,89,78,200.0
+baseline majority,89,79,200.0
+baseline majority,89,80,200.0
+baseline majority,89,81,200.0
+baseline majority,89,82,200.0
+baseline majority,89,83,200.0
+baseline majority,89,84,200.0
+baseline majority,89,85,200.0
+baseline majority,89,86,200.0
+baseline majority,89,87,200.0
+baseline majority,89,88,200.0
+baseline majority,89,89,200.0
+baseline majority,89,90,200.0
+baseline majority,89,91,200.0
+baseline majority,89,92,200.0
+baseline majority,89,93,200.0
+baseline majority,89,94,200.0
+baseline majority,89,95,200.0
+baseline majority,89,96,200.0
+baseline majority,89,97,200.0
+baseline majority,89,98,200.0
+baseline majority,89,99,200.0
+baseline majority,89,100,200.0
+baseline majority,97,1,200.0
+baseline majority,97,2,200.0
+baseline majority,97,3,200.0
+baseline majority,97,4,200.0
+baseline majority,97,5,200.0
+baseline majority,97,6,200.0
+baseline majority,97,7,200.0
+baseline majority,97,8,200.0
+baseline majority,97,9,137.0
+baseline majority,97,10,200.0
+baseline majority,97,11,200.0
+baseline majority,97,12,111.0
+baseline majority,97,13,200.0
+baseline majority,97,14,200.0
+baseline majority,97,15,200.0
+baseline majority,97,16,200.0
+baseline majority,97,17,200.0
+baseline majority,97,18,200.0
+baseline majority,97,19,200.0
+baseline majority,97,20,200.0
+baseline majority,97,21,200.0
+baseline majority,97,22,200.0
+baseline majority,97,23,200.0
+baseline majority,97,24,200.0
+baseline majority,97,25,200.0
+baseline majority,97,26,200.0
+baseline majority,97,27,200.0
+baseline majority,97,28,200.0
+baseline majority,97,29,200.0
+baseline majority,97,30,131.0
+baseline majority,97,31,200.0
+baseline majority,97,32,200.0
+baseline majority,97,33,200.0
+baseline majority,97,34,200.0
+baseline majority,97,35,200.0
+baseline majority,97,36,66.0
+baseline majority,97,37,200.0
+baseline majority,97,38,200.0
+baseline majority,97,39,200.0
+baseline majority,97,40,200.0
+baseline majority,97,41,200.0
+baseline majority,97,42,200.0
+baseline majority,97,43,199.0
+baseline majority,97,44,200.0
+baseline majority,97,45,93.0
+baseline majority,97,46,200.0
+baseline majority,97,47,200.0
+baseline majority,97,48,200.0
+baseline majority,97,49,200.0
+baseline majority,97,50,200.0
+baseline majority,97,51,200.0
+baseline majority,97,52,200.0
+baseline majority,97,53,200.0
+baseline majority,97,54,200.0
+baseline majority,97,55,200.0
+baseline majority,97,56,14.0
+baseline majority,97,57,200.0
+baseline majority,97,58,200.0
+baseline majority,97,59,200.0
+baseline majority,97,60,200.0
+baseline majority,97,61,200.0
+baseline majority,97,62,200.0
+baseline majority,97,63,200.0
+baseline majority,97,64,200.0
+baseline majority,97,65,200.0
+baseline majority,97,66,200.0
+baseline majority,97,67,84.0
+baseline majority,97,68,200.0
+baseline majority,97,69,200.0
+baseline majority,97,70,200.0
+baseline majority,97,71,200.0
+baseline majority,97,72,200.0
+baseline majority,97,73,200.0
+baseline majority,97,74,200.0
+baseline majority,97,75,200.0
+baseline majority,97,76,200.0
+baseline majority,97,77,200.0
+baseline majority,97,78,194.0
+baseline majority,97,79,200.0
+baseline majority,97,80,200.0
+baseline majority,97,81,200.0
+baseline majority,97,82,200.0
+baseline majority,97,83,200.0
+baseline majority,97,84,200.0
+baseline majority,97,85,200.0
+baseline majority,97,86,200.0
+baseline majority,97,87,200.0
+baseline majority,97,88,200.0
+baseline majority,97,89,200.0
+baseline majority,97,90,200.0
+baseline majority,97,91,200.0
+baseline majority,97,92,200.0
+baseline majority,97,93,200.0
+baseline majority,97,94,200.0
+baseline majority,97,95,163.0
+baseline majority,97,96,200.0
+baseline majority,97,97,200.0
+baseline majority,97,98,200.0
+baseline majority,97,99,200.0
+baseline majority,97,100,200.0
+baseline majority,101,1,200.0
+baseline majority,101,2,200.0
+baseline majority,101,3,200.0
+baseline majority,101,4,200.0
+baseline majority,101,5,200.0
+baseline majority,101,6,200.0
+baseline majority,101,7,199.0
+baseline majority,101,8,200.0
+baseline majority,101,9,200.0
+baseline majority,101,10,200.0
+baseline majority,101,11,200.0
+baseline majority,101,12,200.0
+baseline majority,101,13,200.0
+baseline majority,101,14,200.0
+baseline majority,101,15,200.0
+baseline majority,101,16,200.0
+baseline majority,101,17,200.0
+baseline majority,101,18,200.0
+baseline majority,101,19,200.0
+baseline majority,101,20,200.0
+baseline majority,101,21,200.0
+baseline majority,101,22,200.0
+baseline majority,101,23,200.0
+baseline majority,101,24,200.0
+baseline majority,101,25,200.0
+baseline majority,101,26,200.0
+baseline majority,101,27,131.0
+baseline majority,101,28,200.0
+baseline majority,101,29,200.0
+baseline majority,101,30,200.0
+baseline majority,101,31,200.0
+baseline majority,101,32,200.0
+baseline majority,101,33,200.0
+baseline majority,101,34,200.0
+baseline majority,101,35,200.0
+baseline majority,101,36,200.0
+baseline majority,101,37,92.0
+baseline majority,101,38,200.0
+baseline majority,101,39,200.0
+baseline majority,101,40,200.0
+baseline majority,101,41,200.0
+baseline majority,101,42,200.0
+baseline majority,101,43,200.0
+baseline majority,101,44,200.0
+baseline majority,101,45,200.0
+baseline majority,101,46,200.0
+baseline majority,101,47,200.0
+baseline majority,101,48,200.0
+baseline majority,101,49,200.0
+baseline majority,101,50,200.0
+baseline majority,101,51,200.0
+baseline majority,101,52,200.0
+baseline majority,101,53,200.0
+baseline majority,101,54,200.0
+baseline majority,101,55,200.0
+baseline majority,101,56,200.0
+baseline majority,101,57,200.0
+baseline majority,101,58,200.0
+baseline majority,101,59,200.0
+baseline majority,101,60,200.0
+baseline majority,101,61,200.0
+baseline majority,101,62,200.0
+baseline majority,101,63,200.0
+baseline majority,101,64,200.0
+baseline majority,101,65,200.0
+baseline majority,101,66,200.0
+baseline majority,101,67,200.0
+baseline majority,101,68,200.0
+baseline majority,101,69,200.0
+baseline majority,101,70,200.0
+baseline majority,101,71,200.0
+baseline majority,101,72,200.0
+baseline majority,101,73,200.0
+baseline majority,101,74,200.0
+baseline majority,101,75,200.0
+baseline majority,101,76,200.0
+baseline majority,101,77,200.0
+baseline majority,101,78,200.0
+baseline majority,101,79,200.0
+baseline majority,101,80,200.0
+baseline majority,101,81,200.0
+baseline majority,101,82,200.0
+baseline majority,101,83,200.0
+baseline majority,101,84,200.0
+baseline majority,101,85,200.0
+baseline majority,101,86,200.0
+baseline majority,101,87,200.0
+baseline majority,101,88,200.0
+baseline majority,101,89,200.0
+baseline majority,101,90,200.0
+baseline majority,101,91,200.0
+baseline majority,101,92,200.0
+baseline majority,101,93,200.0
+baseline majority,101,94,200.0
+baseline majority,101,95,200.0
+baseline majority,101,96,200.0
+baseline majority,101,97,200.0
+baseline majority,101,98,200.0
+baseline majority,101,99,200.0
+baseline majority,101,100,200.0
+baseline majority,103,1,200.0
+baseline majority,103,2,200.0
+baseline majority,103,3,200.0
+baseline majority,103,4,200.0
+baseline majority,103,5,200.0
+baseline majority,103,6,200.0
+baseline majority,103,7,200.0
+baseline majority,103,8,200.0
+baseline majority,103,9,200.0
+baseline majority,103,10,200.0
+baseline majority,103,11,200.0
+baseline majority,103,12,64.0
+baseline majority,103,13,21.0
+baseline majority,103,14,182.0
+baseline majority,103,15,119.0
+baseline majority,103,16,102.0
+baseline majority,103,17,200.0
+baseline majority,103,18,200.0
+baseline majority,103,19,200.0
+baseline majority,103,20,200.0
+baseline majority,103,21,200.0
+baseline majority,103,22,200.0
+baseline majority,103,23,200.0
+baseline majority,103,24,142.0
+baseline majority,103,25,200.0
+baseline majority,103,26,200.0
+baseline majority,103,27,200.0
+baseline majority,103,28,200.0
+baseline majority,103,29,200.0
+baseline majority,103,30,138.0
+baseline majority,103,31,163.0
+baseline majority,103,32,200.0
+baseline majority,103,33,200.0
+baseline majority,103,34,200.0
+baseline majority,103,35,73.0
+baseline majority,103,36,200.0
+baseline majority,103,37,200.0
+baseline majority,103,38,200.0
+baseline majority,103,39,94.0
+baseline majority,103,40,200.0
+baseline majority,103,41,200.0
+baseline majority,103,42,200.0
+baseline majority,103,43,200.0
+baseline majority,103,44,200.0
+baseline majority,103,45,200.0
+baseline majority,103,46,200.0
+baseline majority,103,47,200.0
+baseline majority,103,48,193.0
+baseline majority,103,49,200.0
+baseline majority,103,50,200.0
+baseline majority,103,51,200.0
+baseline majority,103,52,200.0
+baseline majority,103,53,200.0
+baseline majority,103,54,200.0
+baseline majority,103,55,156.0
+baseline majority,103,56,200.0
+baseline majority,103,57,200.0
+baseline majority,103,58,200.0
+baseline majority,103,59,200.0
+baseline majority,103,60,85.0
+baseline majority,103,61,200.0
+baseline majority,103,62,200.0
+baseline majority,103,63,200.0
+baseline majority,103,64,200.0
+baseline majority,103,65,200.0
+baseline majority,103,66,200.0
+baseline majority,103,67,200.0
+baseline majority,103,68,86.0
+baseline majority,103,69,200.0
+baseline majority,103,70,200.0
+baseline majority,103,71,200.0
+baseline majority,103,72,200.0
+baseline majority,103,73,200.0
+baseline majority,103,74,200.0
+baseline majority,103,75,200.0
+baseline majority,103,76,200.0
+baseline majority,103,77,200.0
+baseline majority,103,78,136.0
+baseline majority,103,79,200.0
+baseline majority,103,80,200.0
+baseline majority,103,81,200.0
+baseline majority,103,82,75.0
+baseline majority,103,83,200.0
+baseline majority,103,84,200.0
+baseline majority,103,85,200.0
+baseline majority,103,86,200.0
+baseline majority,103,87,200.0
+baseline majority,103,88,25.0
+baseline majority,103,89,200.0
+baseline majority,103,90,200.0
+baseline majority,103,91,200.0
+baseline majority,103,92,200.0
+baseline majority,103,93,200.0
+baseline majority,103,94,200.0
+baseline majority,103,95,200.0
+baseline majority,103,96,200.0
+baseline majority,103,97,182.0
+baseline majority,103,98,200.0
+baseline majority,103,99,200.0
+baseline majority,103,100,200.0
+baseline majority,107,1,200.0
+baseline majority,107,2,200.0
+baseline majority,107,3,200.0
+baseline majority,107,4,200.0
+baseline majority,107,5,200.0
+baseline majority,107,6,200.0
+baseline majority,107,7,200.0
+baseline majority,107,8,200.0
+baseline majority,107,9,200.0
+baseline majority,107,10,200.0
+baseline majority,107,11,200.0
+baseline majority,107,12,200.0
+baseline majority,107,13,200.0
+baseline majority,107,14,200.0
+baseline majority,107,15,124.0
+baseline majority,107,16,200.0
+baseline majority,107,17,200.0
+baseline majority,107,18,200.0
+baseline majority,107,19,200.0
+baseline majority,107,20,200.0
+baseline majority,107,21,200.0
+baseline majority,107,22,154.0
+baseline majority,107,23,200.0
+baseline majority,107,24,200.0
+baseline majority,107,25,200.0
+baseline majority,107,26,200.0
+baseline majority,107,27,200.0
+baseline majority,107,28,200.0
+baseline majority,107,29,200.0
+baseline majority,107,30,200.0
+baseline majority,107,31,200.0
+baseline majority,107,32,200.0
+baseline majority,107,33,200.0
+baseline majority,107,34,200.0
+baseline majority,107,35,200.0
+baseline majority,107,36,200.0
+baseline majority,107,37,200.0
+baseline majority,107,38,200.0
+baseline majority,107,39,200.0
+baseline majority,107,40,200.0
+baseline majority,107,41,200.0
+baseline majority,107,42,200.0
+baseline majority,107,43,200.0
+baseline majority,107,44,200.0
+baseline majority,107,45,200.0
+baseline majority,107,46,200.0
+baseline majority,107,47,200.0
+baseline majority,107,48,200.0
+baseline majority,107,49,200.0
+baseline majority,107,50,200.0
+baseline majority,107,51,200.0
+baseline majority,107,52,200.0
+baseline majority,107,53,200.0
+baseline majority,107,54,200.0
+baseline majority,107,55,200.0
+baseline majority,107,56,200.0
+baseline majority,107,57,200.0
+baseline majority,107,58,86.0
+baseline majority,107,59,200.0
+baseline majority,107,60,200.0
+baseline majority,107,61,200.0
+baseline majority,107,62,200.0
+baseline majority,107,63,200.0
+baseline majority,107,64,200.0
+baseline majority,107,65,200.0
+baseline majority,107,66,200.0
+baseline majority,107,67,200.0
+baseline majority,107,68,200.0
+baseline majority,107,69,200.0
+baseline majority,107,70,200.0
+baseline majority,107,71,200.0
+baseline majority,107,72,200.0
+baseline majority,107,73,200.0
+baseline majority,107,74,200.0
+baseline majority,107,75,200.0
+baseline majority,107,76,200.0
+baseline majority,107,77,200.0
+baseline majority,107,78,200.0
+baseline majority,107,79,200.0
+baseline majority,107,80,200.0
+baseline majority,107,81,200.0
+baseline majority,107,82,200.0
+baseline majority,107,83,200.0
+baseline majority,107,84,200.0
+baseline majority,107,85,200.0
+baseline majority,107,86,200.0
+baseline majority,107,87,200.0
+baseline majority,107,88,200.0
+baseline majority,107,89,200.0
+baseline majority,107,90,200.0
+baseline majority,107,91,200.0
+baseline majority,107,92,200.0
+baseline majority,107,93,200.0
+baseline majority,107,94,200.0
+baseline majority,107,95,200.0
+baseline majority,107,96,200.0
+baseline majority,107,97,200.0
+baseline majority,107,98,200.0
+baseline majority,107,99,200.0
+baseline majority,107,100,200.0
+baseline majority,109,1,200.0
+baseline majority,109,2,200.0
+baseline majority,109,3,200.0
+baseline majority,109,4,200.0
+baseline majority,109,5,62.0
+baseline majority,109,6,200.0
+baseline majority,109,7,200.0
+baseline majority,109,8,200.0
+baseline majority,109,9,200.0
+baseline majority,109,10,200.0
+baseline majority,109,11,200.0
+baseline majority,109,12,200.0
+baseline majority,109,13,200.0
+baseline majority,109,14,200.0
+baseline majority,109,15,200.0
+baseline majority,109,16,137.0
+baseline majority,109,17,200.0
+baseline majority,109,18,200.0
+baseline majority,109,19,200.0
+baseline majority,109,20,200.0
+baseline majority,109,21,200.0
+baseline majority,109,22,200.0
+baseline majority,109,23,200.0
+baseline majority,109,24,200.0
+baseline majority,109,25,200.0
+baseline majority,109,26,43.0
+baseline majority,109,27,200.0
+baseline majority,109,28,200.0
+baseline majority,109,29,200.0
+baseline majority,109,30,200.0
+baseline majority,109,31,200.0
+baseline majority,109,32,200.0
+baseline majority,109,33,200.0
+baseline majority,109,34,200.0
+baseline majority,109,35,200.0
+baseline majority,109,36,200.0
+baseline majority,109,37,200.0
+baseline majority,109,38,38.0
+baseline majority,109,39,200.0
+baseline majority,109,40,200.0
+baseline majority,109,41,200.0
+baseline majority,109,42,200.0
+baseline majority,109,43,200.0
+baseline majority,109,44,200.0
+baseline majority,109,45,115.0
+baseline majority,109,46,200.0
+baseline majority,109,47,200.0
+baseline majority,109,48,200.0
+baseline majority,109,49,200.0
+baseline majority,109,50,200.0
+baseline majority,109,51,200.0
+baseline majority,109,52,59.0
+baseline majority,109,53,200.0
+baseline majority,109,54,154.0
+baseline majority,109,55,200.0
+baseline majority,109,56,200.0
+baseline majority,109,57,200.0
+baseline majority,109,58,200.0
+baseline majority,109,59,200.0
+baseline majority,109,60,200.0
+baseline majority,109,61,200.0
+baseline majority,109,62,200.0
+baseline majority,109,63,200.0
+baseline majority,109,64,200.0
+baseline majority,109,65,200.0
+baseline majority,109,66,200.0
+baseline majority,109,67,200.0
+baseline majority,109,68,200.0
+baseline majority,109,69,200.0
+baseline majority,109,70,200.0
+baseline majority,109,71,200.0
+baseline majority,109,72,200.0
+baseline majority,109,73,200.0
+baseline majority,109,74,200.0
+baseline majority,109,75,200.0
+baseline majority,109,76,200.0
+baseline majority,109,77,200.0
+baseline majority,109,78,159.0
+baseline majority,109,79,200.0
+baseline majority,109,80,200.0
+baseline majority,109,81,200.0
+baseline majority,109,82,200.0
+baseline majority,109,83,200.0
+baseline majority,109,84,200.0
+baseline majority,109,85,200.0
+baseline majority,109,86,200.0
+baseline majority,109,87,200.0
+baseline majority,109,88,200.0
+baseline majority,109,89,200.0
+baseline majority,109,90,49.0
+baseline majority,109,91,200.0
+baseline majority,109,92,200.0
+baseline majority,109,93,200.0
+baseline majority,109,94,200.0
+baseline majority,109,95,200.0
+baseline majority,109,96,200.0
+baseline majority,109,97,200.0
+baseline majority,109,98,200.0
+baseline majority,109,99,200.0
+baseline majority,109,100,200.0
+baseline majority,113,1,200.0
+baseline majority,113,2,200.0
+baseline majority,113,3,200.0
+baseline majority,113,4,200.0
+baseline majority,113,5,200.0
+baseline majority,113,6,200.0
+baseline majority,113,7,200.0
+baseline majority,113,8,200.0
+baseline majority,113,9,200.0
+baseline majority,113,10,200.0
+baseline majority,113,11,200.0
+baseline majority,113,12,200.0
+baseline majority,113,13,200.0
+baseline majority,113,14,200.0
+baseline majority,113,15,200.0
+baseline majority,113,16,200.0
+baseline majority,113,17,200.0
+baseline majority,113,18,200.0
+baseline majority,113,19,200.0
+baseline majority,113,20,200.0
+baseline majority,113,21,200.0
+baseline majority,113,22,200.0
+baseline majority,113,23,200.0
+baseline majority,113,24,200.0
+baseline majority,113,25,200.0
+baseline majority,113,26,200.0
+baseline majority,113,27,200.0
+baseline majority,113,28,200.0
+baseline majority,113,29,200.0
+baseline majority,113,30,200.0
+baseline majority,113,31,200.0
+baseline majority,113,32,200.0
+baseline majority,113,33,200.0
+baseline majority,113,34,200.0
+baseline majority,113,35,200.0
+baseline majority,113,36,200.0
+baseline majority,113,37,200.0
+baseline majority,113,38,200.0
+baseline majority,113,39,200.0
+baseline majority,113,40,200.0
+baseline majority,113,41,200.0
+baseline majority,113,42,200.0
+baseline majority,113,43,200.0
+baseline majority,113,44,200.0
+baseline majority,113,45,200.0
+baseline majority,113,46,200.0
+baseline majority,113,47,200.0
+baseline majority,113,48,200.0
+baseline majority,113,49,200.0
+baseline majority,113,50,200.0
+baseline majority,113,51,200.0
+baseline majority,113,52,200.0
+baseline majority,113,53,200.0
+baseline majority,113,54,200.0
+baseline majority,113,55,200.0
+baseline majority,113,56,200.0
+baseline majority,113,57,200.0
+baseline majority,113,58,200.0
+baseline majority,113,59,200.0
+baseline majority,113,60,200.0
+baseline majority,113,61,200.0
+baseline majority,113,62,200.0
+baseline majority,113,63,200.0
+baseline majority,113,64,200.0
+baseline majority,113,65,200.0
+baseline majority,113,66,200.0
+baseline majority,113,67,200.0
+baseline majority,113,68,200.0
+baseline majority,113,69,200.0
+baseline majority,113,70,200.0
+baseline majority,113,71,200.0
+baseline majority,113,72,200.0
+baseline majority,113,73,200.0
+baseline majority,113,74,200.0
+baseline majority,113,75,200.0
+baseline majority,113,76,99.0
+baseline majority,113,77,200.0
+baseline majority,113,78,200.0
+baseline majority,113,79,200.0
+baseline majority,113,80,200.0
+baseline majority,113,81,200.0
+baseline majority,113,82,200.0
+baseline majority,113,83,200.0
+baseline majority,113,84,200.0
+baseline majority,113,85,200.0
+baseline majority,113,86,200.0
+baseline majority,113,87,200.0
+baseline majority,113,88,200.0
+baseline majority,113,89,200.0
+baseline majority,113,90,200.0
+baseline majority,113,91,200.0
+baseline majority,113,92,200.0
+baseline majority,113,93,200.0
+baseline majority,113,94,200.0
+baseline majority,113,95,200.0
+baseline majority,113,96,200.0
+baseline majority,113,97,158.0
+baseline majority,113,98,200.0
+baseline majority,113,99,200.0
+baseline majority,113,100,200.0
+baseline majority,127,1,200.0
+baseline majority,127,2,126.0
+baseline majority,127,3,200.0
+baseline majority,127,4,200.0
+baseline majority,127,5,200.0
+baseline majority,127,6,200.0
+baseline majority,127,7,200.0
+baseline majority,127,8,200.0
+baseline majority,127,9,200.0
+baseline majority,127,10,200.0
+baseline majority,127,11,200.0
+baseline majority,127,12,132.0
+baseline majority,127,13,200.0
+baseline majority,127,14,173.0
+baseline majority,127,15,200.0
+baseline majority,127,16,200.0
+baseline majority,127,17,200.0
+baseline majority,127,18,200.0
+baseline majority,127,19,200.0
+baseline majority,127,20,200.0
+baseline majority,127,21,200.0
+baseline majority,127,22,200.0
+baseline majority,127,23,200.0
+baseline majority,127,24,200.0
+baseline majority,127,25,200.0
+baseline majority,127,26,200.0
+baseline majority,127,27,200.0
+baseline majority,127,28,200.0
+baseline majority,127,29,200.0
+baseline majority,127,30,200.0
+baseline majority,127,31,200.0
+baseline majority,127,32,200.0
+baseline majority,127,33,106.0
+baseline majority,127,34,200.0
+baseline majority,127,35,200.0
+baseline majority,127,36,200.0
+baseline majority,127,37,200.0
+baseline majority,127,38,200.0
+baseline majority,127,39,200.0
+baseline majority,127,40,200.0
+baseline majority,127,41,200.0
+baseline majority,127,42,59.0
+baseline majority,127,43,200.0
+baseline majority,127,44,200.0
+baseline majority,127,45,110.0
+baseline majority,127,46,200.0
+baseline majority,127,47,200.0
+baseline majority,127,48,200.0
+baseline majority,127,49,200.0
+baseline majority,127,50,200.0
+baseline majority,127,51,200.0
+baseline majority,127,52,200.0
+baseline majority,127,53,200.0
+baseline majority,127,54,200.0
+baseline majority,127,55,200.0
+baseline majority,127,56,200.0
+baseline majority,127,57,200.0
+baseline majority,127,58,200.0
+baseline majority,127,59,200.0
+baseline majority,127,60,200.0
+baseline majority,127,61,146.0
+baseline majority,127,62,200.0
+baseline majority,127,63,200.0
+baseline majority,127,64,200.0
+baseline majority,127,65,200.0
+baseline majority,127,66,200.0
+baseline majority,127,67,200.0
+baseline majority,127,68,200.0
+baseline majority,127,69,200.0
+baseline majority,127,70,190.0
+baseline majority,127,71,200.0
+baseline majority,127,72,200.0
+baseline majority,127,73,200.0
+baseline majority,127,74,200.0
+baseline majority,127,75,200.0
+baseline majority,127,76,200.0
+baseline majority,127,77,200.0
+baseline majority,127,78,200.0
+baseline majority,127,79,200.0
+baseline majority,127,80,200.0
+baseline majority,127,81,200.0
+baseline majority,127,82,200.0
+baseline majority,127,83,200.0
+baseline majority,127,84,200.0
+baseline majority,127,85,200.0
+baseline majority,127,86,200.0
+baseline majority,127,87,200.0
+baseline majority,127,88,200.0
+baseline majority,127,89,200.0
+baseline majority,127,90,200.0
+baseline majority,127,91,200.0
+baseline majority,127,92,200.0
+baseline majority,127,93,154.0
+baseline majority,127,94,200.0
+baseline majority,127,95,200.0
+baseline majority,127,96,200.0
+baseline majority,127,97,200.0
+baseline majority,127,98,200.0
+baseline majority,127,99,200.0
+baseline majority,127,100,200.0
+baseline majority,131,1,200.0
+baseline majority,131,2,200.0
+baseline majority,131,3,200.0
+baseline majority,131,4,200.0
+baseline majority,131,5,200.0
+baseline majority,131,6,200.0
+baseline majority,131,7,200.0
+baseline majority,131,8,200.0
+baseline majority,131,9,200.0
+baseline majority,131,10,200.0
+baseline majority,131,11,200.0
+baseline majority,131,12,200.0
+baseline majority,131,13,200.0
+baseline majority,131,14,200.0
+baseline majority,131,15,200.0
+baseline majority,131,16,200.0
+baseline majority,131,17,200.0
+baseline majority,131,18,200.0
+baseline majority,131,19,200.0
+baseline majority,131,20,200.0
+baseline majority,131,21,200.0
+baseline majority,131,22,200.0
+baseline majority,131,23,200.0
+baseline majority,131,24,200.0
+baseline majority,131,25,200.0
+baseline majority,131,26,200.0
+baseline majority,131,27,200.0
+baseline majority,131,28,200.0
+baseline majority,131,29,200.0
+baseline majority,131,30,200.0
+baseline majority,131,31,200.0
+baseline majority,131,32,200.0
+baseline majority,131,33,200.0
+baseline majority,131,34,200.0
+baseline majority,131,35,200.0
+baseline majority,131,36,200.0
+baseline majority,131,37,87.0
+baseline majority,131,38,200.0
+baseline majority,131,39,200.0
+baseline majority,131,40,200.0
+baseline majority,131,41,200.0
+baseline majority,131,42,200.0
+baseline majority,131,43,200.0
+baseline majority,131,44,200.0
+baseline majority,131,45,200.0
+baseline majority,131,46,200.0
+baseline majority,131,47,200.0
+baseline majority,131,48,200.0
+baseline majority,131,49,200.0
+baseline majority,131,50,200.0
+baseline majority,131,51,200.0
+baseline majority,131,52,200.0
+baseline majority,131,53,200.0
+baseline majority,131,54,200.0
+baseline majority,131,55,200.0
+baseline majority,131,56,200.0
+baseline majority,131,57,200.0
+baseline majority,131,58,200.0
+baseline majority,131,59,200.0
+baseline majority,131,60,200.0
+baseline majority,131,61,200.0
+baseline majority,131,62,200.0
+baseline majority,131,63,200.0
+baseline majority,131,64,200.0
+baseline majority,131,65,200.0
+baseline majority,131,66,200.0
+baseline majority,131,67,200.0
+baseline majority,131,68,200.0
+baseline majority,131,69,200.0
+baseline majority,131,70,200.0
+baseline majority,131,71,200.0
+baseline majority,131,72,200.0
+baseline majority,131,73,200.0
+baseline majority,131,74,200.0
+baseline majority,131,75,200.0
+baseline majority,131,76,200.0
+baseline majority,131,77,200.0
+baseline majority,131,78,200.0
+baseline majority,131,79,200.0
+baseline majority,131,80,200.0
+baseline majority,131,81,200.0
+baseline majority,131,82,200.0
+baseline majority,131,83,200.0
+baseline majority,131,84,200.0
+baseline majority,131,85,200.0
+baseline majority,131,86,200.0
+baseline majority,131,87,200.0
+baseline majority,131,88,200.0
+baseline majority,131,89,200.0
+baseline majority,131,90,200.0
+baseline majority,131,91,200.0
+baseline majority,131,92,200.0
+baseline majority,131,93,200.0
+baseline majority,131,94,200.0
+baseline majority,131,95,200.0
+baseline majority,131,96,200.0
+baseline majority,131,97,200.0
+baseline majority,131,98,200.0
+baseline majority,131,99,200.0
+baseline majority,131,100,200.0
+baseline majority,137,1,200.0
+baseline majority,137,2,200.0
+baseline majority,137,3,200.0
+baseline majority,137,4,200.0
+baseline majority,137,5,200.0
+baseline majority,137,6,200.0
+baseline majority,137,7,24.0
+baseline majority,137,8,200.0
+baseline majority,137,9,200.0
+baseline majority,137,10,200.0
+baseline majority,137,11,200.0
+baseline majority,137,12,200.0
+baseline majority,137,13,200.0
+baseline majority,137,14,200.0
+baseline majority,137,15,85.0
+baseline majority,137,16,200.0
+baseline majority,137,17,200.0
+baseline majority,137,18,200.0
+baseline majority,137,19,200.0
+baseline majority,137,20,200.0
+baseline majority,137,21,200.0
+baseline majority,137,22,200.0
+baseline majority,137,23,200.0
+baseline majority,137,24,200.0
+baseline majority,137,25,200.0
+baseline majority,137,26,200.0
+baseline majority,137,27,200.0
+baseline majority,137,28,200.0
+baseline majority,137,29,200.0
+baseline majority,137,30,200.0
+baseline majority,137,31,200.0
+baseline majority,137,32,200.0
+baseline majority,137,33,200.0
+baseline majority,137,34,200.0
+baseline majority,137,35,200.0
+baseline majority,137,36,200.0
+baseline majority,137,37,200.0
+baseline majority,137,38,200.0
+baseline majority,137,39,200.0
+baseline majority,137,40,200.0
+baseline majority,137,41,200.0
+baseline majority,137,42,200.0
+baseline majority,137,43,200.0
+baseline majority,137,44,200.0
+baseline majority,137,45,200.0
+baseline majority,137,46,200.0
+baseline majority,137,47,200.0
+baseline majority,137,48,200.0
+baseline majority,137,49,200.0
+baseline majority,137,50,200.0
+baseline majority,137,51,200.0
+baseline majority,137,52,200.0
+baseline majority,137,53,200.0
+baseline majority,137,54,200.0
+baseline majority,137,55,200.0
+baseline majority,137,56,200.0
+baseline majority,137,57,200.0
+baseline majority,137,58,200.0
+baseline majority,137,59,200.0
+baseline majority,137,60,200.0
+baseline majority,137,61,200.0
+baseline majority,137,62,200.0
+baseline majority,137,63,200.0
+baseline majority,137,64,200.0
+baseline majority,137,65,200.0
+baseline majority,137,66,200.0
+baseline majority,137,67,200.0
+baseline majority,137,68,200.0
+baseline majority,137,69,200.0
+baseline majority,137,70,200.0
+baseline majority,137,71,51.0
+baseline majority,137,72,200.0
+baseline majority,137,73,200.0
+baseline majority,137,74,200.0
+baseline majority,137,75,200.0
+baseline majority,137,76,200.0
+baseline majority,137,77,200.0
+baseline majority,137,78,200.0
+baseline majority,137,79,200.0
+baseline majority,137,80,200.0
+baseline majority,137,81,200.0
+baseline majority,137,82,200.0
+baseline majority,137,83,200.0
+baseline majority,137,84,200.0
+baseline majority,137,85,200.0
+baseline majority,137,86,200.0
+baseline majority,137,87,200.0
+baseline majority,137,88,200.0
+baseline majority,137,89,200.0
+baseline majority,137,90,200.0
+baseline majority,137,91,200.0
+baseline majority,137,92,200.0
+baseline majority,137,93,173.0
+baseline majority,137,94,200.0
+baseline majority,137,95,200.0
+baseline majority,137,96,200.0
+baseline majority,137,97,200.0
+baseline majority,137,98,200.0
+baseline majority,137,99,200.0
+baseline majority,137,100,200.0
+baseline majority,139,1,200.0
+baseline majority,139,2,200.0
+baseline majority,139,3,200.0
+baseline majority,139,4,200.0
+baseline majority,139,5,200.0
+baseline majority,139,6,200.0
+baseline majority,139,7,200.0
+baseline majority,139,8,200.0
+baseline majority,139,9,200.0
+baseline majority,139,10,200.0
+baseline majority,139,11,51.0
+baseline majority,139,12,200.0
+baseline majority,139,13,200.0
+baseline majority,139,14,200.0
+baseline majority,139,15,200.0
+baseline majority,139,16,200.0
+baseline majority,139,17,200.0
+baseline majority,139,18,200.0
+baseline majority,139,19,200.0
+baseline majority,139,20,61.0
+baseline majority,139,21,200.0
+baseline majority,139,22,200.0
+baseline majority,139,23,200.0
+baseline majority,139,24,200.0
+baseline majority,139,25,200.0
+baseline majority,139,26,200.0
+baseline majority,139,27,200.0
+baseline majority,139,28,200.0
+baseline majority,139,29,200.0
+baseline majority,139,30,200.0
+baseline majority,139,31,200.0
+baseline majority,139,32,200.0
+baseline majority,139,33,200.0
+baseline majority,139,34,200.0
+baseline majority,139,35,200.0
+baseline majority,139,36,200.0
+baseline majority,139,37,200.0
+baseline majority,139,38,200.0
+baseline majority,139,39,200.0
+baseline majority,139,40,200.0
+baseline majority,139,41,200.0
+baseline majority,139,42,200.0
+baseline majority,139,43,200.0
+baseline majority,139,44,200.0
+baseline majority,139,45,200.0
+baseline majority,139,46,200.0
+baseline majority,139,47,200.0
+baseline majority,139,48,200.0
+baseline majority,139,49,200.0
+baseline majority,139,50,200.0
+baseline majority,139,51,200.0
+baseline majority,139,52,200.0
+baseline majority,139,53,200.0
+baseline majority,139,54,200.0
+baseline majority,139,55,200.0
+baseline majority,139,56,200.0
+baseline majority,139,57,200.0
+baseline majority,139,58,200.0
+baseline majority,139,59,200.0
+baseline majority,139,60,200.0
+baseline majority,139,61,200.0
+baseline majority,139,62,200.0
+baseline majority,139,63,200.0
+baseline majority,139,64,200.0
+baseline majority,139,65,200.0
+baseline majority,139,66,200.0
+baseline majority,139,67,200.0
+baseline majority,139,68,200.0
+baseline majority,139,69,200.0
+baseline majority,139,70,198.0
+baseline majority,139,71,200.0
+baseline majority,139,72,200.0
+baseline majority,139,73,200.0
+baseline majority,139,74,200.0
+baseline majority,139,75,200.0
+baseline majority,139,76,200.0
+baseline majority,139,77,200.0
+baseline majority,139,78,200.0
+baseline majority,139,79,200.0
+baseline majority,139,80,200.0
+baseline majority,139,81,200.0
+baseline majority,139,82,200.0
+baseline majority,139,83,200.0
+baseline majority,139,84,200.0
+baseline majority,139,85,200.0
+baseline majority,139,86,200.0
+baseline majority,139,87,200.0
+baseline majority,139,88,200.0
+baseline majority,139,89,200.0
+baseline majority,139,90,200.0
+baseline majority,139,91,200.0
+baseline majority,139,92,200.0
+baseline majority,139,93,200.0
+baseline majority,139,94,200.0
+baseline majority,139,95,200.0
+baseline majority,139,96,200.0
+baseline majority,139,97,200.0
+baseline majority,139,98,200.0
+baseline majority,139,99,200.0
+baseline majority,139,100,200.0
+baseline majority,149,1,200.0
+baseline majority,149,2,200.0
+baseline majority,149,3,200.0
+baseline majority,149,4,200.0
+baseline majority,149,5,200.0
+baseline majority,149,6,200.0
+baseline majority,149,7,200.0
+baseline majority,149,8,200.0
+baseline majority,149,9,200.0
+baseline majority,149,10,200.0
+baseline majority,149,11,200.0
+baseline majority,149,12,200.0
+baseline majority,149,13,200.0
+baseline majority,149,14,200.0
+baseline majority,149,15,200.0
+baseline majority,149,16,200.0
+baseline majority,149,17,200.0
+baseline majority,149,18,200.0
+baseline majority,149,19,200.0
+baseline majority,149,20,200.0
+baseline majority,149,21,200.0
+baseline majority,149,22,53.0
+baseline majority,149,23,200.0
+baseline majority,149,24,200.0
+baseline majority,149,25,200.0
+baseline majority,149,26,200.0
+baseline majority,149,27,200.0
+baseline majority,149,28,200.0
+baseline majority,149,29,200.0
+baseline majority,149,30,200.0
+baseline majority,149,31,200.0
+baseline majority,149,32,200.0
+baseline majority,149,33,200.0
+baseline majority,149,34,200.0
+baseline majority,149,35,200.0
+baseline majority,149,36,200.0
+baseline majority,149,37,200.0
+baseline majority,149,38,200.0
+baseline majority,149,39,200.0
+baseline majority,149,40,200.0
+baseline majority,149,41,200.0
+baseline majority,149,42,200.0
+baseline majority,149,43,200.0
+baseline majority,149,44,200.0
+baseline majority,149,45,200.0
+baseline majority,149,46,200.0
+baseline majority,149,47,200.0
+baseline majority,149,48,200.0
+baseline majority,149,49,200.0
+baseline majority,149,50,200.0
+baseline majority,149,51,140.0
+baseline majority,149,52,200.0
+baseline majority,149,53,200.0
+baseline majority,149,54,200.0
+baseline majority,149,55,200.0
+baseline majority,149,56,200.0
+baseline majority,149,57,200.0
+baseline majority,149,58,200.0
+baseline majority,149,59,200.0
+baseline majority,149,60,200.0
+baseline majority,149,61,200.0
+baseline majority,149,62,200.0
+baseline majority,149,63,200.0
+baseline majority,149,64,200.0
+baseline majority,149,65,200.0
+baseline majority,149,66,200.0
+baseline majority,149,67,200.0
+baseline majority,149,68,200.0
+baseline majority,149,69,200.0
+baseline majority,149,70,200.0
+baseline majority,149,71,200.0
+baseline majority,149,72,200.0
+baseline majority,149,73,200.0
+baseline majority,149,74,200.0
+baseline majority,149,75,200.0
+baseline majority,149,76,200.0
+baseline majority,149,77,200.0
+baseline majority,149,78,200.0
+baseline majority,149,79,200.0
+baseline majority,149,80,200.0
+baseline majority,149,81,200.0
+baseline majority,149,82,200.0
+baseline majority,149,83,200.0
+baseline majority,149,84,200.0
+baseline majority,149,85,200.0
+baseline majority,149,86,200.0
+baseline majority,149,87,200.0
+baseline majority,149,88,200.0
+baseline majority,149,89,200.0
+baseline majority,149,90,200.0
+baseline majority,149,91,200.0
+baseline majority,149,92,200.0
+baseline majority,149,93,200.0
+baseline majority,149,94,200.0
+baseline majority,149,95,200.0
+baseline majority,149,96,200.0
+baseline majority,149,97,200.0
+baseline majority,149,98,200.0
+baseline majority,149,99,200.0
+baseline majority,149,100,200.0
+baseline majority,151,1,200.0
+baseline majority,151,2,200.0
+baseline majority,151,3,200.0
+baseline majority,151,4,200.0
+baseline majority,151,5,200.0
+baseline majority,151,6,200.0
+baseline majority,151,7,200.0
+baseline majority,151,8,200.0
+baseline majority,151,9,200.0
+baseline majority,151,10,200.0
+baseline majority,151,11,200.0
+baseline majority,151,12,200.0
+baseline majority,151,13,200.0
+baseline majority,151,14,200.0
+baseline majority,151,15,200.0
+baseline majority,151,16,200.0
+baseline majority,151,17,200.0
+baseline majority,151,18,200.0
+baseline majority,151,19,200.0
+baseline majority,151,20,200.0
+baseline majority,151,21,200.0
+baseline majority,151,22,200.0
+baseline majority,151,23,200.0
+baseline majority,151,24,200.0
+baseline majority,151,25,200.0
+baseline majority,151,26,200.0
+baseline majority,151,27,200.0
+baseline majority,151,28,200.0
+baseline majority,151,29,200.0
+baseline majority,151,30,200.0
+baseline majority,151,31,200.0
+baseline majority,151,32,200.0
+baseline majority,151,33,200.0
+baseline majority,151,34,140.0
+baseline majority,151,35,200.0
+baseline majority,151,36,200.0
+baseline majority,151,37,200.0
+baseline majority,151,38,200.0
+baseline majority,151,39,200.0
+baseline majority,151,40,200.0
+baseline majority,151,41,200.0
+baseline majority,151,42,200.0
+baseline majority,151,43,200.0
+baseline majority,151,44,200.0
+baseline majority,151,45,200.0
+baseline majority,151,46,200.0
+baseline majority,151,47,200.0
+baseline majority,151,48,200.0
+baseline majority,151,49,200.0
+baseline majority,151,50,200.0
+baseline majority,151,51,200.0
+baseline majority,151,52,200.0
+baseline majority,151,53,200.0
+baseline majority,151,54,200.0
+baseline majority,151,55,200.0
+baseline majority,151,56,200.0
+baseline majority,151,57,200.0
+baseline majority,151,58,200.0
+baseline majority,151,59,200.0
+baseline majority,151,60,200.0
+baseline majority,151,61,200.0
+baseline majority,151,62,200.0
+baseline majority,151,63,200.0
+baseline majority,151,64,200.0
+baseline majority,151,65,200.0
+baseline majority,151,66,200.0
+baseline majority,151,67,200.0
+baseline majority,151,68,200.0
+baseline majority,151,69,200.0
+baseline majority,151,70,200.0
+baseline majority,151,71,200.0
+baseline majority,151,72,200.0
+baseline majority,151,73,200.0
+baseline majority,151,74,200.0
+baseline majority,151,75,200.0
+baseline majority,151,76,200.0
+baseline majority,151,77,200.0
+baseline majority,151,78,200.0
+baseline majority,151,79,200.0
+baseline majority,151,80,200.0
+baseline majority,151,81,200.0
+baseline majority,151,82,200.0
+baseline majority,151,83,200.0
+baseline majority,151,84,200.0
+baseline majority,151,85,200.0
+baseline majority,151,86,200.0
+baseline majority,151,87,200.0
+baseline majority,151,88,200.0
+baseline majority,151,89,102.0
+baseline majority,151,90,200.0
+baseline majority,151,91,200.0
+baseline majority,151,92,200.0
+baseline majority,151,93,142.0
+baseline majority,151,94,200.0
+baseline majority,151,95,200.0
+baseline majority,151,96,200.0
+baseline majority,151,97,200.0
+baseline majority,151,98,200.0
+baseline majority,151,99,200.0
+baseline majority,151,100,200.0
+baseline majority,157,1,200.0
+baseline majority,157,2,200.0
+baseline majority,157,3,200.0
+baseline majority,157,4,200.0
+baseline majority,157,5,200.0
+baseline majority,157,6,200.0
+baseline majority,157,7,200.0
+baseline majority,157,8,200.0
+baseline majority,157,9,200.0
+baseline majority,157,10,200.0
+baseline majority,157,11,187.0
+baseline majority,157,12,200.0
+baseline majority,157,13,200.0
+baseline majority,157,14,200.0
+baseline majority,157,15,200.0
+baseline majority,157,16,200.0
+baseline majority,157,17,200.0
+baseline majority,157,18,200.0
+baseline majority,157,19,200.0
+baseline majority,157,20,200.0
+baseline majority,157,21,200.0
+baseline majority,157,22,200.0
+baseline majority,157,23,200.0
+baseline majority,157,24,200.0
+baseline majority,157,25,200.0
+baseline majority,157,26,200.0
+baseline majority,157,27,200.0
+baseline majority,157,28,200.0
+baseline majority,157,29,200.0
+baseline majority,157,30,200.0
+baseline majority,157,31,200.0
+baseline majority,157,32,200.0
+baseline majority,157,33,200.0
+baseline majority,157,34,200.0
+baseline majority,157,35,200.0
+baseline majority,157,36,200.0
+baseline majority,157,37,200.0
+baseline majority,157,38,200.0
+baseline majority,157,39,200.0
+baseline majority,157,40,200.0
+baseline majority,157,41,200.0
+baseline majority,157,42,200.0
+baseline majority,157,43,200.0
+baseline majority,157,44,200.0
+baseline majority,157,45,200.0
+baseline majority,157,46,200.0
+baseline majority,157,47,200.0
+baseline majority,157,48,200.0
+baseline majority,157,49,200.0
+baseline majority,157,50,200.0
+baseline majority,157,51,75.0
+baseline majority,157,52,68.0
+baseline majority,157,53,200.0
+baseline majority,157,54,200.0
+baseline majority,157,55,200.0
+baseline majority,157,56,200.0
+baseline majority,157,57,200.0
+baseline majority,157,58,200.0
+baseline majority,157,59,200.0
+baseline majority,157,60,200.0
+baseline majority,157,61,200.0
+baseline majority,157,62,200.0
+baseline majority,157,63,200.0
+baseline majority,157,64,200.0
+baseline majority,157,65,200.0
+baseline majority,157,66,200.0
+baseline majority,157,67,200.0
+baseline majority,157,68,200.0
+baseline majority,157,69,200.0
+baseline majority,157,70,200.0
+baseline majority,157,71,200.0
+baseline majority,157,72,200.0
+baseline majority,157,73,200.0
+baseline majority,157,74,200.0
+baseline majority,157,75,200.0
+baseline majority,157,76,200.0
+baseline majority,157,77,200.0
+baseline majority,157,78,200.0
+baseline majority,157,79,200.0
+baseline majority,157,80,200.0
+baseline majority,157,81,200.0
+baseline majority,157,82,200.0
+baseline majority,157,83,200.0
+baseline majority,157,84,200.0
+baseline majority,157,85,200.0
+baseline majority,157,86,200.0
+baseline majority,157,87,200.0
+baseline majority,157,88,200.0
+baseline majority,157,89,200.0
+baseline majority,157,90,200.0
+baseline majority,157,91,200.0
+baseline majority,157,92,200.0
+baseline majority,157,93,200.0
+baseline majority,157,94,200.0
+baseline majority,157,95,200.0
+baseline majority,157,96,200.0
+baseline majority,157,97,200.0
+baseline majority,157,98,200.0
+baseline majority,157,99,200.0
+baseline majority,157,100,200.0
+graph-local residual RZZZ,61,1,151.0
+graph-local residual RZZZ,61,2,77.0
+graph-local residual RZZZ,61,3,200.0
+graph-local residual RZZZ,61,4,200.0
+graph-local residual RZZZ,61,5,18.0
+graph-local residual RZZZ,61,6,200.0
+graph-local residual RZZZ,61,7,200.0
+graph-local residual RZZZ,61,8,100.0
+graph-local residual RZZZ,61,9,100.0
+graph-local residual RZZZ,61,10,200.0
+graph-local residual RZZZ,61,11,123.0
+graph-local residual RZZZ,61,12,134.0
+graph-local residual RZZZ,61,13,170.0
+graph-local residual RZZZ,61,14,99.0
+graph-local residual RZZZ,61,15,28.0
+graph-local residual RZZZ,61,16,99.0
+graph-local residual RZZZ,61,17,132.0
+graph-local residual RZZZ,61,18,158.0
+graph-local residual RZZZ,61,19,200.0
+graph-local residual RZZZ,61,20,196.0
+graph-local residual RZZZ,61,21,200.0
+graph-local residual RZZZ,61,22,77.0
+graph-local residual RZZZ,61,23,104.0
+graph-local residual RZZZ,61,24,200.0
+graph-local residual RZZZ,61,25,31.0
+graph-local residual RZZZ,61,26,71.0
+graph-local residual RZZZ,61,27,200.0
+graph-local residual RZZZ,61,28,177.0
+graph-local residual RZZZ,61,29,68.0
+graph-local residual RZZZ,61,30,200.0
+graph-local residual RZZZ,61,31,43.0
+graph-local residual RZZZ,61,32,97.0
+graph-local residual RZZZ,61,33,200.0
+graph-local residual RZZZ,61,34,200.0
+graph-local residual RZZZ,61,35,61.0
+graph-local residual RZZZ,61,36,111.0
+graph-local residual RZZZ,61,37,106.0
+graph-local residual RZZZ,61,38,200.0
+graph-local residual RZZZ,61,39,26.0
+graph-local residual RZZZ,61,40,200.0
+graph-local residual RZZZ,61,41,200.0
+graph-local residual RZZZ,61,42,38.0
+graph-local residual RZZZ,61,43,67.0
+graph-local residual RZZZ,61,44,103.0
+graph-local residual RZZZ,61,45,17.0
+graph-local residual RZZZ,61,46,59.0
+graph-local residual RZZZ,61,47,162.0
+graph-local residual RZZZ,61,48,200.0
+graph-local residual RZZZ,61,49,134.0
+graph-local residual RZZZ,61,50,60.0
+graph-local residual RZZZ,61,51,92.0
+graph-local residual RZZZ,61,52,200.0
+graph-local residual RZZZ,61,53,52.0
+graph-local residual RZZZ,61,54,200.0
+graph-local residual RZZZ,61,55,199.0
+graph-local residual RZZZ,61,56,104.0
+graph-local residual RZZZ,61,57,76.0
+graph-local residual RZZZ,61,58,200.0
+graph-local residual RZZZ,61,59,116.0
+graph-local residual RZZZ,61,60,70.0
+graph-local residual RZZZ,61,61,200.0
+graph-local residual RZZZ,61,62,50.0
+graph-local residual RZZZ,61,63,120.0
+graph-local residual RZZZ,61,64,18.0
+graph-local residual RZZZ,61,65,200.0
+graph-local residual RZZZ,61,66,73.0
+graph-local residual RZZZ,61,67,178.0
+graph-local residual RZZZ,61,68,22.0
+graph-local residual RZZZ,61,69,172.0
+graph-local residual RZZZ,61,70,94.0
+graph-local residual RZZZ,61,71,200.0
+graph-local residual RZZZ,61,72,200.0
+graph-local residual RZZZ,61,73,102.0
+graph-local residual RZZZ,61,74,119.0
+graph-local residual RZZZ,61,75,158.0
+graph-local residual RZZZ,61,76,69.0
+graph-local residual RZZZ,61,77,100.0
+graph-local residual RZZZ,61,78,40.0
+graph-local residual RZZZ,61,79,38.0
+graph-local residual RZZZ,61,80,30.0
+graph-local residual RZZZ,61,81,158.0
+graph-local residual RZZZ,61,82,32.0
+graph-local residual RZZZ,61,83,53.0
+graph-local residual RZZZ,61,84,49.0
+graph-local residual RZZZ,61,85,96.0
+graph-local residual RZZZ,61,86,156.0
+graph-local residual RZZZ,61,87,200.0
+graph-local residual RZZZ,61,88,200.0
+graph-local residual RZZZ,61,89,200.0
+graph-local residual RZZZ,61,90,200.0
+graph-local residual RZZZ,61,91,55.0
+graph-local residual RZZZ,61,92,200.0
+graph-local residual RZZZ,61,93,190.0
+graph-local residual RZZZ,61,94,27.0
+graph-local residual RZZZ,61,95,200.0
+graph-local residual RZZZ,61,96,200.0
+graph-local residual RZZZ,61,97,108.0
+graph-local residual RZZZ,61,98,200.0
+graph-local residual RZZZ,61,99,154.0
+graph-local residual RZZZ,61,100,55.0
+graph-local residual RZZZ,67,1,184.0
+graph-local residual RZZZ,67,2,200.0
+graph-local residual RZZZ,67,3,200.0
+graph-local residual RZZZ,67,4,200.0
+graph-local residual RZZZ,67,5,200.0
+graph-local residual RZZZ,67,6,200.0
+graph-local residual RZZZ,67,7,200.0
+graph-local residual RZZZ,67,8,200.0
+graph-local residual RZZZ,67,9,200.0
+graph-local residual RZZZ,67,10,200.0
+graph-local residual RZZZ,67,11,200.0
+graph-local residual RZZZ,67,12,200.0
+graph-local residual RZZZ,67,13,200.0
+graph-local residual RZZZ,67,14,200.0
+graph-local residual RZZZ,67,15,200.0
+graph-local residual RZZZ,67,16,200.0
+graph-local residual RZZZ,67,17,200.0
+graph-local residual RZZZ,67,18,200.0
+graph-local residual RZZZ,67,19,200.0
+graph-local residual RZZZ,67,20,200.0
+graph-local residual RZZZ,67,21,200.0
+graph-local residual RZZZ,67,22,200.0
+graph-local residual RZZZ,67,23,200.0
+graph-local residual RZZZ,67,24,200.0
+graph-local residual RZZZ,67,25,200.0
+graph-local residual RZZZ,67,26,200.0
+graph-local residual RZZZ,67,27,200.0
+graph-local residual RZZZ,67,28,200.0
+graph-local residual RZZZ,67,29,200.0
+graph-local residual RZZZ,67,30,200.0
+graph-local residual RZZZ,67,31,200.0
+graph-local residual RZZZ,67,32,200.0
+graph-local residual RZZZ,67,33,200.0
+graph-local residual RZZZ,67,34,76.0
+graph-local residual RZZZ,67,35,200.0
+graph-local residual RZZZ,67,36,200.0
+graph-local residual RZZZ,67,37,200.0
+graph-local residual RZZZ,67,38,200.0
+graph-local residual RZZZ,67,39,200.0
+graph-local residual RZZZ,67,40,200.0
+graph-local residual RZZZ,67,41,200.0
+graph-local residual RZZZ,67,42,200.0
+graph-local residual RZZZ,67,43,161.0
+graph-local residual RZZZ,67,44,200.0
+graph-local residual RZZZ,67,45,200.0
+graph-local residual RZZZ,67,46,200.0
+graph-local residual RZZZ,67,47,32.0
+graph-local residual RZZZ,67,48,200.0
+graph-local residual RZZZ,67,49,200.0
+graph-local residual RZZZ,67,50,200.0
+graph-local residual RZZZ,67,51,200.0
+graph-local residual RZZZ,67,52,200.0
+graph-local residual RZZZ,67,53,200.0
+graph-local residual RZZZ,67,54,200.0
+graph-local residual RZZZ,67,55,200.0
+graph-local residual RZZZ,67,56,200.0
+graph-local residual RZZZ,67,57,200.0
+graph-local residual RZZZ,67,58,200.0
+graph-local residual RZZZ,67,59,200.0
+graph-local residual RZZZ,67,60,200.0
+graph-local residual RZZZ,67,61,200.0
+graph-local residual RZZZ,67,62,200.0
+graph-local residual RZZZ,67,63,200.0
+graph-local residual RZZZ,67,64,200.0
+graph-local residual RZZZ,67,65,200.0
+graph-local residual RZZZ,67,66,200.0
+graph-local residual RZZZ,67,67,185.0
+graph-local residual RZZZ,67,68,200.0
+graph-local residual RZZZ,67,69,154.0
+graph-local residual RZZZ,67,70,200.0
+graph-local residual RZZZ,67,71,200.0
+graph-local residual RZZZ,67,72,200.0
+graph-local residual RZZZ,67,73,200.0
+graph-local residual RZZZ,67,74,200.0
+graph-local residual RZZZ,67,75,200.0
+graph-local residual RZZZ,67,76,200.0
+graph-local residual RZZZ,67,77,200.0
+graph-local residual RZZZ,67,78,200.0
+graph-local residual RZZZ,67,79,200.0
+graph-local residual RZZZ,67,80,200.0
+graph-local residual RZZZ,67,81,200.0
+graph-local residual RZZZ,67,82,200.0
+graph-local residual RZZZ,67,83,200.0
+graph-local residual RZZZ,67,84,200.0
+graph-local residual RZZZ,67,85,200.0
+graph-local residual RZZZ,67,86,200.0
+graph-local residual RZZZ,67,87,200.0
+graph-local residual RZZZ,67,88,200.0
+graph-local residual RZZZ,67,89,200.0
+graph-local residual RZZZ,67,90,200.0
+graph-local residual RZZZ,67,91,200.0
+graph-local residual RZZZ,67,92,200.0
+graph-local residual RZZZ,67,93,200.0
+graph-local residual RZZZ,67,94,200.0
+graph-local residual RZZZ,67,95,200.0
+graph-local residual RZZZ,67,96,200.0
+graph-local residual RZZZ,67,97,200.0
+graph-local residual RZZZ,67,98,200.0
+graph-local residual RZZZ,67,99,200.0
+graph-local residual RZZZ,67,100,200.0
+graph-local residual RZZZ,71,1,101.0
+graph-local residual RZZZ,71,2,200.0
+graph-local residual RZZZ,71,3,63.0
+graph-local residual RZZZ,71,4,200.0
+graph-local residual RZZZ,71,5,200.0
+graph-local residual RZZZ,71,6,200.0
+graph-local residual RZZZ,71,7,200.0
+graph-local residual RZZZ,71,8,200.0
+graph-local residual RZZZ,71,9,200.0
+graph-local residual RZZZ,71,10,200.0
+graph-local residual RZZZ,71,11,200.0
+graph-local residual RZZZ,71,12,187.0
+graph-local residual RZZZ,71,13,200.0
+graph-local residual RZZZ,71,14,200.0
+graph-local residual RZZZ,71,15,200.0
+graph-local residual RZZZ,71,16,200.0
+graph-local residual RZZZ,71,17,200.0
+graph-local residual RZZZ,71,18,200.0
+graph-local residual RZZZ,71,19,200.0
+graph-local residual RZZZ,71,20,200.0
+graph-local residual RZZZ,71,21,200.0
+graph-local residual RZZZ,71,22,200.0
+graph-local residual RZZZ,71,23,200.0
+graph-local residual RZZZ,71,24,46.0
+graph-local residual RZZZ,71,25,200.0
+graph-local residual RZZZ,71,26,200.0
+graph-local residual RZZZ,71,27,200.0
+graph-local residual RZZZ,71,28,200.0
+graph-local residual RZZZ,71,29,200.0
+graph-local residual RZZZ,71,30,200.0
+graph-local residual RZZZ,71,31,200.0
+graph-local residual RZZZ,71,32,200.0
+graph-local residual RZZZ,71,33,200.0
+graph-local residual RZZZ,71,34,200.0
+graph-local residual RZZZ,71,35,200.0
+graph-local residual RZZZ,71,36,200.0
+graph-local residual RZZZ,71,37,200.0
+graph-local residual RZZZ,71,38,200.0
+graph-local residual RZZZ,71,39,200.0
+graph-local residual RZZZ,71,40,200.0
+graph-local residual RZZZ,71,41,149.0
+graph-local residual RZZZ,71,42,200.0
+graph-local residual RZZZ,71,43,200.0
+graph-local residual RZZZ,71,44,200.0
+graph-local residual RZZZ,71,45,200.0
+graph-local residual RZZZ,71,46,200.0
+graph-local residual RZZZ,71,47,200.0
+graph-local residual RZZZ,71,48,200.0
+graph-local residual RZZZ,71,49,200.0
+graph-local residual RZZZ,71,50,200.0
+graph-local residual RZZZ,71,51,200.0
+graph-local residual RZZZ,71,52,200.0
+graph-local residual RZZZ,71,53,200.0
+graph-local residual RZZZ,71,54,200.0
+graph-local residual RZZZ,71,55,200.0
+graph-local residual RZZZ,71,56,200.0
+graph-local residual RZZZ,71,57,200.0
+graph-local residual RZZZ,71,58,200.0
+graph-local residual RZZZ,71,59,200.0
+graph-local residual RZZZ,71,60,200.0
+graph-local residual RZZZ,71,61,200.0
+graph-local residual RZZZ,71,62,200.0
+graph-local residual RZZZ,71,63,200.0
+graph-local residual RZZZ,71,64,200.0
+graph-local residual RZZZ,71,65,200.0
+graph-local residual RZZZ,71,66,200.0
+graph-local residual RZZZ,71,67,200.0
+graph-local residual RZZZ,71,68,200.0
+graph-local residual RZZZ,71,69,200.0
+graph-local residual RZZZ,71,70,200.0
+graph-local residual RZZZ,71,71,200.0
+graph-local residual RZZZ,71,72,200.0
+graph-local residual RZZZ,71,73,109.0
+graph-local residual RZZZ,71,74,200.0
+graph-local residual RZZZ,71,75,200.0
+graph-local residual RZZZ,71,76,41.0
+graph-local residual RZZZ,71,77,200.0
+graph-local residual RZZZ,71,78,200.0
+graph-local residual RZZZ,71,79,200.0
+graph-local residual RZZZ,71,80,200.0
+graph-local residual RZZZ,71,81,200.0
+graph-local residual RZZZ,71,82,200.0
+graph-local residual RZZZ,71,83,200.0
+graph-local residual RZZZ,71,84,200.0
+graph-local residual RZZZ,71,85,200.0
+graph-local residual RZZZ,71,86,200.0
+graph-local residual RZZZ,71,87,200.0
+graph-local residual RZZZ,71,88,200.0
+graph-local residual RZZZ,71,89,200.0
+graph-local residual RZZZ,71,90,200.0
+graph-local residual RZZZ,71,91,200.0
+graph-local residual RZZZ,71,92,142.0
+graph-local residual RZZZ,71,93,200.0
+graph-local residual RZZZ,71,94,200.0
+graph-local residual RZZZ,71,95,200.0
+graph-local residual RZZZ,71,96,200.0
+graph-local residual RZZZ,71,97,200.0
+graph-local residual RZZZ,71,98,200.0
+graph-local residual RZZZ,71,99,200.0
+graph-local residual RZZZ,71,100,200.0
+graph-local residual RZZZ,73,1,200.0
+graph-local residual RZZZ,73,2,200.0
+graph-local residual RZZZ,73,3,200.0
+graph-local residual RZZZ,73,4,200.0
+graph-local residual RZZZ,73,5,200.0
+graph-local residual RZZZ,73,6,200.0
+graph-local residual RZZZ,73,7,200.0
+graph-local residual RZZZ,73,8,200.0
+graph-local residual RZZZ,73,9,200.0
+graph-local residual RZZZ,73,10,200.0
+graph-local residual RZZZ,73,11,200.0
+graph-local residual RZZZ,73,12,200.0
+graph-local residual RZZZ,73,13,200.0
+graph-local residual RZZZ,73,14,200.0
+graph-local residual RZZZ,73,15,200.0
+graph-local residual RZZZ,73,16,200.0
+graph-local residual RZZZ,73,17,200.0
+graph-local residual RZZZ,73,18,200.0
+graph-local residual RZZZ,73,19,200.0
+graph-local residual RZZZ,73,20,200.0
+graph-local residual RZZZ,73,21,200.0
+graph-local residual RZZZ,73,22,200.0
+graph-local residual RZZZ,73,23,200.0
+graph-local residual RZZZ,73,24,200.0
+graph-local residual RZZZ,73,25,200.0
+graph-local residual RZZZ,73,26,200.0
+graph-local residual RZZZ,73,27,200.0
+graph-local residual RZZZ,73,28,200.0
+graph-local residual RZZZ,73,29,200.0
+graph-local residual RZZZ,73,30,200.0
+graph-local residual RZZZ,73,31,200.0
+graph-local residual RZZZ,73,32,200.0
+graph-local residual RZZZ,73,33,200.0
+graph-local residual RZZZ,73,34,200.0
+graph-local residual RZZZ,73,35,200.0
+graph-local residual RZZZ,73,36,200.0
+graph-local residual RZZZ,73,37,200.0
+graph-local residual RZZZ,73,38,200.0
+graph-local residual RZZZ,73,39,200.0
+graph-local residual RZZZ,73,40,200.0
+graph-local residual RZZZ,73,41,200.0
+graph-local residual RZZZ,73,42,200.0
+graph-local residual RZZZ,73,43,200.0
+graph-local residual RZZZ,73,44,200.0
+graph-local residual RZZZ,73,45,200.0
+graph-local residual RZZZ,73,46,200.0
+graph-local residual RZZZ,73,47,200.0
+graph-local residual RZZZ,73,48,200.0
+graph-local residual RZZZ,73,49,200.0
+graph-local residual RZZZ,73,50,200.0
+graph-local residual RZZZ,73,51,200.0
+graph-local residual RZZZ,73,52,200.0
+graph-local residual RZZZ,73,53,200.0
+graph-local residual RZZZ,73,54,200.0
+graph-local residual RZZZ,73,55,200.0
+graph-local residual RZZZ,73,56,200.0
+graph-local residual RZZZ,73,57,200.0
+graph-local residual RZZZ,73,58,200.0
+graph-local residual RZZZ,73,59,200.0
+graph-local residual RZZZ,73,60,200.0
+graph-local residual RZZZ,73,61,200.0
+graph-local residual RZZZ,73,62,200.0
+graph-local residual RZZZ,73,63,200.0
+graph-local residual RZZZ,73,64,200.0
+graph-local residual RZZZ,73,65,200.0
+graph-local residual RZZZ,73,66,200.0
+graph-local residual RZZZ,73,67,200.0
+graph-local residual RZZZ,73,68,36.0
+graph-local residual RZZZ,73,69,200.0
+graph-local residual RZZZ,73,70,200.0
+graph-local residual RZZZ,73,71,200.0
+graph-local residual RZZZ,73,72,200.0
+graph-local residual RZZZ,73,73,200.0
+graph-local residual RZZZ,73,74,200.0
+graph-local residual RZZZ,73,75,200.0
+graph-local residual RZZZ,73,76,200.0
+graph-local residual RZZZ,73,77,200.0
+graph-local residual RZZZ,73,78,200.0
+graph-local residual RZZZ,73,79,200.0
+graph-local residual RZZZ,73,80,200.0
+graph-local residual RZZZ,73,81,200.0
+graph-local residual RZZZ,73,82,200.0
+graph-local residual RZZZ,73,83,200.0
+graph-local residual RZZZ,73,84,200.0
+graph-local residual RZZZ,73,85,200.0
+graph-local residual RZZZ,73,86,200.0
+graph-local residual RZZZ,73,87,200.0
+graph-local residual RZZZ,73,88,200.0
+graph-local residual RZZZ,73,89,100.0
+graph-local residual RZZZ,73,90,200.0
+graph-local residual RZZZ,73,91,200.0
+graph-local residual RZZZ,73,92,200.0
+graph-local residual RZZZ,73,93,200.0
+graph-local residual RZZZ,73,94,200.0
+graph-local residual RZZZ,73,95,200.0
+graph-local residual RZZZ,73,96,200.0
+graph-local residual RZZZ,73,97,200.0
+graph-local residual RZZZ,73,98,200.0
+graph-local residual RZZZ,73,99,200.0
+graph-local residual RZZZ,73,100,200.0
+graph-local residual RZZZ,79,1,200.0
+graph-local residual RZZZ,79,2,200.0
+graph-local residual RZZZ,79,3,200.0
+graph-local residual RZZZ,79,4,200.0
+graph-local residual RZZZ,79,5,200.0
+graph-local residual RZZZ,79,6,200.0
+graph-local residual RZZZ,79,7,200.0
+graph-local residual RZZZ,79,8,200.0
+graph-local residual RZZZ,79,9,200.0
+graph-local residual RZZZ,79,10,200.0
+graph-local residual RZZZ,79,11,200.0
+graph-local residual RZZZ,79,12,200.0
+graph-local residual RZZZ,79,13,200.0
+graph-local residual RZZZ,79,14,200.0
+graph-local residual RZZZ,79,15,200.0
+graph-local residual RZZZ,79,16,200.0
+graph-local residual RZZZ,79,17,200.0
+graph-local residual RZZZ,79,18,200.0
+graph-local residual RZZZ,79,19,200.0
+graph-local residual RZZZ,79,20,200.0
+graph-local residual RZZZ,79,21,200.0
+graph-local residual RZZZ,79,22,200.0
+graph-local residual RZZZ,79,23,200.0
+graph-local residual RZZZ,79,24,200.0
+graph-local residual RZZZ,79,25,200.0
+graph-local residual RZZZ,79,26,200.0
+graph-local residual RZZZ,79,27,200.0
+graph-local residual RZZZ,79,28,200.0
+graph-local residual RZZZ,79,29,200.0
+graph-local residual RZZZ,79,30,200.0
+graph-local residual RZZZ,79,31,200.0
+graph-local residual RZZZ,79,32,200.0
+graph-local residual RZZZ,79,33,200.0
+graph-local residual RZZZ,79,34,200.0
+graph-local residual RZZZ,79,35,200.0
+graph-local residual RZZZ,79,36,200.0
+graph-local residual RZZZ,79,37,200.0
+graph-local residual RZZZ,79,38,200.0
+graph-local residual RZZZ,79,39,200.0
+graph-local residual RZZZ,79,40,200.0
+graph-local residual RZZZ,79,41,200.0
+graph-local residual RZZZ,79,42,200.0
+graph-local residual RZZZ,79,43,200.0
+graph-local residual RZZZ,79,44,200.0
+graph-local residual RZZZ,79,45,200.0
+graph-local residual RZZZ,79,46,200.0
+graph-local residual RZZZ,79,47,200.0
+graph-local residual RZZZ,79,48,200.0
+graph-local residual RZZZ,79,49,200.0
+graph-local residual RZZZ,79,50,200.0
+graph-local residual RZZZ,79,51,200.0
+graph-local residual RZZZ,79,52,200.0
+graph-local residual RZZZ,79,53,200.0
+graph-local residual RZZZ,79,54,200.0
+graph-local residual RZZZ,79,55,200.0
+graph-local residual RZZZ,79,56,200.0
+graph-local residual RZZZ,79,57,200.0
+graph-local residual RZZZ,79,58,104.0
+graph-local residual RZZZ,79,59,200.0
+graph-local residual RZZZ,79,60,200.0
+graph-local residual RZZZ,79,61,200.0
+graph-local residual RZZZ,79,62,200.0
+graph-local residual RZZZ,79,63,200.0
+graph-local residual RZZZ,79,64,200.0
+graph-local residual RZZZ,79,65,200.0
+graph-local residual RZZZ,79,66,200.0
+graph-local residual RZZZ,79,67,200.0
+graph-local residual RZZZ,79,68,200.0
+graph-local residual RZZZ,79,69,200.0
+graph-local residual RZZZ,79,70,200.0
+graph-local residual RZZZ,79,71,200.0
+graph-local residual RZZZ,79,72,200.0
+graph-local residual RZZZ,79,73,200.0
+graph-local residual RZZZ,79,74,200.0
+graph-local residual RZZZ,79,75,200.0
+graph-local residual RZZZ,79,76,200.0
+graph-local residual RZZZ,79,77,200.0
+graph-local residual RZZZ,79,78,200.0
+graph-local residual RZZZ,79,79,200.0
+graph-local residual RZZZ,79,80,200.0
+graph-local residual RZZZ,79,81,200.0
+graph-local residual RZZZ,79,82,200.0
+graph-local residual RZZZ,79,83,200.0
+graph-local residual RZZZ,79,84,200.0
+graph-local residual RZZZ,79,85,200.0
+graph-local residual RZZZ,79,86,200.0
+graph-local residual RZZZ,79,87,200.0
+graph-local residual RZZZ,79,88,200.0
+graph-local residual RZZZ,79,89,162.0
+graph-local residual RZZZ,79,90,200.0
+graph-local residual RZZZ,79,91,200.0
+graph-local residual RZZZ,79,92,200.0
+graph-local residual RZZZ,79,93,200.0
+graph-local residual RZZZ,79,94,200.0
+graph-local residual RZZZ,79,95,200.0
+graph-local residual RZZZ,79,96,100.0
+graph-local residual RZZZ,79,97,200.0
+graph-local residual RZZZ,79,98,200.0
+graph-local residual RZZZ,79,99,200.0
+graph-local residual RZZZ,79,100,200.0
+graph-local residual RZZZ,83,1,200.0
+graph-local residual RZZZ,83,2,200.0
+graph-local residual RZZZ,83,3,200.0
+graph-local residual RZZZ,83,4,200.0
+graph-local residual RZZZ,83,5,200.0
+graph-local residual RZZZ,83,6,200.0
+graph-local residual RZZZ,83,7,200.0
+graph-local residual RZZZ,83,8,200.0
+graph-local residual RZZZ,83,9,200.0
+graph-local residual RZZZ,83,10,200.0
+graph-local residual RZZZ,83,11,200.0
+graph-local residual RZZZ,83,12,200.0
+graph-local residual RZZZ,83,13,200.0
+graph-local residual RZZZ,83,14,200.0
+graph-local residual RZZZ,83,15,200.0
+graph-local residual RZZZ,83,16,200.0
+graph-local residual RZZZ,83,17,200.0
+graph-local residual RZZZ,83,18,200.0
+graph-local residual RZZZ,83,19,200.0
+graph-local residual RZZZ,83,20,200.0
+graph-local residual RZZZ,83,21,200.0
+graph-local residual RZZZ,83,22,200.0
+graph-local residual RZZZ,83,23,200.0
+graph-local residual RZZZ,83,24,200.0
+graph-local residual RZZZ,83,25,200.0
+graph-local residual RZZZ,83,26,200.0
+graph-local residual RZZZ,83,27,200.0
+graph-local residual RZZZ,83,28,200.0
+graph-local residual RZZZ,83,29,159.0
+graph-local residual RZZZ,83,30,200.0
+graph-local residual RZZZ,83,31,200.0
+graph-local residual RZZZ,83,32,200.0
+graph-local residual RZZZ,83,33,200.0
+graph-local residual RZZZ,83,34,200.0
+graph-local residual RZZZ,83,35,200.0
+graph-local residual RZZZ,83,36,200.0
+graph-local residual RZZZ,83,37,200.0
+graph-local residual RZZZ,83,38,200.0
+graph-local residual RZZZ,83,39,200.0
+graph-local residual RZZZ,83,40,200.0
+graph-local residual RZZZ,83,41,200.0
+graph-local residual RZZZ,83,42,183.0
+graph-local residual RZZZ,83,43,200.0
+graph-local residual RZZZ,83,44,200.0
+graph-local residual RZZZ,83,45,200.0
+graph-local residual RZZZ,83,46,200.0
+graph-local residual RZZZ,83,47,200.0
+graph-local residual RZZZ,83,48,173.0
+graph-local residual RZZZ,83,49,200.0
+graph-local residual RZZZ,83,50,200.0
+graph-local residual RZZZ,83,51,200.0
+graph-local residual RZZZ,83,52,200.0
+graph-local residual RZZZ,83,53,143.0
+graph-local residual RZZZ,83,54,200.0
+graph-local residual RZZZ,83,55,200.0
+graph-local residual RZZZ,83,56,200.0
+graph-local residual RZZZ,83,57,104.0
+graph-local residual RZZZ,83,58,200.0
+graph-local residual RZZZ,83,59,200.0
+graph-local residual RZZZ,83,60,103.0
+graph-local residual RZZZ,83,61,200.0
+graph-local residual RZZZ,83,62,200.0
+graph-local residual RZZZ,83,63,200.0
+graph-local residual RZZZ,83,64,200.0
+graph-local residual RZZZ,83,65,200.0
+graph-local residual RZZZ,83,66,200.0
+graph-local residual RZZZ,83,67,200.0
+graph-local residual RZZZ,83,68,200.0
+graph-local residual RZZZ,83,69,200.0
+graph-local residual RZZZ,83,70,200.0
+graph-local residual RZZZ,83,71,200.0
+graph-local residual RZZZ,83,72,200.0
+graph-local residual RZZZ,83,73,200.0
+graph-local residual RZZZ,83,74,200.0
+graph-local residual RZZZ,83,75,200.0
+graph-local residual RZZZ,83,76,200.0
+graph-local residual RZZZ,83,77,200.0
+graph-local residual RZZZ,83,78,200.0
+graph-local residual RZZZ,83,79,200.0
+graph-local residual RZZZ,83,80,200.0
+graph-local residual RZZZ,83,81,200.0
+graph-local residual RZZZ,83,82,200.0
+graph-local residual RZZZ,83,83,200.0
+graph-local residual RZZZ,83,84,200.0
+graph-local residual RZZZ,83,85,200.0
+graph-local residual RZZZ,83,86,200.0
+graph-local residual RZZZ,83,87,200.0
+graph-local residual RZZZ,83,88,200.0
+graph-local residual RZZZ,83,89,200.0
+graph-local residual RZZZ,83,90,200.0
+graph-local residual RZZZ,83,91,200.0
+graph-local residual RZZZ,83,92,200.0
+graph-local residual RZZZ,83,93,200.0
+graph-local residual RZZZ,83,94,200.0
+graph-local residual RZZZ,83,95,200.0
+graph-local residual RZZZ,83,96,200.0
+graph-local residual RZZZ,83,97,47.0
+graph-local residual RZZZ,83,98,200.0
+graph-local residual RZZZ,83,99,133.0
+graph-local residual RZZZ,83,100,200.0
+graph-local residual RZZZ,89,1,200.0
+graph-local residual RZZZ,89,2,200.0
+graph-local residual RZZZ,89,3,200.0
+graph-local residual RZZZ,89,4,200.0
+graph-local residual RZZZ,89,5,200.0
+graph-local residual RZZZ,89,6,200.0
+graph-local residual RZZZ,89,7,170.0
+graph-local residual RZZZ,89,8,200.0
+graph-local residual RZZZ,89,9,200.0
+graph-local residual RZZZ,89,10,200.0
+graph-local residual RZZZ,89,11,200.0
+graph-local residual RZZZ,89,12,33.0
+graph-local residual RZZZ,89,13,200.0
+graph-local residual RZZZ,89,14,200.0
+graph-local residual RZZZ,89,15,200.0
+graph-local residual RZZZ,89,16,200.0
+graph-local residual RZZZ,89,17,200.0
+graph-local residual RZZZ,89,18,200.0
+graph-local residual RZZZ,89,19,200.0
+graph-local residual RZZZ,89,20,200.0
+graph-local residual RZZZ,89,21,200.0
+graph-local residual RZZZ,89,22,200.0
+graph-local residual RZZZ,89,23,200.0
+graph-local residual RZZZ,89,24,200.0
+graph-local residual RZZZ,89,25,200.0
+graph-local residual RZZZ,89,26,200.0
+graph-local residual RZZZ,89,27,200.0
+graph-local residual RZZZ,89,28,200.0
+graph-local residual RZZZ,89,29,200.0
+graph-local residual RZZZ,89,30,200.0
+graph-local residual RZZZ,89,31,200.0
+graph-local residual RZZZ,89,32,26.0
+graph-local residual RZZZ,89,33,200.0
+graph-local residual RZZZ,89,34,200.0
+graph-local residual RZZZ,89,35,200.0
+graph-local residual RZZZ,89,36,200.0
+graph-local residual RZZZ,89,37,200.0
+graph-local residual RZZZ,89,38,200.0
+graph-local residual RZZZ,89,39,200.0
+graph-local residual RZZZ,89,40,200.0
+graph-local residual RZZZ,89,41,200.0
+graph-local residual RZZZ,89,42,200.0
+graph-local residual RZZZ,89,43,200.0
+graph-local residual RZZZ,89,44,200.0
+graph-local residual RZZZ,89,45,200.0
+graph-local residual RZZZ,89,46,88.0
+graph-local residual RZZZ,89,47,200.0
+graph-local residual RZZZ,89,48,200.0
+graph-local residual RZZZ,89,49,200.0
+graph-local residual RZZZ,89,50,200.0
+graph-local residual RZZZ,89,51,200.0
+graph-local residual RZZZ,89,52,200.0
+graph-local residual RZZZ,89,53,200.0
+graph-local residual RZZZ,89,54,200.0
+graph-local residual RZZZ,89,55,200.0
+graph-local residual RZZZ,89,56,200.0
+graph-local residual RZZZ,89,57,200.0
+graph-local residual RZZZ,89,58,200.0
+graph-local residual RZZZ,89,59,200.0
+graph-local residual RZZZ,89,60,200.0
+graph-local residual RZZZ,89,61,200.0
+graph-local residual RZZZ,89,62,200.0
+graph-local residual RZZZ,89,63,200.0
+graph-local residual RZZZ,89,64,200.0
+graph-local residual RZZZ,89,65,200.0
+graph-local residual RZZZ,89,66,200.0
+graph-local residual RZZZ,89,67,200.0
+graph-local residual RZZZ,89,68,200.0
+graph-local residual RZZZ,89,69,200.0
+graph-local residual RZZZ,89,70,200.0
+graph-local residual RZZZ,89,71,200.0
+graph-local residual RZZZ,89,72,200.0
+graph-local residual RZZZ,89,73,200.0
+graph-local residual RZZZ,89,74,200.0
+graph-local residual RZZZ,89,75,200.0
+graph-local residual RZZZ,89,76,200.0
+graph-local residual RZZZ,89,77,200.0
+graph-local residual RZZZ,89,78,200.0
+graph-local residual RZZZ,89,79,200.0
+graph-local residual RZZZ,89,80,200.0
+graph-local residual RZZZ,89,81,200.0
+graph-local residual RZZZ,89,82,200.0
+graph-local residual RZZZ,89,83,200.0
+graph-local residual RZZZ,89,84,200.0
+graph-local residual RZZZ,89,85,200.0
+graph-local residual RZZZ,89,86,200.0
+graph-local residual RZZZ,89,87,200.0
+graph-local residual RZZZ,89,88,153.0
+graph-local residual RZZZ,89,89,200.0
+graph-local residual RZZZ,89,90,200.0
+graph-local residual RZZZ,89,91,200.0
+graph-local residual RZZZ,89,92,200.0
+graph-local residual RZZZ,89,93,200.0
+graph-local residual RZZZ,89,94,200.0
+graph-local residual RZZZ,89,95,98.0
+graph-local residual RZZZ,89,96,200.0
+graph-local residual RZZZ,89,97,200.0
+graph-local residual RZZZ,89,98,200.0
+graph-local residual RZZZ,89,99,200.0
+graph-local residual RZZZ,89,100,200.0
+graph-local residual RZZZ,97,1,200.0
+graph-local residual RZZZ,97,2,200.0
+graph-local residual RZZZ,97,3,195.0
+graph-local residual RZZZ,97,4,200.0
+graph-local residual RZZZ,97,5,200.0
+graph-local residual RZZZ,97,6,200.0
+graph-local residual RZZZ,97,7,200.0
+graph-local residual RZZZ,97,8,179.0
+graph-local residual RZZZ,97,9,200.0
+graph-local residual RZZZ,97,10,200.0
+graph-local residual RZZZ,97,11,200.0
+graph-local residual RZZZ,97,12,200.0
+graph-local residual RZZZ,97,13,200.0
+graph-local residual RZZZ,97,14,200.0
+graph-local residual RZZZ,97,15,46.0
+graph-local residual RZZZ,97,16,200.0
+graph-local residual RZZZ,97,17,200.0
+graph-local residual RZZZ,97,18,200.0
+graph-local residual RZZZ,97,19,200.0
+graph-local residual RZZZ,97,20,200.0
+graph-local residual RZZZ,97,21,200.0
+graph-local residual RZZZ,97,22,200.0
+graph-local residual RZZZ,97,23,200.0
+graph-local residual RZZZ,97,24,200.0
+graph-local residual RZZZ,97,25,200.0
+graph-local residual RZZZ,97,26,200.0
+graph-local residual RZZZ,97,27,200.0
+graph-local residual RZZZ,97,28,126.0
+graph-local residual RZZZ,97,29,200.0
+graph-local residual RZZZ,97,30,99.0
+graph-local residual RZZZ,97,31,200.0
+graph-local residual RZZZ,97,32,200.0
+graph-local residual RZZZ,97,33,14.0
+graph-local residual RZZZ,97,34,200.0
+graph-local residual RZZZ,97,35,200.0
+graph-local residual RZZZ,97,36,200.0
+graph-local residual RZZZ,97,37,200.0
+graph-local residual RZZZ,97,38,200.0
+graph-local residual RZZZ,97,39,200.0
+graph-local residual RZZZ,97,40,200.0
+graph-local residual RZZZ,97,41,22.0
+graph-local residual RZZZ,97,42,140.0
+graph-local residual RZZZ,97,43,199.0
+graph-local residual RZZZ,97,44,200.0
+graph-local residual RZZZ,97,45,185.0
+graph-local residual RZZZ,97,46,200.0
+graph-local residual RZZZ,97,47,200.0
+graph-local residual RZZZ,97,48,200.0
+graph-local residual RZZZ,97,49,200.0
+graph-local residual RZZZ,97,50,200.0
+graph-local residual RZZZ,97,51,33.0
+graph-local residual RZZZ,97,52,200.0
+graph-local residual RZZZ,97,53,200.0
+graph-local residual RZZZ,97,54,200.0
+graph-local residual RZZZ,97,55,200.0
+graph-local residual RZZZ,97,56,200.0
+graph-local residual RZZZ,97,57,200.0
+graph-local residual RZZZ,97,58,15.0
+graph-local residual RZZZ,97,59,129.0
+graph-local residual RZZZ,97,60,200.0
+graph-local residual RZZZ,97,61,200.0
+graph-local residual RZZZ,97,62,200.0
+graph-local residual RZZZ,97,63,200.0
+graph-local residual RZZZ,97,64,200.0
+graph-local residual RZZZ,97,65,200.0
+graph-local residual RZZZ,97,66,200.0
+graph-local residual RZZZ,97,67,200.0
+graph-local residual RZZZ,97,68,200.0
+graph-local residual RZZZ,97,69,200.0
+graph-local residual RZZZ,97,70,110.0
+graph-local residual RZZZ,97,71,200.0
+graph-local residual RZZZ,97,72,200.0
+graph-local residual RZZZ,97,73,200.0
+graph-local residual RZZZ,97,74,200.0
+graph-local residual RZZZ,97,75,200.0
+graph-local residual RZZZ,97,76,200.0
+graph-local residual RZZZ,97,77,200.0
+graph-local residual RZZZ,97,78,200.0
+graph-local residual RZZZ,97,79,200.0
+graph-local residual RZZZ,97,80,200.0
+graph-local residual RZZZ,97,81,200.0
+graph-local residual RZZZ,97,82,200.0
+graph-local residual RZZZ,97,83,200.0
+graph-local residual RZZZ,97,84,200.0
+graph-local residual RZZZ,97,85,200.0
+graph-local residual RZZZ,97,86,200.0
+graph-local residual RZZZ,97,87,200.0
+graph-local residual RZZZ,97,88,200.0
+graph-local residual RZZZ,97,89,200.0
+graph-local residual RZZZ,97,90,99.0
+graph-local residual RZZZ,97,91,200.0
+graph-local residual RZZZ,97,92,200.0
+graph-local residual RZZZ,97,93,200.0
+graph-local residual RZZZ,97,94,200.0
+graph-local residual RZZZ,97,95,200.0
+graph-local residual RZZZ,97,96,200.0
+graph-local residual RZZZ,97,97,200.0
+graph-local residual RZZZ,97,98,200.0
+graph-local residual RZZZ,97,99,200.0
+graph-local residual RZZZ,97,100,200.0
+graph-local residual RZZZ,101,1,200.0
+graph-local residual RZZZ,101,2,200.0
+graph-local residual RZZZ,101,3,51.0
+graph-local residual RZZZ,101,4,200.0
+graph-local residual RZZZ,101,5,200.0
+graph-local residual RZZZ,101,6,200.0
+graph-local residual RZZZ,101,7,200.0
+graph-local residual RZZZ,101,8,200.0
+graph-local residual RZZZ,101,9,200.0
+graph-local residual RZZZ,101,10,200.0
+graph-local residual RZZZ,101,11,200.0
+graph-local residual RZZZ,101,12,200.0
+graph-local residual RZZZ,101,13,200.0
+graph-local residual RZZZ,101,14,200.0
+graph-local residual RZZZ,101,15,200.0
+graph-local residual RZZZ,101,16,200.0
+graph-local residual RZZZ,101,17,200.0
+graph-local residual RZZZ,101,18,200.0
+graph-local residual RZZZ,101,19,200.0
+graph-local residual RZZZ,101,20,200.0
+graph-local residual RZZZ,101,21,200.0
+graph-local residual RZZZ,101,22,200.0
+graph-local residual RZZZ,101,23,200.0
+graph-local residual RZZZ,101,24,200.0
+graph-local residual RZZZ,101,25,200.0
+graph-local residual RZZZ,101,26,200.0
+graph-local residual RZZZ,101,27,200.0
+graph-local residual RZZZ,101,28,200.0
+graph-local residual RZZZ,101,29,200.0
+graph-local residual RZZZ,101,30,200.0
+graph-local residual RZZZ,101,31,200.0
+graph-local residual RZZZ,101,32,200.0
+graph-local residual RZZZ,101,33,200.0
+graph-local residual RZZZ,101,34,200.0
+graph-local residual RZZZ,101,35,200.0
+graph-local residual RZZZ,101,36,200.0
+graph-local residual RZZZ,101,37,28.0
+graph-local residual RZZZ,101,38,200.0
+graph-local residual RZZZ,101,39,200.0
+graph-local residual RZZZ,101,40,200.0
+graph-local residual RZZZ,101,41,200.0
+graph-local residual RZZZ,101,42,200.0
+graph-local residual RZZZ,101,43,200.0
+graph-local residual RZZZ,101,44,200.0
+graph-local residual RZZZ,101,45,200.0
+graph-local residual RZZZ,101,46,200.0
+graph-local residual RZZZ,101,47,200.0
+graph-local residual RZZZ,101,48,200.0
+graph-local residual RZZZ,101,49,200.0
+graph-local residual RZZZ,101,50,200.0
+graph-local residual RZZZ,101,51,200.0
+graph-local residual RZZZ,101,52,200.0
+graph-local residual RZZZ,101,53,200.0
+graph-local residual RZZZ,101,54,200.0
+graph-local residual RZZZ,101,55,200.0
+graph-local residual RZZZ,101,56,200.0
+graph-local residual RZZZ,101,57,200.0
+graph-local residual RZZZ,101,58,200.0
+graph-local residual RZZZ,101,59,200.0
+graph-local residual RZZZ,101,60,200.0
+graph-local residual RZZZ,101,61,200.0
+graph-local residual RZZZ,101,62,200.0
+graph-local residual RZZZ,101,63,200.0
+graph-local residual RZZZ,101,64,200.0
+graph-local residual RZZZ,101,65,200.0
+graph-local residual RZZZ,101,66,200.0
+graph-local residual RZZZ,101,67,200.0
+graph-local residual RZZZ,101,68,200.0
+graph-local residual RZZZ,101,69,200.0
+graph-local residual RZZZ,101,70,200.0
+graph-local residual RZZZ,101,71,141.0
+graph-local residual RZZZ,101,72,200.0
+graph-local residual RZZZ,101,73,200.0
+graph-local residual RZZZ,101,74,200.0
+graph-local residual RZZZ,101,75,200.0
+graph-local residual RZZZ,101,76,200.0
+graph-local residual RZZZ,101,77,200.0
+graph-local residual RZZZ,101,78,200.0
+graph-local residual RZZZ,101,79,200.0
+graph-local residual RZZZ,101,80,200.0
+graph-local residual RZZZ,101,81,200.0
+graph-local residual RZZZ,101,82,200.0
+graph-local residual RZZZ,101,83,200.0
+graph-local residual RZZZ,101,84,200.0
+graph-local residual RZZZ,101,85,200.0
+graph-local residual RZZZ,101,86,200.0
+graph-local residual RZZZ,101,87,200.0
+graph-local residual RZZZ,101,88,200.0
+graph-local residual RZZZ,101,89,200.0
+graph-local residual RZZZ,101,90,200.0
+graph-local residual RZZZ,101,91,200.0
+graph-local residual RZZZ,101,92,200.0
+graph-local residual RZZZ,101,93,200.0
+graph-local residual RZZZ,101,94,200.0
+graph-local residual RZZZ,101,95,200.0
+graph-local residual RZZZ,101,96,200.0
+graph-local residual RZZZ,101,97,200.0
+graph-local residual RZZZ,101,98,200.0
+graph-local residual RZZZ,101,99,200.0
+graph-local residual RZZZ,101,100,200.0
+graph-local residual RZZZ,103,1,200.0
+graph-local residual RZZZ,103,2,200.0
+graph-local residual RZZZ,103,3,200.0
+graph-local residual RZZZ,103,4,200.0
+graph-local residual RZZZ,103,5,200.0
+graph-local residual RZZZ,103,6,200.0
+graph-local residual RZZZ,103,7,200.0
+graph-local residual RZZZ,103,8,200.0
+graph-local residual RZZZ,103,9,200.0
+graph-local residual RZZZ,103,10,200.0
+graph-local residual RZZZ,103,11,200.0
+graph-local residual RZZZ,103,12,66.0
+graph-local residual RZZZ,103,13,97.0
+graph-local residual RZZZ,103,14,180.0
+graph-local residual RZZZ,103,15,200.0
+graph-local residual RZZZ,103,16,102.0
+graph-local residual RZZZ,103,17,200.0
+graph-local residual RZZZ,103,18,200.0
+graph-local residual RZZZ,103,19,200.0
+graph-local residual RZZZ,103,20,83.0
+graph-local residual RZZZ,103,21,200.0
+graph-local residual RZZZ,103,22,200.0
+graph-local residual RZZZ,103,23,200.0
+graph-local residual RZZZ,103,24,140.0
+graph-local residual RZZZ,103,25,200.0
+graph-local residual RZZZ,103,26,200.0
+graph-local residual RZZZ,103,27,200.0
+graph-local residual RZZZ,103,28,187.0
+graph-local residual RZZZ,103,29,200.0
+graph-local residual RZZZ,103,30,200.0
+graph-local residual RZZZ,103,31,200.0
+graph-local residual RZZZ,103,32,200.0
+graph-local residual RZZZ,103,33,200.0
+graph-local residual RZZZ,103,34,200.0
+graph-local residual RZZZ,103,35,200.0
+graph-local residual RZZZ,103,36,28.0
+graph-local residual RZZZ,103,37,16.0
+graph-local residual RZZZ,103,38,172.0
+graph-local residual RZZZ,103,39,94.0
+graph-local residual RZZZ,103,40,200.0
+graph-local residual RZZZ,103,41,200.0
+graph-local residual RZZZ,103,42,200.0
+graph-local residual RZZZ,103,43,200.0
+graph-local residual RZZZ,103,44,200.0
+graph-local residual RZZZ,103,45,200.0
+graph-local residual RZZZ,103,46,200.0
+graph-local residual RZZZ,103,47,200.0
+graph-local residual RZZZ,103,48,149.0
+graph-local residual RZZZ,103,49,200.0
+graph-local residual RZZZ,103,50,200.0
+graph-local residual RZZZ,103,51,200.0
+graph-local residual RZZZ,103,52,200.0
+graph-local residual RZZZ,103,53,200.0
+graph-local residual RZZZ,103,54,200.0
+graph-local residual RZZZ,103,55,200.0
+graph-local residual RZZZ,103,56,84.0
+graph-local residual RZZZ,103,57,200.0
+graph-local residual RZZZ,103,58,200.0
+graph-local residual RZZZ,103,59,200.0
+graph-local residual RZZZ,103,60,200.0
+graph-local residual RZZZ,103,61,200.0
+graph-local residual RZZZ,103,62,200.0
+graph-local residual RZZZ,103,63,200.0
+graph-local residual RZZZ,103,64,124.0
+graph-local residual RZZZ,103,65,200.0
+graph-local residual RZZZ,103,66,200.0
+graph-local residual RZZZ,103,67,200.0
+graph-local residual RZZZ,103,68,89.0
+graph-local residual RZZZ,103,69,200.0
+graph-local residual RZZZ,103,70,200.0
+graph-local residual RZZZ,103,71,200.0
+graph-local residual RZZZ,103,72,200.0
+graph-local residual RZZZ,103,73,200.0
+graph-local residual RZZZ,103,74,200.0
+graph-local residual RZZZ,103,75,200.0
+graph-local residual RZZZ,103,76,200.0
+graph-local residual RZZZ,103,77,200.0
+graph-local residual RZZZ,103,78,200.0
+graph-local residual RZZZ,103,79,135.0
+graph-local residual RZZZ,103,80,200.0
+graph-local residual RZZZ,103,81,200.0
+graph-local residual RZZZ,103,82,200.0
+graph-local residual RZZZ,103,83,200.0
+graph-local residual RZZZ,103,84,200.0
+graph-local residual RZZZ,103,85,200.0
+graph-local residual RZZZ,103,86,200.0
+graph-local residual RZZZ,103,87,200.0
+graph-local residual RZZZ,103,88,25.0
+graph-local residual RZZZ,103,89,200.0
+graph-local residual RZZZ,103,90,200.0
+graph-local residual RZZZ,103,91,141.0
+graph-local residual RZZZ,103,92,200.0
+graph-local residual RZZZ,103,93,174.0
+graph-local residual RZZZ,103,94,200.0
+graph-local residual RZZZ,103,95,200.0
+graph-local residual RZZZ,103,96,200.0
+graph-local residual RZZZ,103,97,200.0
+graph-local residual RZZZ,103,98,200.0
+graph-local residual RZZZ,103,99,200.0
+graph-local residual RZZZ,103,100,200.0
+graph-local residual RZZZ,107,1,200.0
+graph-local residual RZZZ,107,2,200.0
+graph-local residual RZZZ,107,3,200.0
+graph-local residual RZZZ,107,4,200.0
+graph-local residual RZZZ,107,5,200.0
+graph-local residual RZZZ,107,6,200.0
+graph-local residual RZZZ,107,7,200.0
+graph-local residual RZZZ,107,8,200.0
+graph-local residual RZZZ,107,9,200.0
+graph-local residual RZZZ,107,10,200.0
+graph-local residual RZZZ,107,11,200.0
+graph-local residual RZZZ,107,12,200.0
+graph-local residual RZZZ,107,13,200.0
+graph-local residual RZZZ,107,14,200.0
+graph-local residual RZZZ,107,15,200.0
+graph-local residual RZZZ,107,16,200.0
+graph-local residual RZZZ,107,17,200.0
+graph-local residual RZZZ,107,18,200.0
+graph-local residual RZZZ,107,19,200.0
+graph-local residual RZZZ,107,20,200.0
+graph-local residual RZZZ,107,21,200.0
+graph-local residual RZZZ,107,22,200.0
+graph-local residual RZZZ,107,23,200.0
+graph-local residual RZZZ,107,24,200.0
+graph-local residual RZZZ,107,25,200.0
+graph-local residual RZZZ,107,26,200.0
+graph-local residual RZZZ,107,27,200.0
+graph-local residual RZZZ,107,28,200.0
+graph-local residual RZZZ,107,29,200.0
+graph-local residual RZZZ,107,30,200.0
+graph-local residual RZZZ,107,31,200.0
+graph-local residual RZZZ,107,32,200.0
+graph-local residual RZZZ,107,33,200.0
+graph-local residual RZZZ,107,34,189.0
+graph-local residual RZZZ,107,35,200.0
+graph-local residual RZZZ,107,36,200.0
+graph-local residual RZZZ,107,37,200.0
+graph-local residual RZZZ,107,38,200.0
+graph-local residual RZZZ,107,39,200.0
+graph-local residual RZZZ,107,40,200.0
+graph-local residual RZZZ,107,41,200.0
+graph-local residual RZZZ,107,42,200.0
+graph-local residual RZZZ,107,43,200.0
+graph-local residual RZZZ,107,44,200.0
+graph-local residual RZZZ,107,45,200.0
+graph-local residual RZZZ,107,46,200.0
+graph-local residual RZZZ,107,47,200.0
+graph-local residual RZZZ,107,48,200.0
+graph-local residual RZZZ,107,49,117.0
+graph-local residual RZZZ,107,50,200.0
+graph-local residual RZZZ,107,51,200.0
+graph-local residual RZZZ,107,52,200.0
+graph-local residual RZZZ,107,53,200.0
+graph-local residual RZZZ,107,54,200.0
+graph-local residual RZZZ,107,55,200.0
+graph-local residual RZZZ,107,56,200.0
+graph-local residual RZZZ,107,57,200.0
+graph-local residual RZZZ,107,58,200.0
+graph-local residual RZZZ,107,59,178.0
+graph-local residual RZZZ,107,60,200.0
+graph-local residual RZZZ,107,61,200.0
+graph-local residual RZZZ,107,62,200.0
+graph-local residual RZZZ,107,63,200.0
+graph-local residual RZZZ,107,64,56.0
+graph-local residual RZZZ,107,65,200.0
+graph-local residual RZZZ,107,66,200.0
+graph-local residual RZZZ,107,67,200.0
+graph-local residual RZZZ,107,68,200.0
+graph-local residual RZZZ,107,69,200.0
+graph-local residual RZZZ,107,70,200.0
+graph-local residual RZZZ,107,71,200.0
+graph-local residual RZZZ,107,72,200.0
+graph-local residual RZZZ,107,73,200.0
+graph-local residual RZZZ,107,74,200.0
+graph-local residual RZZZ,107,75,200.0
+graph-local residual RZZZ,107,76,200.0
+graph-local residual RZZZ,107,77,200.0
+graph-local residual RZZZ,107,78,200.0
+graph-local residual RZZZ,107,79,200.0
+graph-local residual RZZZ,107,80,200.0
+graph-local residual RZZZ,107,81,200.0
+graph-local residual RZZZ,107,82,200.0
+graph-local residual RZZZ,107,83,200.0
+graph-local residual RZZZ,107,84,200.0
+graph-local residual RZZZ,107,85,200.0
+graph-local residual RZZZ,107,86,200.0
+graph-local residual RZZZ,107,87,200.0
+graph-local residual RZZZ,107,88,200.0
+graph-local residual RZZZ,107,89,200.0
+graph-local residual RZZZ,107,90,200.0
+graph-local residual RZZZ,107,91,200.0
+graph-local residual RZZZ,107,92,200.0
+graph-local residual RZZZ,107,93,200.0
+graph-local residual RZZZ,107,94,200.0
+graph-local residual RZZZ,107,95,200.0
+graph-local residual RZZZ,107,96,200.0
+graph-local residual RZZZ,107,97,200.0
+graph-local residual RZZZ,107,98,200.0
+graph-local residual RZZZ,107,99,200.0
+graph-local residual RZZZ,107,100,200.0
+graph-local residual RZZZ,109,1,200.0
+graph-local residual RZZZ,109,2,200.0
+graph-local residual RZZZ,109,3,200.0
+graph-local residual RZZZ,109,4,200.0
+graph-local residual RZZZ,109,5,200.0
+graph-local residual RZZZ,109,6,200.0
+graph-local residual RZZZ,109,7,200.0
+graph-local residual RZZZ,109,8,200.0
+graph-local residual RZZZ,109,9,200.0
+graph-local residual RZZZ,109,10,200.0
+graph-local residual RZZZ,109,11,121.0
+graph-local residual RZZZ,109,12,200.0
+graph-local residual RZZZ,109,13,200.0
+graph-local residual RZZZ,109,14,200.0
+graph-local residual RZZZ,109,15,200.0
+graph-local residual RZZZ,109,16,200.0
+graph-local residual RZZZ,109,17,200.0
+graph-local residual RZZZ,109,18,200.0
+graph-local residual RZZZ,109,19,200.0
+graph-local residual RZZZ,109,20,200.0
+graph-local residual RZZZ,109,21,200.0
+graph-local residual RZZZ,109,22,200.0
+graph-local residual RZZZ,109,23,200.0
+graph-local residual RZZZ,109,24,200.0
+graph-local residual RZZZ,109,25,200.0
+graph-local residual RZZZ,109,26,200.0
+graph-local residual RZZZ,109,27,200.0
+graph-local residual RZZZ,109,28,200.0
+graph-local residual RZZZ,109,29,200.0
+graph-local residual RZZZ,109,30,200.0
+graph-local residual RZZZ,109,31,200.0
+graph-local residual RZZZ,109,32,200.0
+graph-local residual RZZZ,109,33,90.0
+graph-local residual RZZZ,109,34,200.0
+graph-local residual RZZZ,109,35,200.0
+graph-local residual RZZZ,109,36,110.0
+graph-local residual RZZZ,109,37,200.0
+graph-local residual RZZZ,109,38,200.0
+graph-local residual RZZZ,109,39,200.0
+graph-local residual RZZZ,109,40,200.0
+graph-local residual RZZZ,109,41,200.0
+graph-local residual RZZZ,109,42,200.0
+graph-local residual RZZZ,109,43,200.0
+graph-local residual RZZZ,109,44,200.0
+graph-local residual RZZZ,109,45,200.0
+graph-local residual RZZZ,109,46,200.0
+graph-local residual RZZZ,109,47,200.0
+graph-local residual RZZZ,109,48,149.0
+graph-local residual RZZZ,109,49,200.0
+graph-local residual RZZZ,109,50,200.0
+graph-local residual RZZZ,109,51,200.0
+graph-local residual RZZZ,109,52,200.0
+graph-local residual RZZZ,109,53,200.0
+graph-local residual RZZZ,109,54,200.0
+graph-local residual RZZZ,109,55,200.0
+graph-local residual RZZZ,109,56,200.0
+graph-local residual RZZZ,109,57,200.0
+graph-local residual RZZZ,109,58,200.0
+graph-local residual RZZZ,109,59,200.0
+graph-local residual RZZZ,109,60,200.0
+graph-local residual RZZZ,109,61,200.0
+graph-local residual RZZZ,109,62,200.0
+graph-local residual RZZZ,109,63,200.0
+graph-local residual RZZZ,109,64,200.0
+graph-local residual RZZZ,109,65,200.0
+graph-local residual RZZZ,109,66,200.0
+graph-local residual RZZZ,109,67,200.0
+graph-local residual RZZZ,109,68,200.0
+graph-local residual RZZZ,109,69,200.0
+graph-local residual RZZZ,109,70,200.0
+graph-local residual RZZZ,109,71,200.0
+graph-local residual RZZZ,109,72,200.0
+graph-local residual RZZZ,109,73,200.0
+graph-local residual RZZZ,109,74,200.0
+graph-local residual RZZZ,109,75,200.0
+graph-local residual RZZZ,109,76,200.0
+graph-local residual RZZZ,109,77,200.0
+graph-local residual RZZZ,109,78,159.0
+graph-local residual RZZZ,109,79,200.0
+graph-local residual RZZZ,109,80,200.0
+graph-local residual RZZZ,109,81,58.0
+graph-local residual RZZZ,109,82,200.0
+graph-local residual RZZZ,109,83,200.0
+graph-local residual RZZZ,109,84,200.0
+graph-local residual RZZZ,109,85,200.0
+graph-local residual RZZZ,109,86,39.0
+graph-local residual RZZZ,109,87,200.0
+graph-local residual RZZZ,109,88,200.0
+graph-local residual RZZZ,109,89,200.0
+graph-local residual RZZZ,109,90,123.0
+graph-local residual RZZZ,109,91,200.0
+graph-local residual RZZZ,109,92,200.0
+graph-local residual RZZZ,109,93,200.0
+graph-local residual RZZZ,109,94,200.0
+graph-local residual RZZZ,109,95,200.0
+graph-local residual RZZZ,109,96,200.0
+graph-local residual RZZZ,109,97,200.0
+graph-local residual RZZZ,109,98,200.0
+graph-local residual RZZZ,109,99,200.0
+graph-local residual RZZZ,109,100,200.0
+graph-local residual RZZZ,113,1,200.0
+graph-local residual RZZZ,113,2,200.0
+graph-local residual RZZZ,113,3,200.0
+graph-local residual RZZZ,113,4,200.0
+graph-local residual RZZZ,113,5,200.0
+graph-local residual RZZZ,113,6,200.0
+graph-local residual RZZZ,113,7,200.0
+graph-local residual RZZZ,113,8,200.0
+graph-local residual RZZZ,113,9,200.0
+graph-local residual RZZZ,113,10,200.0
+graph-local residual RZZZ,113,11,200.0
+graph-local residual RZZZ,113,12,200.0
+graph-local residual RZZZ,113,13,200.0
+graph-local residual RZZZ,113,14,200.0
+graph-local residual RZZZ,113,15,200.0
+graph-local residual RZZZ,113,16,200.0
+graph-local residual RZZZ,113,17,200.0
+graph-local residual RZZZ,113,18,200.0
+graph-local residual RZZZ,113,19,200.0
+graph-local residual RZZZ,113,20,200.0
+graph-local residual RZZZ,113,21,200.0
+graph-local residual RZZZ,113,22,200.0
+graph-local residual RZZZ,113,23,200.0
+graph-local residual RZZZ,113,24,200.0
+graph-local residual RZZZ,113,25,200.0
+graph-local residual RZZZ,113,26,200.0
+graph-local residual RZZZ,113,27,200.0
+graph-local residual RZZZ,113,28,200.0
+graph-local residual RZZZ,113,29,200.0
+graph-local residual RZZZ,113,30,200.0
+graph-local residual RZZZ,113,31,200.0
+graph-local residual RZZZ,113,32,200.0
+graph-local residual RZZZ,113,33,200.0
+graph-local residual RZZZ,113,34,200.0
+graph-local residual RZZZ,113,35,200.0
+graph-local residual RZZZ,113,36,200.0
+graph-local residual RZZZ,113,37,200.0
+graph-local residual RZZZ,113,38,200.0
+graph-local residual RZZZ,113,39,200.0
+graph-local residual RZZZ,113,40,200.0
+graph-local residual RZZZ,113,41,200.0
+graph-local residual RZZZ,113,42,200.0
+graph-local residual RZZZ,113,43,200.0
+graph-local residual RZZZ,113,44,200.0
+graph-local residual RZZZ,113,45,200.0
+graph-local residual RZZZ,113,46,200.0
+graph-local residual RZZZ,113,47,200.0
+graph-local residual RZZZ,113,48,100.0
+graph-local residual RZZZ,113,49,200.0
+graph-local residual RZZZ,113,50,152.0
+graph-local residual RZZZ,113,51,42.0
+graph-local residual RZZZ,113,52,200.0
+graph-local residual RZZZ,113,53,148.0
+graph-local residual RZZZ,113,54,200.0
+graph-local residual RZZZ,113,55,200.0
+graph-local residual RZZZ,113,56,200.0
+graph-local residual RZZZ,113,57,200.0
+graph-local residual RZZZ,113,58,200.0
+graph-local residual RZZZ,113,59,200.0
+graph-local residual RZZZ,113,60,200.0
+graph-local residual RZZZ,113,61,200.0
+graph-local residual RZZZ,113,62,200.0
+graph-local residual RZZZ,113,63,200.0
+graph-local residual RZZZ,113,64,200.0
+graph-local residual RZZZ,113,65,200.0
+graph-local residual RZZZ,113,66,200.0
+graph-local residual RZZZ,113,67,200.0
+graph-local residual RZZZ,113,68,200.0
+graph-local residual RZZZ,113,69,200.0
+graph-local residual RZZZ,113,70,200.0
+graph-local residual RZZZ,113,71,200.0
+graph-local residual RZZZ,113,72,37.0
+graph-local residual RZZZ,113,73,200.0
+graph-local residual RZZZ,113,74,200.0
+graph-local residual RZZZ,113,75,200.0
+graph-local residual RZZZ,113,76,200.0
+graph-local residual RZZZ,113,77,200.0
+graph-local residual RZZZ,113,78,200.0
+graph-local residual RZZZ,113,79,200.0
+graph-local residual RZZZ,113,80,200.0
+graph-local residual RZZZ,113,81,200.0
+graph-local residual RZZZ,113,82,200.0
+graph-local residual RZZZ,113,83,200.0
+graph-local residual RZZZ,113,84,174.0
+graph-local residual RZZZ,113,85,200.0
+graph-local residual RZZZ,113,86,200.0
+graph-local residual RZZZ,113,87,200.0
+graph-local residual RZZZ,113,88,200.0
+graph-local residual RZZZ,113,89,200.0
+graph-local residual RZZZ,113,90,200.0
+graph-local residual RZZZ,113,91,200.0
+graph-local residual RZZZ,113,92,200.0
+graph-local residual RZZZ,113,93,200.0
+graph-local residual RZZZ,113,94,200.0
+graph-local residual RZZZ,113,95,200.0
+graph-local residual RZZZ,113,96,200.0
+graph-local residual RZZZ,113,97,173.0
+graph-local residual RZZZ,113,98,200.0
+graph-local residual RZZZ,113,99,200.0
+graph-local residual RZZZ,113,100,200.0
+graph-local residual RZZZ,127,1,200.0
+graph-local residual RZZZ,127,2,200.0
+graph-local residual RZZZ,127,3,200.0
+graph-local residual RZZZ,127,4,200.0
+graph-local residual RZZZ,127,5,200.0
+graph-local residual RZZZ,127,6,200.0
+graph-local residual RZZZ,127,7,200.0
+graph-local residual RZZZ,127,8,200.0
+graph-local residual RZZZ,127,9,200.0
+graph-local residual RZZZ,127,10,200.0
+graph-local residual RZZZ,127,11,200.0
+graph-local residual RZZZ,127,12,200.0
+graph-local residual RZZZ,127,13,200.0
+graph-local residual RZZZ,127,14,200.0
+graph-local residual RZZZ,127,15,200.0
+graph-local residual RZZZ,127,16,200.0
+graph-local residual RZZZ,127,17,200.0
+graph-local residual RZZZ,127,18,200.0
+graph-local residual RZZZ,127,19,200.0
+graph-local residual RZZZ,127,20,200.0
+graph-local residual RZZZ,127,21,200.0
+graph-local residual RZZZ,127,22,200.0
+graph-local residual RZZZ,127,23,200.0
+graph-local residual RZZZ,127,24,200.0
+graph-local residual RZZZ,127,25,200.0
+graph-local residual RZZZ,127,26,200.0
+graph-local residual RZZZ,127,27,200.0
+graph-local residual RZZZ,127,28,200.0
+graph-local residual RZZZ,127,29,200.0
+graph-local residual RZZZ,127,30,200.0
+graph-local residual RZZZ,127,31,200.0
+graph-local residual RZZZ,127,32,200.0
+graph-local residual RZZZ,127,33,200.0
+graph-local residual RZZZ,127,34,200.0
+graph-local residual RZZZ,127,35,200.0
+graph-local residual RZZZ,127,36,200.0
+graph-local residual RZZZ,127,37,200.0
+graph-local residual RZZZ,127,38,200.0
+graph-local residual RZZZ,127,39,200.0
+graph-local residual RZZZ,127,40,200.0
+graph-local residual RZZZ,127,41,200.0
+graph-local residual RZZZ,127,42,200.0
+graph-local residual RZZZ,127,43,200.0
+graph-local residual RZZZ,127,44,200.0
+graph-local residual RZZZ,127,45,200.0
+graph-local residual RZZZ,127,46,200.0
+graph-local residual RZZZ,127,47,200.0
+graph-local residual RZZZ,127,48,200.0
+graph-local residual RZZZ,127,49,200.0
+graph-local residual RZZZ,127,50,200.0
+graph-local residual RZZZ,127,51,200.0
+graph-local residual RZZZ,127,52,200.0
+graph-local residual RZZZ,127,53,200.0
+graph-local residual RZZZ,127,54,200.0
+graph-local residual RZZZ,127,55,200.0
+graph-local residual RZZZ,127,56,200.0
+graph-local residual RZZZ,127,57,200.0
+graph-local residual RZZZ,127,58,200.0
+graph-local residual RZZZ,127,59,200.0
+graph-local residual RZZZ,127,60,200.0
+graph-local residual RZZZ,127,61,200.0
+graph-local residual RZZZ,127,62,200.0
+graph-local residual RZZZ,127,63,200.0
+graph-local residual RZZZ,127,64,200.0
+graph-local residual RZZZ,127,65,200.0
+graph-local residual RZZZ,127,66,200.0
+graph-local residual RZZZ,127,67,200.0
+graph-local residual RZZZ,127,68,200.0
+graph-local residual RZZZ,127,69,200.0
+graph-local residual RZZZ,127,70,200.0
+graph-local residual RZZZ,127,71,200.0
+graph-local residual RZZZ,127,72,200.0
+graph-local residual RZZZ,127,73,200.0
+graph-local residual RZZZ,127,74,200.0
+graph-local residual RZZZ,127,75,200.0
+graph-local residual RZZZ,127,76,132.0
+graph-local residual RZZZ,127,77,200.0
+graph-local residual RZZZ,127,78,200.0
+graph-local residual RZZZ,127,79,200.0
+graph-local residual RZZZ,127,80,200.0
+graph-local residual RZZZ,127,81,200.0
+graph-local residual RZZZ,127,82,200.0
+graph-local residual RZZZ,127,83,200.0
+graph-local residual RZZZ,127,84,200.0
+graph-local residual RZZZ,127,85,200.0
+graph-local residual RZZZ,127,86,200.0
+graph-local residual RZZZ,127,87,200.0
+graph-local residual RZZZ,127,88,200.0
+graph-local residual RZZZ,127,89,200.0
+graph-local residual RZZZ,127,90,200.0
+graph-local residual RZZZ,127,91,200.0
+graph-local residual RZZZ,127,92,200.0
+graph-local residual RZZZ,127,93,156.0
+graph-local residual RZZZ,127,94,200.0
+graph-local residual RZZZ,127,95,200.0
+graph-local residual RZZZ,127,96,200.0
+graph-local residual RZZZ,127,97,200.0
+graph-local residual RZZZ,127,98,200.0
+graph-local residual RZZZ,127,99,200.0
+graph-local residual RZZZ,127,100,200.0
+graph-local residual RZZZ,131,1,200.0
+graph-local residual RZZZ,131,2,200.0
+graph-local residual RZZZ,131,3,200.0
+graph-local residual RZZZ,131,4,200.0
+graph-local residual RZZZ,131,5,200.0
+graph-local residual RZZZ,131,6,200.0
+graph-local residual RZZZ,131,7,200.0
+graph-local residual RZZZ,131,8,200.0
+graph-local residual RZZZ,131,9,200.0
+graph-local residual RZZZ,131,10,200.0
+graph-local residual RZZZ,131,11,200.0
+graph-local residual RZZZ,131,12,200.0
+graph-local residual RZZZ,131,13,200.0
+graph-local residual RZZZ,131,14,200.0
+graph-local residual RZZZ,131,15,200.0
+graph-local residual RZZZ,131,16,200.0
+graph-local residual RZZZ,131,17,200.0
+graph-local residual RZZZ,131,18,200.0
+graph-local residual RZZZ,131,19,200.0
+graph-local residual RZZZ,131,20,200.0
+graph-local residual RZZZ,131,21,200.0
+graph-local residual RZZZ,131,22,200.0
+graph-local residual RZZZ,131,23,200.0
+graph-local residual RZZZ,131,24,200.0
+graph-local residual RZZZ,131,25,200.0
+graph-local residual RZZZ,131,26,200.0
+graph-local residual RZZZ,131,27,200.0
+graph-local residual RZZZ,131,28,200.0
+graph-local residual RZZZ,131,29,200.0
+graph-local residual RZZZ,131,30,200.0
+graph-local residual RZZZ,131,31,200.0
+graph-local residual RZZZ,131,32,200.0
+graph-local residual RZZZ,131,33,200.0
+graph-local residual RZZZ,131,34,200.0
+graph-local residual RZZZ,131,35,200.0
+graph-local residual RZZZ,131,36,200.0
+graph-local residual RZZZ,131,37,87.0
+graph-local residual RZZZ,131,38,200.0
+graph-local residual RZZZ,131,39,200.0
+graph-local residual RZZZ,131,40,200.0
+graph-local residual RZZZ,131,41,200.0
+graph-local residual RZZZ,131,42,200.0
+graph-local residual RZZZ,131,43,200.0
+graph-local residual RZZZ,131,44,200.0
+graph-local residual RZZZ,131,45,200.0
+graph-local residual RZZZ,131,46,200.0
+graph-local residual RZZZ,131,47,200.0
+graph-local residual RZZZ,131,48,200.0
+graph-local residual RZZZ,131,49,200.0
+graph-local residual RZZZ,131,50,200.0
+graph-local residual RZZZ,131,51,200.0
+graph-local residual RZZZ,131,52,200.0
+graph-local residual RZZZ,131,53,200.0
+graph-local residual RZZZ,131,54,200.0
+graph-local residual RZZZ,131,55,200.0
+graph-local residual RZZZ,131,56,200.0
+graph-local residual RZZZ,131,57,200.0
+graph-local residual RZZZ,131,58,200.0
+graph-local residual RZZZ,131,59,200.0
+graph-local residual RZZZ,131,60,200.0
+graph-local residual RZZZ,131,61,200.0
+graph-local residual RZZZ,131,62,200.0
+graph-local residual RZZZ,131,63,200.0
+graph-local residual RZZZ,131,64,200.0
+graph-local residual RZZZ,131,65,200.0
+graph-local residual RZZZ,131,66,200.0
+graph-local residual RZZZ,131,67,200.0
+graph-local residual RZZZ,131,68,200.0
+graph-local residual RZZZ,131,69,200.0
+graph-local residual RZZZ,131,70,200.0
+graph-local residual RZZZ,131,71,200.0
+graph-local residual RZZZ,131,72,200.0
+graph-local residual RZZZ,131,73,200.0
+graph-local residual RZZZ,131,74,135.0
+graph-local residual RZZZ,131,75,200.0
+graph-local residual RZZZ,131,76,200.0
+graph-local residual RZZZ,131,77,200.0
+graph-local residual RZZZ,131,78,200.0
+graph-local residual RZZZ,131,79,200.0
+graph-local residual RZZZ,131,80,200.0
+graph-local residual RZZZ,131,81,200.0
+graph-local residual RZZZ,131,82,200.0
+graph-local residual RZZZ,131,83,200.0
+graph-local residual RZZZ,131,84,200.0
+graph-local residual RZZZ,131,85,200.0
+graph-local residual RZZZ,131,86,200.0
+graph-local residual RZZZ,131,87,200.0
+graph-local residual RZZZ,131,88,200.0
+graph-local residual RZZZ,131,89,200.0
+graph-local residual RZZZ,131,90,200.0
+graph-local residual RZZZ,131,91,200.0
+graph-local residual RZZZ,131,92,200.0
+graph-local residual RZZZ,131,93,200.0
+graph-local residual RZZZ,131,94,200.0
+graph-local residual RZZZ,131,95,200.0
+graph-local residual RZZZ,131,96,200.0
+graph-local residual RZZZ,131,97,200.0
+graph-local residual RZZZ,131,98,200.0
+graph-local residual RZZZ,131,99,200.0
+graph-local residual RZZZ,131,100,200.0
+graph-local residual RZZZ,137,1,200.0
+graph-local residual RZZZ,137,2,200.0
+graph-local residual RZZZ,137,3,200.0
+graph-local residual RZZZ,137,4,200.0
+graph-local residual RZZZ,137,5,200.0
+graph-local residual RZZZ,137,6,200.0
+graph-local residual RZZZ,137,7,200.0
+graph-local residual RZZZ,137,8,200.0
+graph-local residual RZZZ,137,9,200.0
+graph-local residual RZZZ,137,10,200.0
+graph-local residual RZZZ,137,11,200.0
+graph-local residual RZZZ,137,12,200.0
+graph-local residual RZZZ,137,13,200.0
+graph-local residual RZZZ,137,14,200.0
+graph-local residual RZZZ,137,15,85.0
+graph-local residual RZZZ,137,16,200.0
+graph-local residual RZZZ,137,17,200.0
+graph-local residual RZZZ,137,18,200.0
+graph-local residual RZZZ,137,19,200.0
+graph-local residual RZZZ,137,20,200.0
+graph-local residual RZZZ,137,21,200.0
+graph-local residual RZZZ,137,22,200.0
+graph-local residual RZZZ,137,23,200.0
+graph-local residual RZZZ,137,24,200.0
+graph-local residual RZZZ,137,25,200.0
+graph-local residual RZZZ,137,26,200.0
+graph-local residual RZZZ,137,27,200.0
+graph-local residual RZZZ,137,28,200.0
+graph-local residual RZZZ,137,29,200.0
+graph-local residual RZZZ,137,30,200.0
+graph-local residual RZZZ,137,31,200.0
+graph-local residual RZZZ,137,32,200.0
+graph-local residual RZZZ,137,33,200.0
+graph-local residual RZZZ,137,34,200.0
+graph-local residual RZZZ,137,35,200.0
+graph-local residual RZZZ,137,36,200.0
+graph-local residual RZZZ,137,37,200.0
+graph-local residual RZZZ,137,38,200.0
+graph-local residual RZZZ,137,39,200.0
+graph-local residual RZZZ,137,40,200.0
+graph-local residual RZZZ,137,41,200.0
+graph-local residual RZZZ,137,42,200.0
+graph-local residual RZZZ,137,43,200.0
+graph-local residual RZZZ,137,44,200.0
+graph-local residual RZZZ,137,45,200.0
+graph-local residual RZZZ,137,46,200.0
+graph-local residual RZZZ,137,47,200.0
+graph-local residual RZZZ,137,48,200.0
+graph-local residual RZZZ,137,49,200.0
+graph-local residual RZZZ,137,50,200.0
+graph-local residual RZZZ,137,51,200.0
+graph-local residual RZZZ,137,52,200.0
+graph-local residual RZZZ,137,53,200.0
+graph-local residual RZZZ,137,54,200.0
+graph-local residual RZZZ,137,55,200.0
+graph-local residual RZZZ,137,56,200.0
+graph-local residual RZZZ,137,57,200.0
+graph-local residual RZZZ,137,58,200.0
+graph-local residual RZZZ,137,59,200.0
+graph-local residual RZZZ,137,60,200.0
+graph-local residual RZZZ,137,61,200.0
+graph-local residual RZZZ,137,62,200.0
+graph-local residual RZZZ,137,63,200.0
+graph-local residual RZZZ,137,64,200.0
+graph-local residual RZZZ,137,65,200.0
+graph-local residual RZZZ,137,66,200.0
+graph-local residual RZZZ,137,67,200.0
+graph-local residual RZZZ,137,68,200.0
+graph-local residual RZZZ,137,69,200.0
+graph-local residual RZZZ,137,70,200.0
+graph-local residual RZZZ,137,71,53.0
+graph-local residual RZZZ,137,72,200.0
+graph-local residual RZZZ,137,73,200.0
+graph-local residual RZZZ,137,74,200.0
+graph-local residual RZZZ,137,75,200.0
+graph-local residual RZZZ,137,76,200.0
+graph-local residual RZZZ,137,77,200.0
+graph-local residual RZZZ,137,78,200.0
+graph-local residual RZZZ,137,79,200.0
+graph-local residual RZZZ,137,80,200.0
+graph-local residual RZZZ,137,81,200.0
+graph-local residual RZZZ,137,82,200.0
+graph-local residual RZZZ,137,83,200.0
+graph-local residual RZZZ,137,84,200.0
+graph-local residual RZZZ,137,85,200.0
+graph-local residual RZZZ,137,86,200.0
+graph-local residual RZZZ,137,87,200.0
+graph-local residual RZZZ,137,88,200.0
+graph-local residual RZZZ,137,89,200.0
+graph-local residual RZZZ,137,90,200.0
+graph-local residual RZZZ,137,91,200.0
+graph-local residual RZZZ,137,92,200.0
+graph-local residual RZZZ,137,93,174.0
+graph-local residual RZZZ,137,94,200.0
+graph-local residual RZZZ,137,95,200.0
+graph-local residual RZZZ,137,96,200.0
+graph-local residual RZZZ,137,97,200.0
+graph-local residual RZZZ,137,98,200.0
+graph-local residual RZZZ,137,99,200.0
+graph-local residual RZZZ,137,100,200.0
+graph-local residual RZZZ,139,1,200.0
+graph-local residual RZZZ,139,2,200.0
+graph-local residual RZZZ,139,3,200.0
+graph-local residual RZZZ,139,4,200.0
+graph-local residual RZZZ,139,5,200.0
+graph-local residual RZZZ,139,6,200.0
+graph-local residual RZZZ,139,7,200.0
+graph-local residual RZZZ,139,8,200.0
+graph-local residual RZZZ,139,9,200.0
+graph-local residual RZZZ,139,10,200.0
+graph-local residual RZZZ,139,11,200.0
+graph-local residual RZZZ,139,12,200.0
+graph-local residual RZZZ,139,13,200.0
+graph-local residual RZZZ,139,14,200.0
+graph-local residual RZZZ,139,15,200.0
+graph-local residual RZZZ,139,16,200.0
+graph-local residual RZZZ,139,17,200.0
+graph-local residual RZZZ,139,18,200.0
+graph-local residual RZZZ,139,19,200.0
+graph-local residual RZZZ,139,20,200.0
+graph-local residual RZZZ,139,21,200.0
+graph-local residual RZZZ,139,22,200.0
+graph-local residual RZZZ,139,23,200.0
+graph-local residual RZZZ,139,24,200.0
+graph-local residual RZZZ,139,25,200.0
+graph-local residual RZZZ,139,26,200.0
+graph-local residual RZZZ,139,27,200.0
+graph-local residual RZZZ,139,28,200.0
+graph-local residual RZZZ,139,29,200.0
+graph-local residual RZZZ,139,30,200.0
+graph-local residual RZZZ,139,31,200.0
+graph-local residual RZZZ,139,32,200.0
+graph-local residual RZZZ,139,33,200.0
+graph-local residual RZZZ,139,34,200.0
+graph-local residual RZZZ,139,35,200.0
+graph-local residual RZZZ,139,36,200.0
+graph-local residual RZZZ,139,37,200.0
+graph-local residual RZZZ,139,38,200.0
+graph-local residual RZZZ,139,39,200.0
+graph-local residual RZZZ,139,40,200.0
+graph-local residual RZZZ,139,41,200.0
+graph-local residual RZZZ,139,42,200.0
+graph-local residual RZZZ,139,43,200.0
+graph-local residual RZZZ,139,44,200.0
+graph-local residual RZZZ,139,45,200.0
+graph-local residual RZZZ,139,46,200.0
+graph-local residual RZZZ,139,47,200.0
+graph-local residual RZZZ,139,48,200.0
+graph-local residual RZZZ,139,49,200.0
+graph-local residual RZZZ,139,50,200.0
+graph-local residual RZZZ,139,51,200.0
+graph-local residual RZZZ,139,52,200.0
+graph-local residual RZZZ,139,53,200.0
+graph-local residual RZZZ,139,54,200.0
+graph-local residual RZZZ,139,55,200.0
+graph-local residual RZZZ,139,56,200.0
+graph-local residual RZZZ,139,57,200.0
+graph-local residual RZZZ,139,58,200.0
+graph-local residual RZZZ,139,59,200.0
+graph-local residual RZZZ,139,60,200.0
+graph-local residual RZZZ,139,61,200.0
+graph-local residual RZZZ,139,62,200.0
+graph-local residual RZZZ,139,63,200.0
+graph-local residual RZZZ,139,64,52.0
+graph-local residual RZZZ,139,65,200.0
+graph-local residual RZZZ,139,66,200.0
+graph-local residual RZZZ,139,67,200.0
+graph-local residual RZZZ,139,68,200.0
+graph-local residual RZZZ,139,69,200.0
+graph-local residual RZZZ,139,70,200.0
+graph-local residual RZZZ,139,71,200.0
+graph-local residual RZZZ,139,72,200.0
+graph-local residual RZZZ,139,73,200.0
+graph-local residual RZZZ,139,74,200.0
+graph-local residual RZZZ,139,75,200.0
+graph-local residual RZZZ,139,76,200.0
+graph-local residual RZZZ,139,77,200.0
+graph-local residual RZZZ,139,78,200.0
+graph-local residual RZZZ,139,79,200.0
+graph-local residual RZZZ,139,80,200.0
+graph-local residual RZZZ,139,81,200.0
+graph-local residual RZZZ,139,82,200.0
+graph-local residual RZZZ,139,83,200.0
+graph-local residual RZZZ,139,84,200.0
+graph-local residual RZZZ,139,85,200.0
+graph-local residual RZZZ,139,86,200.0
+graph-local residual RZZZ,139,87,200.0
+graph-local residual RZZZ,139,88,200.0
+graph-local residual RZZZ,139,89,200.0
+graph-local residual RZZZ,139,90,200.0
+graph-local residual RZZZ,139,91,200.0
+graph-local residual RZZZ,139,92,200.0
+graph-local residual RZZZ,139,93,200.0
+graph-local residual RZZZ,139,94,200.0
+graph-local residual RZZZ,139,95,200.0
+graph-local residual RZZZ,139,96,200.0
+graph-local residual RZZZ,139,97,200.0
+graph-local residual RZZZ,139,98,200.0
+graph-local residual RZZZ,139,99,200.0
+graph-local residual RZZZ,139,100,200.0
+graph-local residual RZZZ,149,1,178.0
+graph-local residual RZZZ,149,2,200.0
+graph-local residual RZZZ,149,3,200.0
+graph-local residual RZZZ,149,4,200.0
+graph-local residual RZZZ,149,5,200.0
+graph-local residual RZZZ,149,6,200.0
+graph-local residual RZZZ,149,7,200.0
+graph-local residual RZZZ,149,8,200.0
+graph-local residual RZZZ,149,9,198.0
+graph-local residual RZZZ,149,10,200.0
+graph-local residual RZZZ,149,11,115.0
+graph-local residual RZZZ,149,12,200.0
+graph-local residual RZZZ,149,13,200.0
+graph-local residual RZZZ,149,14,200.0
+graph-local residual RZZZ,149,15,200.0
+graph-local residual RZZZ,149,16,200.0
+graph-local residual RZZZ,149,17,200.0
+graph-local residual RZZZ,149,18,200.0
+graph-local residual RZZZ,149,19,176.0
+graph-local residual RZZZ,149,20,200.0
+graph-local residual RZZZ,149,21,200.0
+graph-local residual RZZZ,149,22,200.0
+graph-local residual RZZZ,149,23,192.0
+graph-local residual RZZZ,149,24,200.0
+graph-local residual RZZZ,149,25,123.0
+graph-local residual RZZZ,149,26,176.0
+graph-local residual RZZZ,149,27,200.0
+graph-local residual RZZZ,149,28,200.0
+graph-local residual RZZZ,149,29,150.0
+graph-local residual RZZZ,149,30,200.0
+graph-local residual RZZZ,149,31,200.0
+graph-local residual RZZZ,149,32,200.0
+graph-local residual RZZZ,149,33,170.0
+graph-local residual RZZZ,149,34,200.0
+graph-local residual RZZZ,149,35,200.0
+graph-local residual RZZZ,149,36,200.0
+graph-local residual RZZZ,149,37,133.0
+graph-local residual RZZZ,149,38,200.0
+graph-local residual RZZZ,149,39,114.0
+graph-local residual RZZZ,149,40,200.0
+graph-local residual RZZZ,149,41,200.0
+graph-local residual RZZZ,149,42,193.0
+graph-local residual RZZZ,149,43,200.0
+graph-local residual RZZZ,149,44,200.0
+graph-local residual RZZZ,149,45,159.0
+graph-local residual RZZZ,149,46,200.0
+graph-local residual RZZZ,149,47,200.0
+graph-local residual RZZZ,149,48,200.0
+graph-local residual RZZZ,149,49,200.0
+graph-local residual RZZZ,149,50,200.0
+graph-local residual RZZZ,149,51,144.0
+graph-local residual RZZZ,149,52,200.0
+graph-local residual RZZZ,149,53,200.0
+graph-local residual RZZZ,149,54,116.0
+graph-local residual RZZZ,149,55,200.0
+graph-local residual RZZZ,149,56,137.0
+graph-local residual RZZZ,149,57,200.0
+graph-local residual RZZZ,149,58,200.0
+graph-local residual RZZZ,149,59,200.0
+graph-local residual RZZZ,149,60,200.0
+graph-local residual RZZZ,149,61,139.0
+graph-local residual RZZZ,149,62,200.0
+graph-local residual RZZZ,149,63,16.0
+graph-local residual RZZZ,149,64,200.0
+graph-local residual RZZZ,149,65,188.0
+graph-local residual RZZZ,149,66,200.0
+graph-local residual RZZZ,149,67,200.0
+graph-local residual RZZZ,149,68,56.0
+graph-local residual RZZZ,149,69,200.0
+graph-local residual RZZZ,149,70,200.0
+graph-local residual RZZZ,149,71,200.0
+graph-local residual RZZZ,149,72,200.0
+graph-local residual RZZZ,149,73,200.0
+graph-local residual RZZZ,149,74,120.0
+graph-local residual RZZZ,149,75,200.0
+graph-local residual RZZZ,149,76,18.0
+graph-local residual RZZZ,149,77,200.0
+graph-local residual RZZZ,149,78,200.0
+graph-local residual RZZZ,149,79,200.0
+graph-local residual RZZZ,149,80,200.0
+graph-local residual RZZZ,149,81,200.0
+graph-local residual RZZZ,149,82,16.0
+graph-local residual RZZZ,149,83,200.0
+graph-local residual RZZZ,149,84,200.0
+graph-local residual RZZZ,149,85,196.0
+graph-local residual RZZZ,149,86,62.0
+graph-local residual RZZZ,149,87,200.0
+graph-local residual RZZZ,149,88,200.0
+graph-local residual RZZZ,149,89,200.0
+graph-local residual RZZZ,149,90,159.0
+graph-local residual RZZZ,149,91,154.0
+graph-local residual RZZZ,149,92,200.0
+graph-local residual RZZZ,149,93,200.0
+graph-local residual RZZZ,149,94,200.0
+graph-local residual RZZZ,149,95,200.0
+graph-local residual RZZZ,149,96,200.0
+graph-local residual RZZZ,149,97,200.0
+graph-local residual RZZZ,149,98,102.0
+graph-local residual RZZZ,149,99,200.0
+graph-local residual RZZZ,149,100,200.0
+graph-local residual RZZZ,151,1,200.0
+graph-local residual RZZZ,151,2,200.0
+graph-local residual RZZZ,151,3,200.0
+graph-local residual RZZZ,151,4,200.0
+graph-local residual RZZZ,151,5,200.0
+graph-local residual RZZZ,151,6,200.0
+graph-local residual RZZZ,151,7,200.0
+graph-local residual RZZZ,151,8,200.0
+graph-local residual RZZZ,151,9,200.0
+graph-local residual RZZZ,151,10,200.0
+graph-local residual RZZZ,151,11,200.0
+graph-local residual RZZZ,151,12,200.0
+graph-local residual RZZZ,151,13,200.0
+graph-local residual RZZZ,151,14,200.0
+graph-local residual RZZZ,151,15,200.0
+graph-local residual RZZZ,151,16,200.0
+graph-local residual RZZZ,151,17,200.0
+graph-local residual RZZZ,151,18,200.0
+graph-local residual RZZZ,151,19,200.0
+graph-local residual RZZZ,151,20,200.0
+graph-local residual RZZZ,151,21,200.0
+graph-local residual RZZZ,151,22,200.0
+graph-local residual RZZZ,151,23,200.0
+graph-local residual RZZZ,151,24,200.0
+graph-local residual RZZZ,151,25,200.0
+graph-local residual RZZZ,151,26,200.0
+graph-local residual RZZZ,151,27,200.0
+graph-local residual RZZZ,151,28,200.0
+graph-local residual RZZZ,151,29,200.0
+graph-local residual RZZZ,151,30,200.0
+graph-local residual RZZZ,151,31,200.0
+graph-local residual RZZZ,151,32,200.0
+graph-local residual RZZZ,151,33,200.0
+graph-local residual RZZZ,151,34,139.0
+graph-local residual RZZZ,151,35,200.0
+graph-local residual RZZZ,151,36,200.0
+graph-local residual RZZZ,151,37,200.0
+graph-local residual RZZZ,151,38,200.0
+graph-local residual RZZZ,151,39,200.0
+graph-local residual RZZZ,151,40,200.0
+graph-local residual RZZZ,151,41,200.0
+graph-local residual RZZZ,151,42,200.0
+graph-local residual RZZZ,151,43,200.0
+graph-local residual RZZZ,151,44,200.0
+graph-local residual RZZZ,151,45,200.0
+graph-local residual RZZZ,151,46,200.0
+graph-local residual RZZZ,151,47,200.0
+graph-local residual RZZZ,151,48,200.0
+graph-local residual RZZZ,151,49,200.0
+graph-local residual RZZZ,151,50,200.0
+graph-local residual RZZZ,151,51,62.0
+graph-local residual RZZZ,151,52,182.0
+graph-local residual RZZZ,151,53,200.0
+graph-local residual RZZZ,151,54,200.0
+graph-local residual RZZZ,151,55,200.0
+graph-local residual RZZZ,151,56,200.0
+graph-local residual RZZZ,151,57,200.0
+graph-local residual RZZZ,151,58,200.0
+graph-local residual RZZZ,151,59,200.0
+graph-local residual RZZZ,151,60,200.0
+graph-local residual RZZZ,151,61,200.0
+graph-local residual RZZZ,151,62,200.0
+graph-local residual RZZZ,151,63,200.0
+graph-local residual RZZZ,151,64,200.0
+graph-local residual RZZZ,151,65,200.0
+graph-local residual RZZZ,151,66,200.0
+graph-local residual RZZZ,151,67,200.0
+graph-local residual RZZZ,151,68,200.0
+graph-local residual RZZZ,151,69,200.0
+graph-local residual RZZZ,151,70,200.0
+graph-local residual RZZZ,151,71,200.0
+graph-local residual RZZZ,151,72,200.0
+graph-local residual RZZZ,151,73,200.0
+graph-local residual RZZZ,151,74,127.0
+graph-local residual RZZZ,151,75,200.0
+graph-local residual RZZZ,151,76,200.0
+graph-local residual RZZZ,151,77,200.0
+graph-local residual RZZZ,151,78,200.0
+graph-local residual RZZZ,151,79,200.0
+graph-local residual RZZZ,151,80,200.0
+graph-local residual RZZZ,151,81,200.0
+graph-local residual RZZZ,151,82,200.0
+graph-local residual RZZZ,151,83,200.0
+graph-local residual RZZZ,151,84,200.0
+graph-local residual RZZZ,151,85,200.0
+graph-local residual RZZZ,151,86,200.0
+graph-local residual RZZZ,151,87,200.0
+graph-local residual RZZZ,151,88,200.0
+graph-local residual RZZZ,151,89,200.0
+graph-local residual RZZZ,151,90,200.0
+graph-local residual RZZZ,151,91,200.0
+graph-local residual RZZZ,151,92,200.0
+graph-local residual RZZZ,151,93,200.0
+graph-local residual RZZZ,151,94,200.0
+graph-local residual RZZZ,151,95,200.0
+graph-local residual RZZZ,151,96,200.0
+graph-local residual RZZZ,151,97,200.0
+graph-local residual RZZZ,151,98,200.0
+graph-local residual RZZZ,151,99,200.0
+graph-local residual RZZZ,151,100,200.0
+graph-local residual RZZZ,157,1,200.0
+graph-local residual RZZZ,157,2,200.0
+graph-local residual RZZZ,157,3,200.0
+graph-local residual RZZZ,157,4,200.0
+graph-local residual RZZZ,157,5,200.0
+graph-local residual RZZZ,157,6,200.0
+graph-local residual RZZZ,157,7,200.0
+graph-local residual RZZZ,157,8,95.0
+graph-local residual RZZZ,157,9,200.0
+graph-local residual RZZZ,157,10,200.0
+graph-local residual RZZZ,157,11,188.0
+graph-local residual RZZZ,157,12,200.0
+graph-local residual RZZZ,157,13,200.0
+graph-local residual RZZZ,157,14,200.0
+graph-local residual RZZZ,157,15,200.0
+graph-local residual RZZZ,157,16,200.0
+graph-local residual RZZZ,157,17,200.0
+graph-local residual RZZZ,157,18,200.0
+graph-local residual RZZZ,157,19,200.0
+graph-local residual RZZZ,157,20,200.0
+graph-local residual RZZZ,157,21,200.0
+graph-local residual RZZZ,157,22,200.0
+graph-local residual RZZZ,157,23,200.0
+graph-local residual RZZZ,157,24,200.0
+graph-local residual RZZZ,157,25,200.0
+graph-local residual RZZZ,157,26,200.0
+graph-local residual RZZZ,157,27,200.0
+graph-local residual RZZZ,157,28,200.0
+graph-local residual RZZZ,157,29,200.0
+graph-local residual RZZZ,157,30,200.0
+graph-local residual RZZZ,157,31,200.0
+graph-local residual RZZZ,157,32,200.0
+graph-local residual RZZZ,157,33,200.0
+graph-local residual RZZZ,157,34,200.0
+graph-local residual RZZZ,157,35,200.0
+graph-local residual RZZZ,157,36,200.0
+graph-local residual RZZZ,157,37,200.0
+graph-local residual RZZZ,157,38,200.0
+graph-local residual RZZZ,157,39,200.0
+graph-local residual RZZZ,157,40,200.0
+graph-local residual RZZZ,157,41,200.0
+graph-local residual RZZZ,157,42,200.0
+graph-local residual RZZZ,157,43,200.0
+graph-local residual RZZZ,157,44,200.0
+graph-local residual RZZZ,157,45,200.0
+graph-local residual RZZZ,157,46,200.0
+graph-local residual RZZZ,157,47,200.0
+graph-local residual RZZZ,157,48,200.0
+graph-local residual RZZZ,157,49,200.0
+graph-local residual RZZZ,157,50,200.0
+graph-local residual RZZZ,157,51,200.0
+graph-local residual RZZZ,157,52,200.0
+graph-local residual RZZZ,157,53,200.0
+graph-local residual RZZZ,157,54,200.0
+graph-local residual RZZZ,157,55,200.0
+graph-local residual RZZZ,157,56,200.0
+graph-local residual RZZZ,157,57,200.0
+graph-local residual RZZZ,157,58,200.0
+graph-local residual RZZZ,157,59,200.0
+graph-local residual RZZZ,157,60,200.0
+graph-local residual RZZZ,157,61,200.0
+graph-local residual RZZZ,157,62,200.0
+graph-local residual RZZZ,157,63,200.0
+graph-local residual RZZZ,157,64,200.0
+graph-local residual RZZZ,157,65,200.0
+graph-local residual RZZZ,157,66,200.0
+graph-local residual RZZZ,157,67,200.0
+graph-local residual RZZZ,157,68,200.0
+graph-local residual RZZZ,157,69,200.0
+graph-local residual RZZZ,157,70,200.0
+graph-local residual RZZZ,157,71,200.0
+graph-local residual RZZZ,157,72,200.0
+graph-local residual RZZZ,157,73,200.0
+graph-local residual RZZZ,157,74,200.0
+graph-local residual RZZZ,157,75,200.0
+graph-local residual RZZZ,157,76,200.0
+graph-local residual RZZZ,157,77,200.0
+graph-local residual RZZZ,157,78,200.0
+graph-local residual RZZZ,157,79,200.0
+graph-local residual RZZZ,157,80,200.0
+graph-local residual RZZZ,157,81,200.0
+graph-local residual RZZZ,157,82,200.0
+graph-local residual RZZZ,157,83,200.0
+graph-local residual RZZZ,157,84,200.0
+graph-local residual RZZZ,157,85,200.0
+graph-local residual RZZZ,157,86,200.0
+graph-local residual RZZZ,157,87,200.0
+graph-local residual RZZZ,157,88,200.0
+graph-local residual RZZZ,157,89,200.0
+graph-local residual RZZZ,157,90,200.0
+graph-local residual RZZZ,157,91,200.0
+graph-local residual RZZZ,157,92,200.0
+graph-local residual RZZZ,157,93,200.0
+graph-local residual RZZZ,157,94,200.0
+graph-local residual RZZZ,157,95,200.0
+graph-local residual RZZZ,157,96,200.0
+graph-local residual RZZZ,157,97,200.0
+graph-local residual RZZZ,157,98,200.0
+graph-local residual RZZZ,157,99,200.0
+graph-local residual RZZZ,157,100,200.0

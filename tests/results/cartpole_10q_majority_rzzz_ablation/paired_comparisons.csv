@@ -1,0 +1,3 @@
+metric,n_pairs,mean_augmented_minus_baseline,bootstrap_ci95_low,bootstrap_ci95_high
+training_final_50,10,1.902000000000004,-4.890000000000001,11.232050000000012
+heldout_evaluation,10,1.202000000000004,-1.7169999999999987,4.9810250000000105

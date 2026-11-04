@@ -1,0 +1,41 @@
+{
+  "model": "iqp_connected_uniform",
+  "parameters": 139,
+  "qubits": 21,
+  "changed": "All 21 trainable biases, 28 intra-triple interaction angles and 6 bridge angles initialized independently Uniform[-pi,pi].",
+  "unchanged": "Exact connected circuit, global majority, common neural weights bitwise identical per seed, preprocessing, REINFORCE objective and optimizer, learning rate .03, 500 episodes with 200-step limit, five-episode batches, corrected full-100-window freezing rule, and evaluation seed mappings.",
+  "neural_weights": "Original Uniform[0,2pi) weights, unchanged, not Uniform[-pi,pi].",
+  "initialization_stream_offsets": {
+    "bias": 1900000,
+    "interactions": 2000000,
+    "bridges": 2100000
+  },
+  "seeds": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "evaluation_episodes": 100,
+  "initial_audit_episodes": 100,
+  "primary_metrics": "Normalized training AUC=sum(R)/(500*200); first full rolling-100 mean >=195, assigned 501 if unreached.",
+  "comparisons": "Uniform IQP versus original connected IQP and all nine previously locked MLP configurations, pairing seed IDs. Reuse unchanged stored baseline trajectories, no reruns or reselection.",
+  "inference": "Individual paired-bootstrap 95% CIs (50000 resamples), exact two-sided sign-randomization p-values, single Holm correction across 20 follow-up primary comparisons (10 models times 2 metrics). Positive differences favor uniform IQP; solve differences count episodes saved.",
+  "scope": "Requested follow-up on a previously inspected cohort, not a new untouched confirmatory cohort. No tuning, seed selection, or manuscript changes. Preserve all outcomes."
+}

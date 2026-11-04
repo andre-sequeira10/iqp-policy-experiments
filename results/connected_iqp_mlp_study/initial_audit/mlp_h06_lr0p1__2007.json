@@ -1,0 +1,6 @@
+{
+  "name": "mlp_h06_lr0p1",
+  "seed": 2007,
+  "initial_return": 26.94,
+  "episodes": 100
+}

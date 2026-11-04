@@ -1,0 +1,94 @@
+{
+  "run_id": "expander_10_L1__uniform_rzzz__seed_131",
+  "seed": 131,
+  "condition": "uniform_rzzz",
+  "n_qubits": 10,
+  "depth": 1,
+  "measurement_wires": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "n_rzzz_gates": 10,
+  "triples": [
+    [
+      0,
+      5,
+      6
+    ],
+    [
+      1,
+      4,
+      7
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      3,
+      4,
+      7
+    ],
+    [
+      3,
+      4,
+      9
+    ],
+    [
+      0,
+      5,
+      8
+    ],
+    [
+      2,
+      5,
+      6
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      2,
+      8,
+      9
+    ],
+    [
+      3,
+      8,
+      9
+    ]
+  ],
+  "n_parameters": 75,
+  "initial_shared_parameter_sha256": "e6413597a15e73248e1760778aa9e79529799d6da4cbfcdfc770c2bb7640f487",
+  "declared_initial_parameter_sha256": "e6413597a15e73248e1760778aa9e79529799d6da4cbfcdfc770c2bb7640f487",
+  "initial_rzzz_parameter_sha256": "b97d53b22f6a5b04a4deefb96b940d9355dda385a37101a98cc182d0a5e9f691",
+  "base_learning_rate": 0.03,
+  "rzzz_learning_rate": 0.03,
+  "rzzz_initialization": "uniform[0,2pi)",
+  "execution_backend": "validated_analytic_torch_statevector",
+  "measurement_path": "nine_bit_majority_exact_probabilities",
+  "training_final_50": 198.78,
+  "normalized_training_auc": 0.7704099999999999,
+  "evaluation_mean": 198.86,
+  "evaluation_std": 11.400000000000002,
+  "strict_solved_episode": 375.0,
+  "optimizer_freeze_episode": 375.0,
+  "optimizer_updates": 74,
+  "training_forward_circuit_calls": 77041,
+  "evaluation_forward_circuit_calls": 19886,
+  "training_seconds": 178.75047749999794,
+  "evaluation_seconds": 14.68703808299324,
+  "total_seconds": 193.45017583300069,
+  "checkpoint_npz": "./tests/results/cartpole_10q_graph_local_rzzz_uniform_ablation/runs/expander_10_L1__uniform_rzzz__seed_131.npz",
+  "checkpoint_pt": "./tests/results/cartpole_10q_graph_local_rzzz_uniform_ablation/runs/expander_10_L1__uniform_rzzz__seed_131.pt"
+}

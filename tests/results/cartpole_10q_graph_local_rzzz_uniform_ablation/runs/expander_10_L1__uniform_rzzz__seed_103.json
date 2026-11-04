@@ -1,0 +1,94 @@
+{
+  "run_id": "expander_10_L1__uniform_rzzz__seed_103",
+  "seed": 103,
+  "condition": "uniform_rzzz",
+  "n_qubits": 10,
+  "depth": 1,
+  "measurement_wires": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "n_rzzz_gates": 10,
+  "triples": [
+    [
+      0,
+      5,
+      6
+    ],
+    [
+      1,
+      4,
+      7
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      3,
+      4,
+      7
+    ],
+    [
+      3,
+      4,
+      9
+    ],
+    [
+      0,
+      5,
+      8
+    ],
+    [
+      2,
+      5,
+      6
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      2,
+      8,
+      9
+    ],
+    [
+      3,
+      8,
+      9
+    ]
+  ],
+  "n_parameters": 75,
+  "initial_shared_parameter_sha256": "7bab5ae930dcb04d454e092484384a2406f6327f3a49797370bcfeac0320f30d",
+  "declared_initial_parameter_sha256": "7bab5ae930dcb04d454e092484384a2406f6327f3a49797370bcfeac0320f30d",
+  "initial_rzzz_parameter_sha256": "956a43b8ab22877c78aa5faa3ffb5a84a48e8b9e84bee4fd554b62c9cb5a874d",
+  "base_learning_rate": 0.03,
+  "rzzz_learning_rate": 0.03,
+  "rzzz_initialization": "uniform[0,2pi)",
+  "execution_backend": "validated_analytic_torch_statevector",
+  "measurement_path": "nine_bit_majority_exact_probabilities",
+  "training_final_50": 190.1,
+  "normalized_training_auc": 0.49473999999999996,
+  "evaluation_mean": 193.63,
+  "evaluation_std": 27.686796255050652,
+  "strict_solved_episode": NaN,
+  "optimizer_freeze_episode": NaN,
+  "optimizer_updates": 100,
+  "training_forward_circuit_calls": 49474,
+  "evaluation_forward_circuit_calls": 19363,
+  "training_seconds": 136.74309625000024,
+  "evaluation_seconds": 13.589998125004058,
+  "total_seconds": 150.34165420800127,
+  "checkpoint_npz": "./tests/results/cartpole_10q_graph_local_rzzz_uniform_ablation/runs/expander_10_L1__uniform_rzzz__seed_103.npz",
+  "checkpoint_pt": "./tests/results/cartpole_10q_graph_local_rzzz_uniform_ablation/runs/expander_10_L1__uniform_rzzz__seed_103.pt"
+}

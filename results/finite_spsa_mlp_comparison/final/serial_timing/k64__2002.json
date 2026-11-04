@@ -1,0 +1,9 @@
+{
+  "model": "k64",
+  "seed": 2002,
+  "training_seconds": 245.53052887500962,
+  "training_cpu_seconds": 233.9076530000001,
+  "criterion_episode": 244,
+  "seconds_to_criterion": 224.00224845902994,
+  "trajectory_exactly_reproduced": true
+}

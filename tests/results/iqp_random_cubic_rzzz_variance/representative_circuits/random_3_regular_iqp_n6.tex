@@ -1,0 +1,18 @@
+\documentclass[tikz,border=4pt]{standalone}
+\usepackage{xcolor}
+\usepackage{quantikz}
+\usetikzlibrary{fit}
+\definecolor{qaspSingleGate}{HTML}{7950C5}
+\definecolor{qaspTwoQubitGate}{HTML}{E07A2D}
+\definecolor{qaspMultiQubitGate}{HTML}{00A6A6}
+\definecolor{qaspMeasurement}{HTML}{2E8B57}
+\begin{document}
+\begin{quantikz}[row sep=0.24cm, column sep=0.10cm]
+\lstick{$q_{1}$} & \gate[style={fill=qaspSingleGate}]{H} & \gate[style={fill=qaspSingleGate}]{R_z(\theta_{1})} & \gate[wires=2, style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{7})} & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{8})}\vqw{4} & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{9})}\vqw{5} & \gate[style={fill=qaspSingleGate}]{H} & \qw & \qw & \qw & \qw & \qw & \qw & \meter[style={fill=qaspMeasurement}]{} & \qw \\
+\lstick{$q_{2}$} & \gate[style={fill=qaspSingleGate}]{H} & \gate[style={fill=qaspSingleGate}]{R_z(\theta_{2})} & \qw & \qw & \qw & \gate[wires=2, style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{10})} & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{11})}\vqw{2} & \gate[style={fill=qaspSingleGate}]{H} & \qw & \qw & \qw & \qw & \meter[style={fill=qaspMeasurement}]{} & \qw \\
+\lstick{$q_{3}$} & \gate[style={fill=qaspSingleGate}]{H} & \gate[style={fill=qaspSingleGate}]{R_z(\theta_{3})} & \qw & \qw & \qw & \qw & \qw & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{12})}\vqw{2} & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{13})}\vqw{3} & \gate[style={fill=qaspSingleGate}]{H} & \qw & \qw & \meter[style={fill=qaspMeasurement}]{} & \qw \\
+\lstick{$q_{4}$} & \gate[style={fill=qaspSingleGate}]{H} & \gate[style={fill=qaspSingleGate}]{R_z(\theta_{4})} & \qw & \qw & \qw & \qw & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{11})} & \qw & \qw & \gate[wires=2, style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{14})} & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{15})}\vqw{2} & \gate[style={fill=qaspSingleGate}]{H} & \meter[style={fill=qaspMeasurement}]{} & \qw \\
+\lstick{$q_{5}$} & \gate[style={fill=qaspSingleGate}]{H} & \gate[style={fill=qaspSingleGate}]{R_z(\theta_{5})} & \qw & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{8})} & \qw & \qw & \qw & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{12})} & \qw & \qw & \qw & \gate[style={fill=qaspSingleGate}]{H} & \meter[style={fill=qaspMeasurement}]{} & \qw \\
+\lstick{$q_{6}$} & \gate[style={fill=qaspSingleGate}]{H} & \gate[style={fill=qaspSingleGate}]{R_z(\theta_{6})} & \qw & \qw & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{9})} & \qw & \qw & \qw & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{13})} & \qw & \gate[style={fill=qaspTwoQubitGate}]{R_{ZZ}(\theta_{15})} & \gate[style={fill=qaspSingleGate}]{H} & \meter[style={fill=qaspMeasurement}]{} & \qw \\
+\end{quantikz}
+\end{document}

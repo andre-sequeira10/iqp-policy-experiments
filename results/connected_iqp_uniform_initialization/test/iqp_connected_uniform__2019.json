@@ -1,0 +1,15 @@
+{
+  "name": "iqp_connected_uniform",
+  "seed": 2019,
+  "parameters": 139,
+  "lr": 0.03,
+  "auc": 0.8064100000000001,
+  "solve_episode": 250,
+  "final50": 199.28,
+  "heldout": 199.57,
+  "initial_return": 24.59,
+  "freeze_episode": 250,
+  "updates": 49,
+  "seconds": 75.83252382278442,
+  "initial_hash": "69dc4c6ddd1acae2019fca5f6a06241ac9e66abfae63e8c6fcce9d36fc371c0d"
+}

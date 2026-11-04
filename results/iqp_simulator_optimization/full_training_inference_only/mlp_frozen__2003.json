@@ -1,0 +1,16 @@
+{
+  "method": "mlp_frozen",
+  "seed": 2003,
+  "training_seconds": 8.976466917025391,
+  "cpu_seconds": 8.375899,
+  "compilation_seconds": 0.0,
+  "returns_bitwise_equal": true,
+  "final_state_bitwise_equal": true,
+  "max_state_error": 0.0,
+  "freeze_episode": 350,
+  "updates": 69,
+  "auc": 0.84847,
+  "criterion_episode": 350,
+  "freeze_equal": true,
+  "updates_equal": true
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "model": "iqp2body_7_0.15",
+    "native_and_batched_returns": [
+      [
+        31.0,
+        28.0,
+        59.0,
+        35.0,
+        39.0
+      ],
+      [
+        31.0,
+        28.0,
+        59.0,
+        35.0,
+        39.0
+      ]
+    ],
+    "max_parameter_difference_after_update": 0.0
+  },
+  {
+    "model": "mlp",
+    "native_and_batched_returns": [
+      [
+        30.0,
+        16.0,
+        24.0,
+        18.0,
+        26.0
+      ],
+      [
+        30.0,
+        16.0,
+        24.0,
+        18.0,
+        26.0
+      ]
+    ],
+    "max_parameter_difference_after_update": 2.9802322387695312e-08
+  },
+  {
+    "model": "iqpblocksbalanced_21_0.15",
+    "native_and_batched_returns": [
+      [
+        31.0,
+        28.0,
+        40.0,
+        40.0,
+        36.0
+      ],
+      [
+        31.0,
+        28.0,
+        40.0,
+        40.0,
+        36.0
+      ]
+    ],
+    "max_parameter_difference_after_update": 1.7695128917694092e-07
+  }
+]

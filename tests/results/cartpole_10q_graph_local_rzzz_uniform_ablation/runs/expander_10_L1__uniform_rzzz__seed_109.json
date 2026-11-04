@@ -1,0 +1,94 @@
+{
+  "run_id": "expander_10_L1__uniform_rzzz__seed_109",
+  "seed": 109,
+  "condition": "uniform_rzzz",
+  "n_qubits": 10,
+  "depth": 1,
+  "measurement_wires": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "n_rzzz_gates": 10,
+  "triples": [
+    [
+      0,
+      5,
+      6
+    ],
+    [
+      1,
+      4,
+      7
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      3,
+      4,
+      7
+    ],
+    [
+      3,
+      4,
+      9
+    ],
+    [
+      0,
+      5,
+      8
+    ],
+    [
+      2,
+      5,
+      6
+    ],
+    [
+      0,
+      1,
+      7
+    ],
+    [
+      2,
+      8,
+      9
+    ],
+    [
+      3,
+      8,
+      9
+    ]
+  ],
+  "n_parameters": 75,
+  "initial_shared_parameter_sha256": "d7f2247501f98bb504d1d340eb665b46d73446b64725414496ea13398f64a89f",
+  "declared_initial_parameter_sha256": "d7f2247501f98bb504d1d340eb665b46d73446b64725414496ea13398f64a89f",
+  "initial_rzzz_parameter_sha256": "4a1cf237c055d37bd10a5c725a2c86959bf25ab15d9192f628d4097e69fbb5a6",
+  "base_learning_rate": 0.03,
+  "rzzz_learning_rate": 0.03,
+  "rzzz_initialization": "uniform[0,2pi)",
+  "execution_backend": "validated_analytic_torch_statevector",
+  "measurement_path": "nine_bit_majority_exact_probabilities",
+  "training_final_50": 198.32,
+  "normalized_training_auc": 0.69134,
+  "evaluation_mean": 198.89,
+  "evaluation_std": 11.099999999999996,
+  "strict_solved_episode": 392.0,
+  "optimizer_freeze_episode": 395.0,
+  "optimizer_updates": 78,
+  "training_forward_circuit_calls": 69134,
+  "evaluation_forward_circuit_calls": 19889,
+  "training_seconds": 158.9220335420032,
+  "evaluation_seconds": 15.090119042004517,
+  "total_seconds": 174.02040804200078,
+  "checkpoint_npz": "./tests/results/cartpole_10q_graph_local_rzzz_uniform_ablation/runs/expander_10_L1__uniform_rzzz__seed_109.npz",
+  "checkpoint_pt": "./tests/results/cartpole_10q_graph_local_rzzz_uniform_ablation/runs/expander_10_L1__uniform_rzzz__seed_109.pt"
+}

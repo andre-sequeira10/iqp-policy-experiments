@@ -1,0 +1,3 @@
+condition,n_seeds,mean_normalized_training_auc,sem_normalized_training_auc,mean_training_final_50,sem_training_final_50,mean_heldout_evaluation,sem_heldout_evaluation,strict_solved_seed_fraction,mean_restricted_solve_episode
+baseline majority,20,0.5550729999999999,0.030605881470379955,192.49399999999997,2.2448725670080383,193.42450000000002,1.7777208168414909,0.55,442.65
+graph-local RZZZ (matched uniform),20,0.6167515000000001,0.025709715747727496,194.15399999999997,1.4530360954693597,195.399,1.0780903926558487,0.5,434.55

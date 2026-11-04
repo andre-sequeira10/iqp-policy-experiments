@@ -1,0 +1,107 @@
+{
+  "initialization_checks": [
+    {
+      "seed": 2001,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2002,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2003,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2004,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2005,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2006,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2007,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2008,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2009,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2010,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2011,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2012,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2013,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2014,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2015,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2016,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2017,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2018,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2019,
+      "neural_weights_identical": true,
+      "parameters": 139
+    },
+    {
+      "seed": 2020,
+      "neural_weights_identical": true,
+      "parameters": 139
+    }
+  ],
+  "n9_max_probability_error": 4.070163622804657e-08,
+  "same_native_training_trajectories": true,
+  "max_training_parameter_error": 5.960464477539063e-08
+}

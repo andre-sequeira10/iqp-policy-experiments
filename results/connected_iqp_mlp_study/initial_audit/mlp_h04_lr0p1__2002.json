@@ -1,0 +1,6 @@
+{
+  "name": "mlp_h04_lr0p1",
+  "seed": 2002,
+  "initial_return": 17.82,
+  "episodes": 100
+}

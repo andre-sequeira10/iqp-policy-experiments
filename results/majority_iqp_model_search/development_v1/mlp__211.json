@@ -1,0 +1,16 @@
+{
+  "model": {
+    "name": "mlp",
+    "hidden": 9
+  },
+  "seed": 211,
+  "phase": "development_v1",
+  "episodes": 500,
+  "auc": 0.82292,
+  "restricted_solve_episode": 362,
+  "final50": 200.0,
+  "heldout": 200.0,
+  "parameters": 65,
+  "seconds": 12.769781112670898,
+  "initial_sha256": "e2a7d8b95f679f683e91928760da9f2613e18fd030d0c213e08782d9a7fa4f65"
+}

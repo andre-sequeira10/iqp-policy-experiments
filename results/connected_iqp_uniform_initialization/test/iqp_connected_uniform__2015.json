@@ -1,0 +1,15 @@
+{
+  "name": "iqp_connected_uniform",
+  "seed": 2015,
+  "parameters": 139,
+  "lr": 0.03,
+  "auc": 0.87035,
+  "solve_episode": 226,
+  "final50": 200.0,
+  "heldout": 197.9,
+  "initial_return": 28.53,
+  "freeze_episode": 230,
+  "updates": 45,
+  "seconds": 97.27553296089172,
+  "initial_hash": "afc38173968755c94c1f0ed36b7b302db3c817703ce4b228b5a6cfb49f21536f"
+}
